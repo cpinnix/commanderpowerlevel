@@ -16,12 +16,18 @@ import CommanderWeights from "@/weights/commander.csv";
 import PowerWeights from "@/weights/power.csv";
 import PepperWeights from "@/weights/pepper.csv";
 import SaltWeights from "@/weights/salt.csv";
+import Image from "next/image";
+import Logo from "@/images/logo.png";
 
 export default function PowerLevelForm() {
   const [deckListInput, setDeckListInput] = useState(``);
 
   return (
-    <div>
+    <div
+      {...{
+        className: cn(`px-6`),
+      }}
+    >
       <header
         {...{
           className: cn(`container`, `mx-auto`),
@@ -32,7 +38,13 @@ export default function PowerLevelForm() {
             className: cn(`my-4`),
           }}
         >
-          Commander Power Level
+          <Image
+            {...{
+              alt: "Logo",
+              src: Logo,
+              width: 96,
+            }}
+          />
         </h1>
         <Separator />
       </header>
@@ -43,7 +55,7 @@ export default function PowerLevelForm() {
       >
         <div
           {...{
-            className: cn(`grid`, `grid-cols-4`, `gap-4`),
+            className: cn(`grid`, `grid-cols-2`, `md:grid-cols-4`, `gap-4`),
           }}
         >
           <Card>
