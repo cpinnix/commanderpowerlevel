@@ -14,6 +14,7 @@ import { cn } from "@/lib/utils";
 import { useState } from "react";
 import CommanderWeights from "@/weights/commander.csv";
 import PowerWeights from "@/weights/power.csv";
+import PepperWeights from "@/weights/pepper.csv";
 import SaltWeights from "@/weights/salt.csv";
 
 export default function PowerLevelForm() {
@@ -42,7 +43,7 @@ export default function PowerLevelForm() {
       >
         <div
           {...{
-            className: cn(`grid`, `grid-cols-3`, `gap-4`),
+            className: cn(`grid`, `grid-cols-4`, `gap-4`),
           }}
         >
           <Card>
@@ -97,6 +98,38 @@ export default function PowerLevelForm() {
 
                     const weight =
                       PowerWeights.find((row) => row.name === name)?.weight ||
+                      5;
+
+                    return score + weight * count;
+                  }, 0);
+
+                  return score;
+                } catch (error) {
+                  return <p>Doh! There was an issue.</p>;
+                }
+              })()}
+            </CardContent>
+          </Card>
+          <Card>
+            <CardHeader>
+              <CardTitle>Pepper Score</CardTitle>
+            </CardHeader>
+            <CardContent>
+              {(() => {
+                try {
+                  const deckList = deckListInput
+                    .split("\n")
+                    .map((raw) => raw.split(" "))
+                    .map((parts) => ({
+                      count: parseInt(parts[0]),
+                      name: parts.slice(1, -2).join(" "),
+                    }));
+
+                  const score = deckList.reduce((score, card) => {
+                    const { name, count } = card;
+
+                    const weight =
+                      PepperWeights.find((row) => row.name === name)?.weight ||
                       5;
 
                     return score + weight * count;

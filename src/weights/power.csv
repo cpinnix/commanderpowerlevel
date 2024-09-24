@@ -1,4 +1,70 @@
-name,weight
-"Jeweled Lotus",8
-"Mana Crypt",8
-"Sol Ring",8
+name,weight,tags
+Jeweled Lotus,8,manarock
+Mana Crypt,8,manarock
+Sol Ring,8,manarock
+Arcane Signet,5,manarock
+Island,1,landbasic
+Forest,1,landbasic
+Swamp,1,landbasic
+Mountain,1,landbasic
+Plains,1,landbasic
+Arid Mesa,5,landfetch
+Bloodstained Mire,5,landfetch
+Flooded Strand,5,landfetch
+Marsh Flats,5,landfetch
+Misty Rainforest,5,landfetch
+Polluted Delta,5,landfetch
+Scalding Tarn,5,landfetch
+Verdant Catacombs,5,landfetch
+Windswept Heath,5,landfetch
+Wooded Foothills,5,landfetch
+Blood Crypt,5,landshock
+Breeding Pool,5,landshock
+Godless Shrine,5,landshock
+Hallowed Fountain,5,landshock
+Overgrown Tomb,5,landshock
+Sacred Foundry,5,landshock
+Steam Vents,5,landshock
+Stomping Ground,5,landshock
+Temple Garden,5,landshock
+Watery Grave,5,landshock
+Badlands,5,landdual
+Bayou,5,landdual
+Plateau,5,landdual
+Savannah,5,landdual
+Scrubland,5,landdual
+Taiga,5,landdual
+Tropical Island,5,landdual
+Tundra,5,landdual
+Underground Sea,5,landdual
+Volcanic Island,5,landdual
+Bountiful Promenade,5,landbond
+Luxury Suite,5,landbond
+Morphic Pool,5,landbond
+Rejuvenating Springs,5,landbond
+Sea of Clouds,5,landbond
+Spectator Seating,5,landbond
+Spire Garden,5,landbond
+Training Center,5,landbond
+Undergrowth Stadium,5,landbond
+Vault of Champions,5,landbond
+Adarkar Wastes,5,landpain
+Battlefield Forge,5,landpain
+Brushland,5,landpain
+Caves of Koilos,5,landpain
+Karplusan Forest,5,landpain
+Llanowar Wastes,5,landpain
+Shivan Reef,5,landpain
+Sulfurous Springs,5,landpain
+Underground River,5,landpain
+Yavimaya Coast,5,landpain
+Temple of Abandon,5,landscry
+Temple of Deceit,5,landscry
+Temple of Enlightenment,5,landscry
+Temple of Epiphany,5,landscry
+Temple of Malady,5,landscry
+Temple of Malice,5,landscry
+Temple of Mystery,5,landscry
+Temple of Plenty,5,landscry
+Temple of Silence,5,landscry
+Temple of Triumph,5,landscry

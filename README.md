@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Commander Power Level
 
-## Getting Started
+## Purpose
 
-First, run the development server:
+General idea is to provide the ability to quickly gauge the power level of a commander deck using crowdsourced weights.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+There are three weights used to generate three scores: Commander Weights, Power Weights, and Salt Weights. These weights are maintained in CSV files and can be collaborative modified in this repository.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Scores
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Commander Score
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+The Commander Score is a rough indicator of whole deck synergy power potential. To avoid having a complicated technical system to analyze the power of synergies within a given commander deck, the deck's commander is used as a proxy for a deck's power potential through card interactions.
 
-## Learn More
+The Commander Score is a number between 0 and 1000. 1000 being a mythical god commander that can never be beat; it'd probably have an eminence ability that says you win the game at the beginning of your first upkeep or something.
 
-To learn more about Next.js, take a look at the following resources:
+#### Guidelines
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+##### 0 - 400
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+##### 400 - 600
 
-## Deploy on Vercel
+##### 600
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+##### 700
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+##### 800
+
+##### 900
+
+### Power Score
+
+The Power Score describes how powerful individual cards are on their own. The Power Score indicates how generically powerful a deck is. There are cards in commander that can be placed in pretty much any deck and increase the power level of the deck.
+
+The Power Score is a number between 0 and 1000. Each card has a Power Weight between 0 and 10. 100 cards in a deck multiplied by all the weights will give the total Power Score for a deck.
