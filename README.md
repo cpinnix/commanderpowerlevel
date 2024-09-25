@@ -4,17 +4,9 @@
 
 **Provide an open source commander deck power level tool to aid the rule zero discussion.**
 
-## What This Is
+## Approach
 
-Provide the ability to quickly gauge the power level of any commander deck using crowdsourced weights.
-
-There are three weights used to generate three levels:
-
-- Commander Weights to generate a Commander Level
-- Power Weights to generate a Power Level
-- Pepper Weights to generate a Pepper Level
-
-These weights are maintained in CSV files and can be collaboratively modified in this repository.
+Use crowdsourced weights in combination with a simple web application to calculate a decks levels. Commander, Power, and Pepper weights are used to calculate a decks respective levels. These weights are maintained in CSV files and can be collaboratively modified in this repository.
 
 ### Values
 
@@ -32,7 +24,7 @@ Commander is complicated. There are countless potential interactions and new car
 
 #### Rule Zero
 
-Before playing, having a rule zero discussion is the solution for curating the experience players are looking for. Players are going to sit down with one another for 30 minutes or more, the least they should do is talk about how powerful their decks are.
+Before playing, having a Rule Zero discussion is the solution for curating the experience players are looking for. Players are going to sit down with one another for 30 minutes or more, the least they should do is talk about how powerful their decks are. Technological can help inform the Rule Zero discussion.
 
 #### Open Source
 
@@ -44,13 +36,13 @@ Given the flexibility of commander and the range of experiences players are look
 
 The Commander Level is a rough indicator of whole deck synergy power potential. To avoid having a complicated technical system to analyze the power of synergies within a given commander deck, the deck's commander is used as a proxy for a deck's power potential through card interactions.
 
-The Commander Level is a number between 0 and 1000. 1000 being a mythical god commander that can never be beat; it'd probably have an eminence ability that says you win the game at the beginning of your first upkeep or something.
+The Commander Level is a number between 0 and 10. 10 being a mythical god commander that can never be beat; it'd probably have an eminence ability that says you win the game at the beginning of your first upkeep or something.
 
 #### Guidelines
 
 ##### 9
 
-Commanders leveld in the nines should be top tier within the format. These commanders should:
+Commanders in the nines should be top tier within the format. These commanders should:
 
 - Be among the top tier in competitive commander rankings.
 - Usually facilitate interactions that can win the game before turn 4.
@@ -61,7 +53,7 @@ Examples:
 
 ##### 8
 
-Commanders leveld in the eights should enable powerful competitive builds but are not necessarily top tier in competitive rankings. These commanders should:
+Commanders in the eights should enable powerful competitive builds but are not necessarily top tier in competitive rankings. These commanders should:
 
 - Be among the middle in the competitive commander rankings.
 - Usually facilitate interactions that can win the game before turn 6.
@@ -72,7 +64,7 @@ Examples:
 
 ##### 7
 
-Commanders leveld in the sevens should be the top of casual builds. These commanders should:
+Commanders in the sevens should be the top of casual builds. These commanders should:
 
 - Be powerful but not overly scary in unoptimized pods.
 - Usually facilitate interactions that can win the game before turn 8.
@@ -83,7 +75,7 @@ Examples:
 
 ##### 6
 
-Commanders leveld in the sixes should be experimental, unoptimized, but still able to win the game. These commanders should:
+Commanders in the sixes should be experimental, unoptimized, but still able to win the game. These commanders should:
 
 - Be unable to hang with eights.
 - Can win the game eventually.
@@ -94,9 +86,9 @@ Examples:
 
 ##### 5
 
-Commanders leveld in the fives are highly janky and experimental. These commanders should:
+Commanders in the fives are highly janky and experimental. These commanders should:
 
-- Be playing around with mechanic or play patterns.
+- Be playing around with mechanics.
 - Not winning like crazy.
 
 Examples:
@@ -105,9 +97,7 @@ Examples:
 
 ##### 4 or less
 
-Commanders leveld in the fours or under are not doing much in the commander zone. These commanders should:
-
-- Be obviously not doing anything much.
+Commanders in the fours or under are not doing much in the command zone.
 
 Examples:
 
@@ -202,6 +192,7 @@ Example:
 Cards in the threes are bulk cards that aren't lands but really don't do anything special. These cards should:
 
 - Be creatures, instants, sorceries that are probably bulk.
+- Some weaker dual lands.
 
 Examples:
 
