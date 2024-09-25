@@ -1,42 +1,48 @@
 # Commander Power Levels
 
-## Mission
+## Philosophy and Approach
 
-**Provide an open source commander deck power level tool to aid the rule zero discussion.**
+Commander is a complex game with many power levels and subgroups. Instead of relying on a small group to manage the format, this project offers an alternative: an open-source, community-driven tool for calculating power levels to enhance Rule Zero discussions.
 
-## Approach
+**This project aims to equip Commander players with the tools and information needed for clearer, more productive Rule Zero conversations.**
 
-Use crowdsourced weights in combination with a simple web application to calculate a decks levels. Commander, Power, and Pepper weights are used to calculate a decks respective levels. These weights are maintained in CSV files and can be collaboratively modified in this repository.
+This project uses crowd-sourced weights, paired with a simple web application, to provide quick insights into a deck’s power and gameplay experience. Three key metrics — Commander, Power, and Pepper — are calculated based on these weights.
+
+Weights offer a more quantitative method for assessing power level by replacing subjective rules of thumb with measurable values. By assigning specific numerical weights to cards, players can analyze deck strength in a consistent, data-driven way. This reduces the ambiguity often associated with determining power level in the Rule Zero discussion and as a result, should improve the following gameplay experience.
+
+Weights are maintained in CSV files and can be collaboratively modified in this repository. They're simply card names matched up with a number from 0 to 10. A weight's meaning depends on the level it pertains to; more details below.
+
+Through the web application, players can copy and paste their Moxfield decklist and quickly get stats that others can easily interpret. While approximate, these stats should help playgroups assess pod balance.
 
 ### Values
 
 #### Fun
 
-Commander should be fun. The idea is to get together with your friends and have a good time. Players should feel like they're socializing. Games should draw players into participation with a healthy rate of play and interesting interactions.
+Commander should be fun. The focus is on enjoying time with friends, fostering social interaction, and creating games that engage players with a healthy pace and dynamic interactions. Tools should help make games fun.
 
 #### Flexibility
 
-Commander is a flexible format. A commander game can range from low powered explorations to high powered competitions. Players may want to: play an evenly matched game, experiment with janky builds, play with more than 4 players, invent new rules, start the game with Descent into Avernus, play out of cubes. There are a near endless amount of possibilities for a commander game.
+Commander is a highly adaptable format. Whether aiming for balanced competition, experimenting with creative builds, playing with custom rules, or exploring new gameplay styles, the possibilities are endless. Tools should be flexible enough to support the creativity of Commander.
 
 #### Analysis
 
-Commander is complicated. There are countless potential interactions and new cards are printed constantly. We shouldn't expect a player to accurately gauge the power level of their deck without help from analysis tools.
+Commander’s complexity, with its vast card pool and constant updates, makes power assessment difficult. Analytical tools can assist players in gauging their deck’s power more accurately.
 
 #### Rule Zero
 
-Before playing, having a Rule Zero discussion is the solution for curating the experience players are looking for. Players are going to sit down with one another for 30 minutes or more, the least they should do is talk about how powerful their decks are. Technological can help inform the Rule Zero discussion.
+A Rule Zero discussion sets the stage for an enjoyable game. Since players will spend significant time together, a brief conversation about deck power levels is essential. Technology can aid this process.
 
 #### Open Source
 
-Given the flexibility of commander and the range of experiences players are looking for, the goal is to provide a powerful suite of tools to allow players to craft the experience they are looking for. Open source techniques are a well established way of maintaining complex systems from 3D editing software, to encyclopedias, to artificial intelligences. Open source can help the commander community and its parts craft amazing player experiences.
+Commander’s diversity calls for robust tools that cater to various player experiences. Open-source methods, proven in managing complex software systems, artificial intelligences, and encyclopedias, can help the community create amazing gameplay experiences.
 
 ## Levels
 
 ### Commander Level
 
-The Commander Level is a rough indicator of whole deck synergy power potential. To avoid having a complicated technical system to analyze the power of synergies within a given commander deck, the deck's commander is used as a proxy for a deck's power potential through card interactions.
+The Commander Level serves as a rough measure of a deck’s synergy and power potential, using the deck’s commander as a proxy for its overall strength.
 
-The Commander Level is a number between 0 and 10. 10 being a mythical god commander that can never be beat; it'd probably have an eminence ability that says you win the game at the beginning of your first upkeep or something.
+This level ranges from 0 to 10, with 10 representing an unbeatable, god-like commander — something akin to a commander with an eminence ability that wins the game at the start of your first upkeep.
 
 #### Guidelines
 
@@ -44,7 +50,7 @@ The Commander Level is a number between 0 and 10. 10 being a mythical god comman
 
 Commanders in the nines should be top tier within the format. These commanders should:
 
-- Be among the top tier in competitive commander rankings.
+- Be among the top tier in competitive Commander rankings.
 - Usually facilitate interactions that can win the game before turn 4.
 
 Examples:
@@ -55,7 +61,7 @@ Examples:
 
 Commanders in the eights should enable powerful competitive builds but are not necessarily top tier in competitive rankings. These commanders should:
 
-- Be among the middle in the competitive commander rankings.
+- Be among the middle in the competitive Commander rankings.
 - Usually facilitate interactions that can win the game before turn 6.
 
 Examples:
@@ -97,13 +103,13 @@ Examples:
 
 ##### 4 or less
 
-Commanders in the fours or under are not doing much in the command zone.
+Commanders in the fours or under are not doing much in the Command Zone.
 
 Examples:
 
 ### Power Level
 
-The Power Level for an individual card indicates how generically powerful it is within the commander format. The Power Level for a deck indicates how generically powerful a deck is within the commander format. There are cards in commander that can be placed in pretty much any deck and increase the power level of the deck. There are also cards that are generically weak like basic lands.
+The Power Level for an individual card indicates how generically powerful it is within the Commander format. The Power Level for a deck indicates how generically powerful a deck is within the Commander format. There are cards in Commander that can be placed in pretty much any deck and increase the power level of the deck. There are also cards that are generically weak like basic lands.
 
 The Power Level is a number between 0 and 10. Each card has a Power Weight between 0 and 10. 100 cards in a deck multiplied by all the weights divided by 100 will give the total Power Level for a deck.
 
@@ -154,7 +160,7 @@ Example:
 
 ##### 6
 
-Cards in the sixes should be found in standard pre-cons but are still generically good. The would be your commander staples. These cards should:
+Cards in the sixes should be found in standard pre-cons but are still generically good. The would be your Commander staples. These cards should:
 
 - Be generally good in any deck.
 - Synergize well with some deck strategies, but not most.
@@ -168,9 +174,9 @@ Example:
 
 ##### 5
 
-Cards in the fives are average cards and might be commander or strategy specific. These cards should:
+Cards in the fives are average cards and might be Commander or strategy specific. These cards should:
 
-- Support the commander, but aren't too great outside.
+- Support the Commander, but aren't too great outside.
 - Might have come in the pre-con and just missed the cut.
 
 Examples:
@@ -180,9 +186,9 @@ Examples:
 
 ##### 4
 
-Cards in the fours are weaker cards specific to a commander and might be a bit janky. Could only show up for thematic reasons. These cards should:
+Cards in the fours are weaker cards specific to a Commander and might be a bit janky. Could only show up for thematic reasons. These cards should:
 
-- Be quite weak and commander specific.
+- Be quite weak and Commander specific.
 - Maybe are in the deck for thematic reasons.
 
 Example:
@@ -216,7 +222,7 @@ Examples:
 
 ### Pepper Level
 
-The Pepper Level indicates how generically fun or friendly a card is. The Pepper Level for a card indicates how excited players are to play against it. The Pepper Level is the opposite of a Salt level.
+The Pepper Level indicates how generically fun or friendly a card is. The Pepper Level for a card indicates how excited players are to play against it. A particularly salty card will have a low Pepper Level.
 
 #### Guidelines
 
