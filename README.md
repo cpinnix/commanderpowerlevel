@@ -1,10 +1,38 @@
 # Commander Power Level
 
+## Mission
+
+**Provide an open source commander deck power level tool to aid the rule zero discussion.**
+
+### Values
+
+#### Fun
+
+Commander should be fun. The idea is to get together with your friends and have a good time. Players should feel like they're socializing. Games should draw players into participation with a healthy rate of play and interesting interactions.
+
+#### Flexibility
+
+Commander is a flexible format. A commander game can range from low powered explorations to high powered competitions. Players may want to: play an evenly matched game, experiment with janky builds, play with more than 4 players, invent new rules, start the game with Descent into Avernus, play out of cubes. There are a near endless amount of possibilities for a commander game.
+
+#### Rule Zero
+
+Before playing, having a rule zero discussion is the solution for curating the experience players are looking for. Players are going to sit down with one another for 30 minutes or more, the least they should do is talk about how powerful their decks are.
+
+#### Open Source
+
+Given the flexibility of commander and the range of experiences players are looking for, the goal is to provide a powerful suite of tools to allow players to craft the experience they are looking for. Open source techniques are a well established way of maintaining complex systems from 3D editing software, to encyclopedias, to artificial intelligences. Open source can help the commander community and its parts craft amazing player experiences.
+
 ## Purpose
 
-General idea is to provide the ability to quickly gauge the power level of a commander deck using crowdsourced weights.
+Provide the ability to quickly gauge the power level of any commander deck using crowdsourced weights.
 
-There are three weights used to generate three scores: Commander Weights, Power Weights, Pepper and Salt Weights. These weights are maintained in CSV files and can be collaboratively modified in this repository.
+There are three weights used to generate three scores:
+
+- Commander Weights to generate a Commander Score
+- Power Weights to generate a Power Score
+- Pepper Weights to generate a Pepper Score
+
+These weights are maintained in CSV files and can be collaboratively modified in this repository.
 
 ## Scores
 
@@ -16,17 +44,58 @@ The Commander Score is a number between 0 and 1000. 1000 being a mythical god co
 
 #### Guidelines
 
-##### 0 - 400
+##### 9
 
-##### 400 - 600
+Commanders scored in the nines should be top tier within the format. These commanders should:
 
-##### 600
+- Be among the top tier in competitive commander rankings.
+- Usually facilitate interactions that can win the game before turn 4.
 
-##### 700
+Example: [Kinnan, Bonder Prodigy](https://scryfall.com/card/iko/192/kinnan-bonder-prodigy)
 
-##### 800
+##### 8
 
-##### 900
+Commanders scored in the eights should enable powerful competitive builds but are not necessarily top tier in competitive rankings. These commanders should:
+
+- Be among the middle in the competitive commander rankings.
+- Usually facilitate interactions that can win the game before turn 6.
+
+Example: [Kaalia of the Vast](https://scryfall.com/card/mh3/290/kaalia-of-the-vast)
+
+##### 7
+
+Commanders scored in the sevens should be the top of casual builds. These commanders should:
+
+- Be powerful but not overly scary in unoptimized pods.
+- Usually facilitate interactions that can win the game before turn 8.
+
+Example:
+
+##### 6
+
+Commanders scored in the sixes should be experimental, unoptimized, but still able to win the game. These commanders should:
+
+- Be unable to hang with eights.
+- Can win the game eventually.
+
+Example:
+
+##### 5
+
+Commanders scored in the fives are highly janky and experimental. These commanders should:
+
+- Be playing around with mechanic or play patterns.
+- Not winning like crazy.
+
+Example:
+
+##### 4 or less
+
+Commanders scored in the fours or under are not doing much in the commander zone. These commanders should:
+
+- Be obviously not doing anything much.
+
+Example:
 
 ### Power Score
 
@@ -36,15 +105,41 @@ The Power Score is a number between 0 and 1000. Each card has a Power Weight bet
 
 #### Guidelines
 
-##### 0 - 200
+##### 9
 
-##### 200 - 400
+Example:
 
-##### 500 - 600
+##### 8
 
-##### 600 - 800
+Example:
 
-##### 800 - 1000
+##### 7
+
+Example:
+
+##### 6
+
+Example:
+
+##### 5
+
+Example:
+
+##### 4
+
+Example:
+
+##### 3
+
+Example:
+
+##### 2
+
+Example:
+
+##### 1
+
+Example:
 
 ### Pepper Score
 
@@ -52,28 +147,20 @@ The Pepper Score indicates how generically fun or friendly a card is. The Pepper
 
 #### Guidelines
 
-##### 0 - 200
+##### 9
 
-##### 200 - 400
+##### 8
 
-##### 500 - 600
+##### 7
 
-##### 600 - 800
+##### 6
 
-##### 800 - 1000
+##### 5
 
-### Salt Score
+##### 4
 
-The Salt Score indicates how generically unfun a card is a play against. A card with a high Salt Score with typically provoke a groan sound when it's played.
+##### 3
 
-#### Guidelines
+##### 2
 
-##### 0 - 200
-
-##### 200 - 400
-
-##### 500 - 600
-
-##### 600 - 800
-
-##### 800 - 1000
+##### 1
