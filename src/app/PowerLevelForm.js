@@ -105,7 +105,8 @@ export default function PowerLevelForm() {
                       name: parts.slice(1, -2).join(" "),
                     }));
 
-                  const score = deckList.reduce((score, card) => {
+                  const score =
+                    deckList.reduce((score, card) => {
                     const { name, count } = card;
 
                     const weight =
@@ -113,7 +114,7 @@ export default function PowerLevelForm() {
                       5;
 
                     return score + weight * count;
-                  }, 0);
+                    }, 0) / 100;
 
                   return score;
                 } catch (error) {
@@ -137,46 +138,16 @@ export default function PowerLevelForm() {
                       name: parts.slice(1, -2).join(" "),
                     }));
 
-                  const score = deckList.reduce((score, card) => {
+                  const score =
+                    deckList.reduce((score, card) => {
                     const { name, count } = card;
 
                     const weight =
-                      PepperWeights.find((row) => row.name === name)?.weight ||
-                      5;
+                        PepperWeights.find((row) => row.name === name)
+                          ?.weight || 5;
 
                     return score + weight * count;
-                  }, 0);
-
-                  return score;
-                } catch (error) {
-                  return <p>Doh! There was an issue.</p>;
-                }
-              })()}
-            </CardContent>
-          </Card>
-          <Card>
-            <CardHeader>
-              <CardTitle>Salt Score</CardTitle>
-            </CardHeader>
-            <CardContent>
-              {(() => {
-                try {
-                  const deckList = deckListInput
-                    .split("\n")
-                    .map((raw) => raw.split(" "))
-                    .map((parts) => ({
-                      count: parseInt(parts[0]),
-                      name: parts.slice(1, -2).join(" "),
-                    }));
-
-                  const score = deckList.reduce((score, card) => {
-                    const { name, count } = card;
-
-                    const weight =
-                      SaltWeights.find((row) => row.name === name)?.weight || 5;
-
-                    return score + weight * count;
-                  }, 0);
+                    }, 0) / 100;
 
                   return score;
                 } catch (error) {

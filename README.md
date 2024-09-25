@@ -22,6 +22,8 @@ Before playing, having a rule zero discussion is the solution for curating the e
 
 Given the flexibility of commander and the range of experiences players are looking for, the goal is to provide a powerful suite of tools to allow players to craft the experience they are looking for. Open source techniques are a well established way of maintaining complex systems from 3D editing software, to encyclopedias, to artificial intelligences. Open source can help the commander community and its parts craft amazing player experiences.
 
+#### Analysis
+
 ## Purpose
 
 Provide the ability to quickly gauge the power level of any commander deck using crowdsourced weights.
@@ -51,7 +53,9 @@ Commanders scored in the nines should be top tier within the format. These comma
 - Be among the top tier in competitive commander rankings.
 - Usually facilitate interactions that can win the game before turn 4.
 
-Example: [Kinnan, Bonder Prodigy](https://scryfall.com/card/iko/192/kinnan-bonder-prodigy)
+Examples:
+
+- [Kinnan, Bonder Prodigy](https://scryfall.com/card/iko/192/kinnan-bonder-prodigy)
 
 ##### 8
 
@@ -60,7 +64,9 @@ Commanders scored in the eights should enable powerful competitive builds but ar
 - Be among the middle in the competitive commander rankings.
 - Usually facilitate interactions that can win the game before turn 6.
 
-Example: [Kaalia of the Vast](https://scryfall.com/card/mh3/290/kaalia-of-the-vast)
+Examples:
+
+- [Kaalia of the Vast](https://scryfall.com/card/mh3/290/kaalia-of-the-vast)
 
 ##### 7
 
@@ -69,7 +75,9 @@ Commanders scored in the sevens should be the top of casual builds. These comman
 - Be powerful but not overly scary in unoptimized pods.
 - Usually facilitate interactions that can win the game before turn 8.
 
-Example:
+Examples:
+
+- [Slimefoot and Squee](https://scryfall.com/card/moc/447/slimefoot-and-squee)
 
 ##### 6
 
@@ -78,7 +86,9 @@ Commanders scored in the sixes should be experimental, unoptimized, but still ab
 - Be unable to hang with eights.
 - Can win the game eventually.
 
-Example:
+Examples:
+
+- [Archelos, Lagoon Mystic](https://scryfall.com/card/dmc/140/archelos-lagoon-mystic)
 
 ##### 5
 
@@ -87,7 +97,9 @@ Commanders scored in the fives are highly janky and experimental. These commande
 - Be playing around with mechanic or play patterns.
 - Not winning like crazy.
 
-Example:
+Examples:
+
+- [Fynn, the Fangbearer](https://scryfall.com/card/khm/170/fynn-the-fangbearer)
 
 ##### 4 or less
 
@@ -95,13 +107,13 @@ Commanders scored in the fours or under are not doing much in the commander zone
 
 - Be obviously not doing anything much.
 
-Example:
+Examples:
 
 ### Power Score
 
 The Power Score for an individual card indicates how generically powerful it is within the commander format. The Power Score for a deck indicates how generically powerful a deck is within the commander format. There are cards in commander that can be placed in pretty much any deck and increase the power level of the deck. There are also cards that are generically weak like basic lands.
 
-The Power Score is a number between 0 and 1000. Each card has a Power Weight between 0 and 10. 100 cards in a deck multiplied by all the weights will give the total Power Score for a deck.
+The Power Score is a number between 0 and 10. Each card has a Power Weight between 0 and 10. 100 cards in a deck multiplied by all the weights divided by 100 will give the total Power Score for a deck.
 
 #### Guidelines
 
