@@ -48,10 +48,10 @@ This level ranges from 0 to 10, with 10 representing an unbeatable, god-like com
 
 ##### 9
 
-Commanders in the nines should be top tier within the format. These commanders should:
+Commanders in Commander Level 9 should be considered top-tier within the format. These commanders typically:
 
-- Be among the top tier in competitive Commander rankings.
-- Usually facilitate interactions that can win the game before turn 4.
+1. Rank among the top tier in competitive Commander play.
+2. Enable game-winning interactions, often before turn 4.
 
 Examples:
 
@@ -59,10 +59,10 @@ Examples:
 
 ##### 8
 
-Commanders in the eights should enable powerful competitive builds but are not necessarily top tier in competitive rankings. These commanders should:
+Commanders in Commander Level 8 should enable strong competitive builds, though they may not be top-tier in competitive rankings. These commanders typically:
 
-- Be among the middle in the competitive Commander rankings.
-- Usually facilitate interactions that can win the game before turn 6.
+1. Rank in the middle of competitive Commander rankings.
+2. Facilitate game-winning interactions, usually before turn 6.
 
 Examples:
 
@@ -70,10 +70,10 @@ Examples:
 
 ##### 7
 
-Commanders in the sevens should be the top of casual builds. These commanders should:
+Commanders at Commander Level 7 should represent the peak of casual builds. These commanders typically:
 
-- Be powerful but not overly scary in unoptimized pods.
-- Usually facilitate interactions that can win the game before turn 8.
+1. Are powerful but not too intimidating in unoptimized pods.
+2. Facilitate game-winning interactions, usually before turn 8.
 
 Examples:
 
@@ -81,10 +81,10 @@ Examples:
 
 ##### 6
 
-Commanders in the sixes should be experimental, unoptimized, but still able to win the game. These commanders should:
+Commanders in Commander Level 6 should be experimental and unoptimized, but still capable of winning. These commanders typically:
 
-- Be unable to hang with eights.
-- Can win the game eventually.
+1. Are not competitive enough to match Level 8 Commanders.
+2. Can win the game, though not quickly or efficiently.
 
 Examples:
 
@@ -92,10 +92,10 @@ Examples:
 
 ##### 5
 
-Commanders in the fives are highly janky and experimental. These commanders should:
+Commanders at Commander Level 5 are highly janky and experimental. These commanders typically:
 
-- Be playing around with mechanics.
-- Not winning like crazy.
+1. Explore unique or unconventional mechanics.
+2. Do not have consistent or frequent wins.
 
 Examples:
 
@@ -103,26 +103,26 @@ Examples:
 
 ##### 4 or less
 
-Commanders in the fours or under are not doing much in the Command Zone.
+Commanders in Commander Level 4 or under are not doing much in the Command Zone.
 
 Examples:
 
 ### Power Level
 
-The Power Level for an individual card indicates how generically powerful it is within the Commander format. The Power Level for a deck indicates how generically powerful a deck is within the Commander format. There are cards in Commander that can be placed in pretty much any deck and increase the power level of the deck. There are also cards that are generically weak like basic lands.
+The Power Level of an individual card reflects its general strength within the Commander format. Similarly, the Power Level of a deck represents how powerful the entire deck is. Some cards in Commander can be added to almost any deck to boost its overall power, while others, like basic lands, are considered weaker.
 
-The Power Level is a number between 0 and 10. Each card has a Power Weight between 0 and 10. 100 cards in a deck multiplied by all the weights divided by 100 will give the total Power Level for a deck.
+Power Level is a number between 0 and 10. Each card has a Power Weight between 0 and 10. 100 cards in a deck multiplied by all the weights divided by 100 will give the total Power Level for a deck.
 
 #### Guidelines
 
 ##### 9
 
-Cards in the nines should be the most generically powerful competitive cards in the format. These cards should:
+Cards in Power Level 9 should represent some of the most competitively powerful options in the format. These cards typically:
 
-- Allow the player to tutor anything
-- Counter spells for zero cost
-- Generate a lot of mana very quickly
-- Combo off with 2 pieces
+1. Allow players to tutor for any card
+2. Counter spells at no mana cost
+3. Generate significant amounts of mana quickly
+4. Enable combos with just two pieces
 
 Examples:
 
@@ -133,11 +133,11 @@ Examples:
 
 ##### 8
 
-Cards in the eights should be a step down from nines, still generically powerful. These cards should:
+Cards in Power Level 8 should be slightly less powerful than nines but still strong and versatile. These cards typically:
 
-- Give the player huge card advantage
-- Generate medium amount of mana over time
-- Combo off with 3 pieces
+1. Provide significant card advantage
+2. Generate a moderate amount of mana over time
+3. Enable combos that require three pieces
 
 Examples:
 
@@ -147,11 +147,11 @@ Examples:
 
 ##### 7
 
-Cards in the sevens should be upgrades on a standard pre-con. They should be powerful but when people see them played it's not an emergency for the table. These cards should:
+Cards in Power Level 7 should be stronger than those found in a standard pre-constructed deck, offering solid power without being an immediate threat to the table. These cards typically:
 
-- Synergize well with a range of deck strategies
-- Generally be part of a healthy higher power deck
-- Probably a decent place to put land upgrades
+1. Synergize well with various deck strategies
+2. Fit comfortably in a balanced, higher-power deck
+3. Typically land base upgrades
 
 Example:
 
@@ -160,11 +160,11 @@ Example:
 
 ##### 6
 
-Cards in the sixes should be found in standard pre-cons but are still generically good. The would be your Commander staples. These cards should:
+Cards in Power Level 6 are commonly found in standard pre-constructed decks and are generally solid choices. These would be considered Commander staples. These cards typically:
 
-- Be generally good in any deck.
-- Synergize well with some deck strategies, but not most.
-- Staples for common play patterns.
+1. Perform well in any deck
+2. Synergize with certain deck strategies, though not universally
+3. Serve as staples for common play patterns
 
 Example:
 
@@ -174,10 +174,10 @@ Example:
 
 ##### 5
 
-Cards in the fives are average cards and might be Commander or strategy specific. These cards should:
+Cards in Power Level 5 are considered average and may be specific to certain Commanders or strategies. These cards typically:
 
-- Support the Commander, but aren't too great outside.
-- Might have come in the pre-con and just missed the cut.
+1. Support the Commander but are less effective in other contexts
+2. May have been included in pre-constructed decks but just missed the cut for better cards
 
 Examples:
 
@@ -186,27 +186,23 @@ Examples:
 
 ##### 4
 
-Cards in the fours are weaker cards specific to a Commander and might be a bit janky. Could only show up for thematic reasons. These cards should:
+Cards in Power Level 4 are generally weaker and specific to certain Commanders, often appearing somewhat janky. These cards typically:
 
-- Be quite weak and Commander specific.
-- Maybe are in the deck for thematic reasons.
-
-Example:
+1. Are notably weak and tailored to a particular Commander
+2. May be included for thematic reasons
 
 ##### 3
 
-Cards in the threes are bulk cards that aren't lands but really don't do anything special. These cards should:
+Cards in Power Level 3 are considered bulk cards that are not lands and lack special utility. These cards typically:
 
-- Be creatures, instants, sorceries that are probably bulk.
-- Some weaker dual lands.
-
-Examples:
+1. Include creatures, instants, and sorceries that are generally seen as bulk
+2. May consist of weaker dual lands
 
 ##### 2
 
-Cards in the twos are lands that sit right about basic lands. These cards should:
+Cards in Power Level 2 are lands that are slightly better than basic lands. These cards typically:
 
-- Tap for one or more lands but aren't basic.
+1. Tap for one or more mana but are not classified as basic lands
 
 Examples:
 
@@ -214,7 +210,7 @@ Examples:
 
 ##### 1
 
-Cards in the ones are essentially neutral to a deck. These cards are: basic lands.
+Cards in Power Level 1 are essentially neutral to a deck. These cards are basic lands.
 
 Examples:
 
@@ -222,24 +218,76 @@ Examples:
 
 ### Pepper Level
 
-The Pepper Level indicates how generically fun or friendly a card is. The Pepper Level for a card indicates how excited players are to play against it. A particularly salty card will have a low Pepper Level.
+Pepper Level measures how fun or friendly a card is. It reflects the excitement players feel when facing that card. A card that is perceived as particularly frustrating or unfun to play against will have a low Pepper Level.
 
 #### Guidelines
 
 ##### 9
 
+Cards in Pepper Level 9 are the most enjoyable in Commander. These are the cards that bring smiles and excitement to the battlefield, as players are eager to engage with their mechanics.
+
+-
+
 ##### 8
+
+Cards in Pepper Level 8 are highly enjoyable for the table, though they may asymmetrically affect one or two players, either positively or negatively.
+
+Examples:
+
+- [Descent into Avernus](https://scryfall.com/card/clb/169/descent-into-avernus)
 
 ##### 7
 
+Cards in Pepper Level 7 are enjoyable for one or two players and generate interesting interactions.
+
+Examples:
+
+- [Wedding Ring](https://scryfall.com/card/voc/32/wedding-ring)
+
 ##### 6
+
+Cards in Pepper Level 6 are mostly enjoyable for one player, while the rest of the table appreciates the card and is happy to see it played.
+
+Examples:
+
+- [Concordant Crossroads](https://scryfall.com/card/2x2/141/concordant-crossroads)
 
 ##### 5
 
+Cards in Pepper Level 5 are emotionally neutral for the table.
+
 ##### 4
+
+Cards in Pepper Level 4 are annoying for one player and the table generally agrees.
+
+Examples:
+
+- [Fierce Guardianship](https://scryfall.com/card/cmm/94/fierce-guardianship)
 
 ##### 3
 
+Cards in Pepper Level 3 are irritating for multiple players and significantly diminish the enjoyment of the game.
+
+Examples:
+
+- [Rhystic Study](https://scryfall.com/card/jmp/169/rhystic-study)
+
 ##### 2
 
+Cards in Pepper Level 2 tend to frustrate the table significantly, causing players to feel salty and negatively impacting the overall mood of the game.
+
+Examples:
+
+- [Tergrid, God of Fright](https://scryfall.com/card/khm/112/tergrid-god-of-fright-tergrids-lantern)
+
 ##### 1
+
+Cards in Pepper Level 1 elicit audible groans from players, who may choose to concede rather than engage with the card. Playing against these cards is generally considered very unfun.
+
+Examples:
+
+- [Stasis](https://scryfall.com/card/me4/64/stasis)
+- [Winter Orb](https://scryfall.com/card/ema/234/winter-orb)
+- [Nadu, Winged Wisdom](https://scryfall.com/card/mh3/193/nadu-winged-wisdom)
+- [Vorinclex, Voice of Hunger](https://scryfall.com/card/ima/189/vorinclex-voice-of-hunger)
+- [Armageddon](https://scryfall.com/card/a25/5/armageddon)
