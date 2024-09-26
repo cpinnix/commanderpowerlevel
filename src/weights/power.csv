@@ -1,70 +1,218 @@
 name,weight,tags
-Jeweled Lotus,8,manarock
-Mana Crypt,8,manarock
-Sol Ring,8,manarock
-Arcane Signet,5,manarock
+Jeweled Lotus,9,manarock
+Mana Crypt,9,manarock
+Sol Ring,9,manarock
+Arcane Signet,6,manarock
 Island,1,landbasic
 Forest,1,landbasic
 Swamp,1,landbasic
 Mountain,1,landbasic
 Plains,1,landbasic
-Arid Mesa,5,landfetch
-Bloodstained Mire,5,landfetch
-Flooded Strand,5,landfetch
-Marsh Flats,5,landfetch
-Misty Rainforest,5,landfetch
-Polluted Delta,5,landfetch
-Scalding Tarn,5,landfetch
-Verdant Catacombs,5,landfetch
-Windswept Heath,5,landfetch
-Wooded Foothills,5,landfetch
-Blood Crypt,5,landshock
-Breeding Pool,5,landshock
-Godless Shrine,5,landshock
-Hallowed Fountain,5,landshock
-Overgrown Tomb,5,landshock
-Sacred Foundry,5,landshock
-Steam Vents,5,landshock
-Stomping Ground,5,landshock
-Temple Garden,5,landshock
-Watery Grave,5,landshock
-Badlands,5,landdual
-Bayou,5,landdual
-Plateau,5,landdual
-Savannah,5,landdual
-Scrubland,5,landdual
-Taiga,5,landdual
-Tropical Island,5,landdual
-Tundra,5,landdual
-Underground Sea,5,landdual
-Volcanic Island,5,landdual
-Bountiful Promenade,5,landbond
-Luxury Suite,5,landbond
-Morphic Pool,5,landbond
-Rejuvenating Springs,5,landbond
-Sea of Clouds,5,landbond
-Spectator Seating,5,landbond
-Spire Garden,5,landbond
-Training Center,5,landbond
-Undergrowth Stadium,5,landbond
-Vault of Champions,5,landbond
-Adarkar Wastes,5,landpain
-Battlefield Forge,5,landpain
-Brushland,5,landpain
-Caves of Koilos,5,landpain
-Karplusan Forest,5,landpain
-Llanowar Wastes,5,landpain
-Shivan Reef,5,landpain
-Sulfurous Springs,5,landpain
-Underground River,5,landpain
-Yavimaya Coast,5,landpain
-Temple of Abandon,5,landscry
-Temple of Deceit,5,landscry
-Temple of Enlightenment,5,landscry
-Temple of Epiphany,5,landscry
-Temple of Malady,5,landscry
-Temple of Malice,5,landscry
-Temple of Mystery,5,landscry
-Temple of Plenty,5,landscry
-Temple of Silence,5,landscry
-Temple of Triumph,5,landscry
+Arid Mesa,7,landfetch
+Bloodstained Mire,7,landfetch
+Flooded Strand,7,landfetch
+Marsh Flats,7,landfetch
+Misty Rainforest,7,landfetch
+Polluted Delta,7,landfetch
+Scalding Tarn,7,landfetch
+Verdant Catacombs,7,landfetch
+Windswept Heath,7,landfetch
+Wooded Foothills,7,landfetch
+Blood Crypt,7,landshock
+Breeding Pool,7,landshock
+Godless Shrine,7,landshock
+Hallowed Fountain,7,landshock
+Overgrown Tomb,7,landshock
+Sacred Foundry,7,landshock
+Steam Vents,7,landshock
+Stomping Ground,7,landshock
+Temple Garden,7,landshock
+Watery Grave,7,landshock
+Badlands,8,landdual
+Bayou,8,landdual
+Plateau,8,landdual
+Savannah,8,landdual
+Scrubland,8,landdual
+Taiga,8,landdual
+Tropical Island,8,landdual
+Tundra,8,landdual
+Underground Sea,8,landdual
+Volcanic Island,8,landdual
+Bountiful Promenade,7,landbond
+Luxury Suite,7,landbond
+Morphic Pool,7,landbond
+Rejuvenating Springs,7,landbond
+Sea of Clouds,7,landbond
+Spectator Seating,7,landbond
+Spire Garden,7,landbond
+Training Center,7,landbond
+Undergrowth Stadium,7,landbond
+Vault of Champions,7,landbond
+Adarkar Wastes,7,landpain
+Battlefield Forge,7,landpain
+Brushland,7,landpain
+Caves of Koilos,7,landpain
+Karplusan Forest,7,landpain
+Llanowar Wastes,7,landpain
+Shivan Reef,7,landpain
+Sulfurous Springs,7,landpain
+Underground River,7,landpain
+Yavimaya Coast,7,landpain
+Temple of Abandon,6,landscry
+Temple of Deceit,6,landscry
+Temple of Enlightenment,6,landscry
+Temple of Epiphany,6,landscry
+Temple of Malady,6,landscry
+Temple of Malice,6,landscry
+Temple of Mystery,6,landscry
+Temple of Plenty,6,landscry
+Temple of Silence,6,landscry
+Temple of Triumph,6,landscry
+"Atraxa, Praetors' Voice",8,
+Abundant Growth,6,
+"Adrix and Nev, Twincasters",7,
+Anointed Procession,7,
+Aura Shards,7,
+Awakening Zone,6,
+Bastion of Remembrance,6,
+"Bennie Bracks, Zoologist",6,
+Blood Artist,6,
+"Boseiju, Who Endures",7,
+Breeding Pool,7,
+Brokers Ascendancy,6,
+Command Tower,6,
+Crawlspace,6,
+Cultivate,6,
+Deathspore Thallid,4,
+Demonic Tutor,9,
+Doubling Season,9,
+Elvish Farmer,4,
+Esper Sentinel,8,
+Farseek,6,
+Fertilid,4,
+Fierce Guardianship,9,
+Fungal Rebirth,4,
+Ghostly Prison,7,
+Indatha Triome,7,
+Kodama's Reach,6,
+Llanowar Elves,6,
+Malakir Rebirth // Malakir Mire,6,
+Maze of Ith,6,
+Mirkwood Bats,6,
+Moldervine Reclamation,6,
+"Mondrak, Glory Dominus",7,
+Mycologist,4,
+Mystical Tutor,9,
+No Mercy,7,
+Parallel Lives,8,
+Pitiless Plunderer,7,
+Propaganda,7,
+Raffine's Tower,7,
+Rampant Growth,6,
+Resourceful Defense,6,
+Rhystic Study,8,
+Rogue's Passage,6,
+Sakura-Tribe Elder,6,
+Skullclamp,6,
+Smothering Tithe,8,
+Sol Ring,8,
+Spara's Headquarters,7,
+Sprout Swarm,4,
+"Syr Konrad, the Grim",6,
+Teferi's Protection,7,
+Tendershoot Dryad,8,
+Thallid,4,
+Thallid Shell-Dweller,4,
+The One Ring,9,
+The Ozolith,7,
+Three Visits,6,
+"Urborg, Tomb of Yawgmoth",6,
+Utopia Mycon,4,
+Vampiric Tutor,9,
+Verdant Embrace,4,
+Verdant Force,4,
+Vitaspore Thallid,4,
+"Vraska, Betrayal's Sting",5,
+Welcoming Vampire,6,
+Wild Growth,6,
+Worldly Tutor,9,
+"Xavier Sal, Infested Captain",5,
+"Yavimaya, Cradle of Growth",6,
+Zagoth Triome,6,
+Zulaport Cutthroat,7,
+"Marwyn, the Nurturer",8,
+Allosaurus Shepherd,7,
+Arbor Elf,6,
+Asceticism,7,
+Beast Whisperer,6,
+Beast Within,6,
+Boreal Druid,6,
+Castle Garenbrig,7,
+Chord of Calling,8,
+Circle of Dreams Druid,7,
+Collective Resistance,6,
+Copperhorn Scout,6,
+Craterhoof Behemoth,8,
+Crop Rotation,6,
+Dwynen's Elite,5,
+"Eladamri, Korvecdal",8,
+Elven Ambush,5,
+Elvish Archdruid,5,
+Elvish Champion,5,
+Elvish Harbinger,8,
+Elvish Mystic,6,
+Elvish Visionary,6,
+Elvish Warmaster,5,
+Emerald Medallion,5,
+Eternal Witness,6,
+"Ezuri, Renegade Leader",5,
+Ezuri's Predation,6,
+Fauna Shaman,8,
+Fierce Empath,8,
+Finale of Devastation,8,
+For the Ancestors,7,
+Fyndhorn Elves,6,
+Gala Greeters,6,
+Ghost Quarter,5,
+"Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",8,
+Guardian Project,7,
+Heritage Druid,5,
+Heroic Intervention,6,
+Imperious Perfect,5,
+Joraga Treespeaker,5,
+Joraga Warcaller,5,
+Kenrith's Transformation,6,
+Krosan Grip,6,
+Lead the Stampede,7,
+Leaf-Crowned Visionary,5,
+Llanowar Elves,6,
+Lys Alana Huntmaster,5,
+Nullmage Shepherd,5,
+"Nykthos, Shrine to Nyx",8,
+Oakhame Adversary,6,
+"Oran-Rief, the Vastwood",4,
+Overwhelming Stampede,6,
+Priest of Titania,5,
+Quirion Ranger,5,
+Realmwalker,6,
+Reclamation Sage,6,
+Return of the Wildspeaker,6,
+"Rishkar, Peema Renegade",6,
+Scavenger Grounds,4,
+Seeker of Skybreak,6,
+Skyshroud Poacher,7,
+Song of the Dryads,4,
+Soul of the Harvest,6,
+Staff of Domination,8,
+Timberwatch Elf,5,
+Umbral Mantle,4,
+Vanquisher's Banner,5,
+Veil of Summer,6,
+Wellwisher,5,
+Wildest Dreams,6,
+Winding Way,7,
+Wirewood Lodge,4,
+Wirewood Symbiote,5,
+Wood Elves,6,
+"Yavimaya, Cradle of Growth",6,
+"Yeva, Nature's Herald",5,
