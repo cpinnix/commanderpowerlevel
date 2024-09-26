@@ -218,6 +218,8 @@ Examples:
 
 Pepper Level measures how fun or friendly a card is. It reflects the excitement players feel when facing that card. A card that is perceived as particularly frustrating or unfun to play against will have a low Pepper Level.
 
+Pepper Level is a number between 0 and 10. Each card has a Pepper Weight between 0 and 10. 100 cards in a deck multiplied by all the weights divided by 100 will give the total Pepper Level for a deck.
+
 ### Guidelines
 
 #### Pepper Level 9
