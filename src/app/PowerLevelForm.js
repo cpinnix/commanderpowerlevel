@@ -180,7 +180,7 @@ export default function PowerLevelForm() {
                         .split(" ")
                         .slice(1)
                         .join(" ")
-                        .match(new RegExp(/(.*?)(?= \()/)),
+                        .match(new RegExp(/(.*?)(?= \()/))[0],
                     };
                   });
 
@@ -230,9 +230,11 @@ export default function PowerLevelForm() {
                         .split(" ")
                         .slice(1)
                         .join(" ")
-                        .match(new RegExp(/(.*?)(?= \()/)),
+                        .match(new RegExp(/(.*?)(?= \()/))[0],
                     };
                   });
+
+                  console.log(deckList);
 
                   const cardCount = deckList.length;
 
@@ -276,7 +278,11 @@ export default function PowerLevelForm() {
                     .map((raw) => raw.split(" "))
                     .map((parts) => ({
                       count: parseInt(parts[0]),
-                      name: parts.slice(1, -2).join(" "),
+                      name: raw
+                        .split(" ")
+                        .slice(1)
+                        .join(" ")
+                        .match(new RegExp(/(.*?)(?= \()/))[0],
                     }));
 
                   const cardCount = deckList.length;
