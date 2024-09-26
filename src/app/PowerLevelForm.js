@@ -10,9 +10,9 @@ import {
 } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
 import { useState } from "react";
-import CommanderWeights from "@/weights/commander.csv";
 import PowerWeights from "@/weights/power.csv";
-import PepperWeights from "@/weights/pepper.csv";
+// import CommanderWeights from "@/weights/commander.csv";
+// import PepperWeights from "@/weights/pepper.csv";
 
 const CardNameRegExp = new RegExp(/(?<=[0-9] )(.*?)(?= \()/);
 

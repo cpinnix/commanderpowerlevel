@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Slider } from "@/components/ui/slider";
 import { Button } from "@/components/ui/button";
 import {
@@ -24,14 +24,18 @@ const weightHistoryKey = "user.weight.history";
 export default function FormWeight() {
   const [weight, setWeight] = useState(5);
 
-  const [name, setName] = useState(() => {
-    const weightHistory = localStorage.getItem(weightHistoryKey);
-    const notWeighted = difference(cardNames, weightHistory);
-    const randomNotWeightedName =
-      notWeighted[Math.floor(Math.random() * notWeighted.length)];
+  const [name, setName] = useState("");
 
-    return randomNotWeightedName;
-  });
+  useEffect(() => {
+    if (typeof localStorage !== "undefined") {
+      const weightHistory = localStorage.getItem(weightHistoryKey);
+      const notWeighted = difference(cardNames, weightHistory);
+      const randomNotWeightedName =
+        notWeighted[Math.floor(Math.random() * notWeighted.length)];
+
+      setName(randomNotWeightedName);
+    }
+  }, []);
 
   const [type, setType] = useState("power");
 
@@ -111,6 +115,7 @@ export default function FormWeight() {
         <CardFooter className="flex justify-end">
           <Button
             {...{
+              disabled: !name,
               async onClick() {
                 let userId = localStorage.getItem(userIdKey);
 
