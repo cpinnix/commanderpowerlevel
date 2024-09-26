@@ -14,7 +14,7 @@ Weights are maintained in CSV files and can be collaboratively modified in this 
 
 Through the web application, players can copy and paste their Moxfield decklist and quickly get stats that others can easily interpret. While approximate, these stats should help playgroups assess pod balance.
 
-### Values
+## Values
 
 #### Fun
 
@@ -36,9 +36,7 @@ A Rule Zero discussion sets the stage for an enjoyable game. Since players will 
 
 Commander’s diversity calls for robust tools that cater to various player experiences. Open-source methods, proven in managing complex software systems, artificial intelligences, and encyclopedias, can help the community create amazing gameplay experiences.
 
-## Levels
-
-### Commander Level
+## Commander Level
 
 The Commander Level serves as a rough measure of a deck’s synergy and power potential, using the deck’s commander as a proxy for its overall strength.
 
@@ -107,7 +105,7 @@ Commanders in Commander Level 4 or under are not doing much in the Command Zone.
 
 Examples:
 
-### Power Level
+## Power Level
 
 The Power Level of an individual card reflects its general strength within the Commander format. Similarly, the Power Level of a deck represents how powerful the entire deck is. Some cards in Commander can be added to almost any deck to boost its overall power, while others, like basic lands, are considered weaker.
 
@@ -216,7 +214,7 @@ Examples:
 
 - [Basic Lands](https://scryfall.com/search?q=-type%3Asnow+%28type%3Aland+type%3Abasic%29&unique=cards&as=grid&order=name)
 
-### Pepper Level
+## Pepper Level
 
 Pepper Level measures how fun or friendly a card is. It reflects the excitement players feel when facing that card. A card that is perceived as particularly frustrating or unfun to play against will have a low Pepper Level.
 
