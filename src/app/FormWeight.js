@@ -13,83 +13,155 @@ import {
 } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
 import { v4 } from "uuid";
+import PowerWeights from "@/weights/power.csv";
+import { difference } from "lodash-es";
+
+const cardNames = PowerWeights.map(({ name }) => name);
+
+const userIdKey = "user.id";
+const weightHistoryKey = "user.weight.history";
 
 export default function FormWeight() {
   const [weight, setWeight] = useState(5);
 
-  const [name, setName] = useState("Sol Ring");
+  const [name, setName] = useState(() => {
+    const weightHistory = localStorage.getItem(weightHistoryKey);
+    const notWeighted = difference(cardNames, weightHistory);
+    const randomNotWeightedName =
+      notWeighted[Math.floor(Math.random() * notWeighted.length)];
+
+    return randomNotWeightedName;
+  });
+
   const [type, setType] = useState("power");
 
   return (
-    <Card
+    <div
       {...{
-        className: cn(`max-w-96`),
+        className: cn(`grid`, `gap-4`),
       }}
     >
-      <CardHeader>
-        <CardTitle className="text-gray-400">
-          How Powerful is <span className="text-black">{name}?</span>
-        </CardTitle>
-        <CardDescription>
-          Refer to{" "}
-          <a
+      <Card>
+        <CardContent
+          {...{
+            className: cn(`flex`, `justify-center`, `items-center`),
+          }}
+        >
+          <div
             {...{
-              href: "https://github.com/cpinnix/commanderpowerlevel/tree/main?tab=readme-ov-file#power-level",
-              target: "_blank",
-              className: cn(`underline`, `underline-offset-4`),
+              className: cn(`text-6xl`, `font-bold`, `mt-6`),
             }}
           >
-            Power Level documentation
-          </a>{" "}
-          for leveling.
-        </CardDescription>
-      </CardHeader>
-      <CardContent>
-        <p
-          {...{
-            className: cn(`text-6xl`, `font-bold`),
-          }}
-        >
-          {weight}
-        </p>
-        <br />
-        <Slider
-          {...{
-            value: [weight],
-            max: 10,
-            step: 1,
-            onValueChange([weight]) {
-              setWeight(weight);
-            },
-          }}
-        />
-      </CardContent>
-      <CardFooter className="flex justify-end">
-        <Button
-          {...{
-            async onClick() {
-              let userId = localStorage.getItem("user.id");
+            ⚡
+          </div>
+        </CardContent>
+      </Card>
+      <Card
+        {...{
+          className: cn(`max-w-96`),
+        }}
+      >
+        <CardHeader>
+          <CardTitle className="text-gray-400">
+            How <span className="text-yellow-600">Powerful</span> is{" "}
+            <a
+              {...{
+                href: `https://scryfall.com/search?q=` + name,
+                target: "_blank",
+                className: cn(`underline`, `underline-offset-4`, `text-black`),
+              }}
+            >
+              {name}?
+            </a>
+          </CardTitle>
+          <CardDescription>
+            Refer to{" "}
+            <a
+              {...{
+                href: "https://github.com/cpinnix/commanderpowerlevel/tree/main?tab=readme-ov-file#power-level",
+                target: "_blank",
+                className: cn(`underline`, `underline-offset-4`),
+              }}
+            >
+              Power Level documentation
+            </a>{" "}
+            for leveling.
+          </CardDescription>
+        </CardHeader>
+        <CardContent>
+          <p
+            {...{
+              className: cn(`text-6xl`, `font-bold`),
+            }}
+          >
+            {weight}
+          </p>
+          <br />
+          <Slider
+            {...{
+              value: [weight],
+              max: 10,
+              step: 1,
+              onValueChange([weight]) {
+                setWeight(weight);
+              },
+            }}
+          />
+        </CardContent>
+        <CardFooter className="flex justify-end">
+          <Button
+            {...{
+              async onClick() {
+                let userId = localStorage.getItem(userIdKey);
 
-              if (!userId) {
-                userId = v4();
+                if (!userId) {
+                  userId = v4();
 
-                localStorage.setItem("user.id", userId);
-              }
+                  localStorage.setItem("user.id", userId);
+                }
 
-              await fetch("api/weight/write", {
-                method: "POST",
-                headers: {
-                  Accept: "application/json",
-                  "Content-Type": "application/json",
-                },
-                body: JSON.stringify({ name, type, weight, userId }),
-              });
-            },
-          }}
-        >
-          Submit
-        </Button>
-      </CardFooter>
-    </Card>
+                let weightHistory = localStorage.getItem(weightHistoryKey);
+
+                if (!weightHistory) {
+                  weightHistory = [];
+                } else {
+                  weightHistory = JSON.parse(weightHistory);
+                }
+
+                await fetch("api/weight/write", {
+                  method: "POST",
+                  headers: {
+                    Accept: "application/json",
+                    "Content-Type": "application/json",
+                  },
+                  body: JSON.stringify({ name, type, weight, userId }),
+                });
+
+                weightHistory.push(name);
+
+                const maxHistoryLength = 100;
+
+                if (weightHistory.length > maxHistoryLength) {
+                  weightHistory = weightHistory.slice(-maxHistoryLength);
+                }
+
+                localStorage.setItem(
+                  weightHistoryKey,
+                  JSON.stringify(weightHistory)
+                );
+
+                const notWeighted = difference(cardNames, weightHistory);
+                const randomNotWeightedName =
+                  notWeighted[Math.floor(Math.random() * notWeighted.length)];
+
+                setName(randomNotWeightedName);
+              },
+            }}
+          >
+            Submit
+          </Button>
+        </CardFooter>
+      </Card>
+    </div>
   );
 }

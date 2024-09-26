@@ -170,7 +170,7 @@ export default function PowerLevelForm() {
             className: cn(`grid`, `lg:grid-cols-4`, `gap-4`),
           }}
         >
-          <Card>
+          {/* <Card>
             <CardHeader>
               <CardTitle>Commander Score</CardTitle>
             </CardHeader>
@@ -208,9 +208,16 @@ export default function PowerLevelForm() {
                 }
               })()}
             </CardContent>
-          </Card>
+          </Card> */}
           <Card>
             <CardHeader>
+              <div
+                {...{
+                  className: cn(`text-6xl`),
+                }}
+              >
+                ⚡
+              </div>
               <CardTitle>Power Score</CardTitle>
             </CardHeader>
             <CardContent>
@@ -253,7 +260,7 @@ export default function PowerLevelForm() {
               })()}
             </CardContent>
           </Card>
-          <Card>
+          {/* <Card>
             <CardHeader>
               <CardTitle>Pepper Score</CardTitle>
             </CardHeader>
@@ -297,7 +304,7 @@ export default function PowerLevelForm() {
                 }
               })()}
             </CardContent>
-          </Card>
+          </Card> */}
         </div>
       </main>
       <footer></footer>
