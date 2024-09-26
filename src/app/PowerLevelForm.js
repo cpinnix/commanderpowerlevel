@@ -2,20 +2,13 @@
 
 import { Textarea } from "@/components/ui/textarea";
 import { Separator } from "@/components/ui/separator";
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
 import { useState } from "react";
 import CommanderWeights from "@/weights/commander.csv";
 import PowerWeights from "@/weights/power.csv";
 import PepperWeights from "@/weights/pepper.csv";
-import SaltWeights from "@/weights/salt.csv";
+
 import Image from "next/image";
 import Logo from "@/images/logo.png";
 
@@ -105,6 +98,8 @@ export default function PowerLevelForm() {
                       name: parts.slice(1, -2).join(" "),
                     }));
 
+                  const cardCount = deckList.length;
+
                   const score =
                     deckList.reduce((score, card) => {
                     const { name, count } = card;
@@ -114,9 +109,9 @@ export default function PowerLevelForm() {
                       5;
 
                     return score + weight * count;
-                    }, 0) / 100;
+                    }, 0) / cardCount;
 
-                  return score;
+                  return Math.round(score * 100) / 100;
                 } catch (error) {
                   return <p>Doh! There was an issue.</p>;
                 }
@@ -138,6 +133,8 @@ export default function PowerLevelForm() {
                       name: parts.slice(1, -2).join(" "),
                     }));
 
+                  const cardCount = deckList.length;
+
                   const score =
                     deckList.reduce((score, card) => {
                     const { name, count } = card;
@@ -147,9 +144,9 @@ export default function PowerLevelForm() {
                           ?.weight || 5;
 
                     return score + weight * count;
-                    }, 0) / 100;
+                    }, 0) / cardCount;
 
-                  return score;
+                  return Math.round(score * 100) / 100;
                 } catch (error) {
                   return <p>Doh! There was an issue.</p>;
                 }
