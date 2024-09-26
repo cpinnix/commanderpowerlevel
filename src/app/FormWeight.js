@@ -15,6 +15,7 @@ import { cn } from "@/lib/utils";
 import { v4 } from "uuid";
 import PowerWeights from "@/weights/power.csv";
 import { difference } from "lodash-es";
+import { ReloadIcon } from "@radix-ui/react-icons";
 
 const cardNames = PowerWeights.map(({ name }) => name);
 
@@ -22,6 +23,8 @@ const userIdKey = "user.id";
 const weightHistoryKey = "user.weight.history";
 
 export default function FormWeight() {
+  const [submitting, setSubmitting] = useState(false);
+
   const [weight, setWeight] = useState(5);
 
   const [name, setName] = useState("");
@@ -113,58 +116,72 @@ export default function FormWeight() {
           />
         </CardContent>
         <CardFooter className="flex justify-end">
-          <Button
-            {...{
-              disabled: !name,
-              async onClick() {
-                let userId = localStorage.getItem(userIdKey);
+          {!submitting ? (
+            <Button
+              {...{
+                disabled: !name,
+                async onClick() {
+                  setSubmitting(true);
 
-                if (!userId) {
-                  userId = v4();
+                  let userId = localStorage.getItem(userIdKey);
 
-                  localStorage.setItem("user.id", userId);
-                }
+                  if (!userId) {
+                    userId = v4();
 
-                let weightHistory = localStorage.getItem(weightHistoryKey);
+                    localStorage.setItem("user.id", userId);
+                  }
 
-                if (!weightHistory) {
-                  weightHistory = [];
-                } else {
-                  weightHistory = JSON.parse(weightHistory);
-                }
+                  let weightHistory = localStorage.getItem(weightHistoryKey);
 
-                await fetch("api/weight/write", {
-                  method: "POST",
-                  headers: {
-                    Accept: "application/json",
-                    "Content-Type": "application/json",
-                  },
-                  body: JSON.stringify({ name, type, weight, userId }),
-                });
+                  if (!weightHistory) {
+                    weightHistory = [];
+                  } else {
+                    weightHistory = JSON.parse(weightHistory);
+                  }
 
-                weightHistory.push(name);
+                  await fetch("api/weight/write", {
+                    method: "POST",
+                    headers: {
+                      Accept: "application/json",
+                      "Content-Type": "application/json",
+                    },
+                    body: JSON.stringify({ name, type, weight, userId }),
+                  });
 
-                const maxHistoryLength = 100;
+                  weightHistory.push(name);
 
-                if (weightHistory.length > maxHistoryLength) {
-                  weightHistory = weightHistory.slice(-maxHistoryLength);
-                }
+                  const maxHistoryLength = 100;
 
-                localStorage.setItem(
-                  weightHistoryKey,
-                  JSON.stringify(weightHistory)
-                );
+                  if (weightHistory.length > maxHistoryLength) {
+                    weightHistory = weightHistory.slice(-maxHistoryLength);
+                  }
 
-                const notWeighted = difference(cardNames, weightHistory);
-                const randomNotWeightedName =
-                  notWeighted[Math.floor(Math.random() * notWeighted.length)];
+                  localStorage.setItem(
+                    weightHistoryKey,
+                    JSON.stringify(weightHistory)
+                  );
 
-                setName(randomNotWeightedName);
-              },
-            }}
-          >
-            Submit
-          </Button>
+                  const notWeighted = difference(cardNames, weightHistory);
+                  const randomNotWeightedName =
+                    notWeighted[Math.floor(Math.random() * notWeighted.length)];
+
+                  await new Promise((resolve) => setTimeout(resolve, 1000));
+
+                  setName(randomNotWeightedName);
+                  setWeight(5);
+
+                  setSubmitting(false);
+                },
+              }}
+            >
+              Submit
+            </Button>
+          ) : (
+            <Button disabled>
+              <ReloadIcon className="mr-2 h-4 w-4 animate-spin" />
+              Please wait
+            </Button>
+          )}
         </CardFooter>
       </Card>
     </div>
