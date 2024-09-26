@@ -11,10 +11,6 @@ import {
 import { cn } from "@/lib/utils";
 import { useState } from "react";
 import PowerWeights from "@/weights/power.csv";
-// import CommanderWeights from "@/weights/commander.csv";
-// import PepperWeights from "@/weights/pepper.csv";
-
-const CardNameRegExp = new RegExp(/(?<=[0-9] )(.*?)(?= \()/);
 
 export default function PowerLevelForm() {
   const [deckListInput, setDeckListInput] =
@@ -180,7 +176,11 @@ export default function PowerLevelForm() {
                   const deckList = deckListInput.split("\n").map((raw) => {
                     return {
                       count: parseInt(raw.split(" ")[0]),
-                      name: CardNameRegExp.exec(raw)[0],
+                      name: raw
+                        .split(" ")
+                        .slice(1)
+                        .join(" ")
+                        .match(new RegExp(/(.*?)(?= \()/)),
                     };
                   });
 
@@ -226,7 +226,11 @@ export default function PowerLevelForm() {
                   const deckList = deckListInput.split("\n").map((raw) => {
                     return {
                       count: parseInt(raw.split(" ")[0]),
-                      name: CardNameRegExp.exec(raw)[0],
+                      name: raw
+                        .split(" ")
+                        .slice(1)
+                        .join(" ")
+                        .match(new RegExp(/(.*?)(?= \()/)),
                     };
                   });
 

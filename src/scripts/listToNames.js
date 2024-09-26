@@ -84,7 +84,11 @@ const deckListInput = `1 Marwyn, the Nurturer (DOM) 172
 const deckList = deckListInput.split("\n").map((raw) => {
   return {
     count: parseInt(raw.split(" ")[0]),
-    name: CardNameRegExp.exec(raw)[0],
+    name: raw
+      .split(" ")
+      .slice(1)
+      .join(" ")
+      .match(new RegExp(/(.*?)(?= \()/)),
   };
 });
 
