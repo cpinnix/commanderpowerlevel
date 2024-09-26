@@ -44,9 +44,9 @@ The Commander Level serves as a rough measure of a deck’s synergy and power po
 
 This level ranges from 0 to 10, with 10 representing an unbeatable, god-like commander — something akin to a commander with an eminence ability that wins the game at the start of your first upkeep.
 
-#### Guidelines
+### Guidelines
 
-##### 9
+#### Commander Level 9
 
 Commanders in Commander Level 9 should be considered top-tier within the format. These commanders typically:
 
@@ -57,7 +57,7 @@ Examples:
 
 - [Kinnan, Bonder Prodigy](https://scryfall.com/card/iko/192/kinnan-bonder-prodigy)
 
-##### 8
+#### Commander Level 8
 
 Commanders in Commander Level 8 should enable strong competitive builds, though they may not be top-tier in competitive rankings. These commanders typically:
 
@@ -68,7 +68,7 @@ Examples:
 
 - [Kaalia of the Vast](https://scryfall.com/card/mh3/290/kaalia-of-the-vast)
 
-##### 7
+#### Commander Level 7
 
 Commanders at Commander Level 7 should represent the peak of casual builds. These commanders typically:
 
@@ -79,7 +79,7 @@ Examples:
 
 - [Slimefoot and Squee](https://scryfall.com/card/moc/447/slimefoot-and-squee)
 
-##### 6
+#### Commander Level 6
 
 Commanders in Commander Level 6 should be experimental and unoptimized, but still capable of winning. These commanders typically:
 
@@ -90,7 +90,7 @@ Examples:
 
 - [Archelos, Lagoon Mystic](https://scryfall.com/card/dmc/140/archelos-lagoon-mystic)
 
-##### 5
+#### Commander Level 5
 
 Commanders at Commander Level 5 are highly janky and experimental. These commanders typically:
 
@@ -101,7 +101,7 @@ Examples:
 
 - [Fynn, the Fangbearer](https://scryfall.com/card/khm/170/fynn-the-fangbearer)
 
-##### 4 or less
+#### Commander Level 4 or less
 
 Commanders in Commander Level 4 or under are not doing much in the Command Zone.
 
@@ -113,9 +113,9 @@ The Power Level of an individual card reflects its general strength within the C
 
 Power Level is a number between 0 and 10. Each card has a Power Weight between 0 and 10. 100 cards in a deck multiplied by all the weights divided by 100 will give the total Power Level for a deck.
 
-#### Guidelines
+### Guidelines
 
-##### 9
+#### Power Level 9
 
 Cards in Power Level 9 should represent some of the most competitively powerful options in the format. These cards typically:
 
@@ -131,7 +131,7 @@ Examples:
 - [Mana Crypt](https://scryfall.com/card/2xm/270/mana-crypt)
 - [Thassa's Oracle](https://scryfall.com/card/thb/73/thassas-oracle)
 
-##### 8
+#### Power Level 8
 
 Cards in Power Level 8 should be slightly less powerful than nines but still strong and versatile. These cards typically:
 
@@ -145,7 +145,7 @@ Examples:
 - [Smothering Tithe](https://scryfall.com/card/cmm/57/smothering-tithe)
 - [Rhystic Study](https://scryfall.com/card/jmp/169/rhystic-study)
 
-##### 7
+#### Power Level 7
 
 Cards in Power Level 7 should be stronger than those found in a standard pre-constructed deck, offering solid power without being an immediate threat to the table. These cards typically:
 
@@ -158,7 +158,7 @@ Example:
 - [Fetch Lands](https://scryfall.com/search?q=is%3Afetchland&unique=cards&as=grid&order=name)
 - [Shock Lands](https://scryfall.com/search?q=is%3Ashockland&unique=cards&as=grid&order=name)
 
-##### 6
+#### Power Level 6
 
 Cards in Power Level 6 are commonly found in standard pre-constructed decks and are generally solid choices. These would be considered Commander staples. These cards typically:
 
@@ -172,7 +172,7 @@ Example:
 - [Arcane Signet](https://scryfall.com/card/dsc/92/arcane-signet)
 - [Cultivate](https://scryfall.com/card/dsc/174/cultivate)
 
-##### 5
+#### Power Level 5
 
 Cards in Power Level 5 are considered average and may be specific to certain Commanders or strategies. These cards typically:
 
@@ -184,21 +184,21 @@ Examples:
 - [Caress of Phyrexia](https://scryfall.com/card/nph/53/caress-of-phyrexia)
 - [Palani's Hatcher](https://scryfall.com/card/lci/237/palanis-hatcher)
 
-##### 4
+#### Power Level 4
 
 Cards in Power Level 4 are generally weaker and specific to certain Commanders, often appearing somewhat janky. These cards typically:
 
 1. Are notably weak and tailored to a particular Commander
 2. May be included for thematic reasons
 
-##### 3
+#### Power Level 3
 
 Cards in Power Level 3 are considered bulk cards that are not lands and lack special utility. These cards typically:
 
 1. Include creatures, instants, and sorceries that are generally seen as bulk
 2. May consist of weaker dual lands
 
-##### 2
+#### Power Level 2
 
 Cards in Power Level 2 are lands that are slightly better than basic lands. These cards typically:
 
@@ -208,7 +208,7 @@ Examples:
 
 - [Snow Lands](https://scryfall.com/search?q=t%3Asnow+t%3Abasic&unique=cards&as=grid&order=name)
 
-##### 1
+#### Power Level 1
 
 Cards in Power Level 1 are essentially neutral to a deck. These cards are basic lands.
 
@@ -220,15 +220,13 @@ Examples:
 
 Pepper Level measures how fun or friendly a card is. It reflects the excitement players feel when facing that card. A card that is perceived as particularly frustrating or unfun to play against will have a low Pepper Level.
 
-#### Guidelines
+### Guidelines
 
-##### 9
+#### Pepper Level 9
 
 Cards in Pepper Level 9 are the most enjoyable in Commander. These are the cards that bring smiles and excitement to the battlefield, as players are eager to engage with their mechanics.
 
--
-
-##### 8
+#### Pepper Level 8
 
 Cards in Pepper Level 8 are highly enjoyable for the table, though they may asymmetrically affect one or two players, either positively or negatively.
 
@@ -236,7 +234,7 @@ Examples:
 
 - [Descent into Avernus](https://scryfall.com/card/clb/169/descent-into-avernus)
 
-##### 7
+#### Pepper Level 7
 
 Cards in Pepper Level 7 are enjoyable for one or two players and generate interesting interactions.
 
@@ -244,7 +242,7 @@ Examples:
 
 - [Wedding Ring](https://scryfall.com/card/voc/32/wedding-ring)
 
-##### 6
+#### Pepper Level 6
 
 Cards in Pepper Level 6 are mostly enjoyable for one player, while the rest of the table appreciates the card and is happy to see it played.
 
@@ -252,11 +250,11 @@ Examples:
 
 - [Concordant Crossroads](https://scryfall.com/card/2x2/141/concordant-crossroads)
 
-##### 5
+#### Pepper Level 5
 
 Cards in Pepper Level 5 are emotionally neutral for the table.
 
-##### 4
+#### Pepper Level 4
 
 Cards in Pepper Level 4 are annoying for one player and the table generally agrees.
 
@@ -264,7 +262,7 @@ Examples:
 
 - [Fierce Guardianship](https://scryfall.com/card/cmm/94/fierce-guardianship)
 
-##### 3
+#### Pepper Level 3
 
 Cards in Pepper Level 3 are irritating for multiple players and significantly diminish the enjoyment of the game.
 
@@ -272,7 +270,7 @@ Examples:
 
 - [Rhystic Study](https://scryfall.com/card/jmp/169/rhystic-study)
 
-##### 2
+#### Pepper Level 2
 
 Cards in Pepper Level 2 tend to frustrate the table significantly, causing players to feel salty and negatively impacting the overall mood of the game.
 
@@ -280,7 +278,7 @@ Examples:
 
 - [Tergrid, God of Fright](https://scryfall.com/card/khm/112/tergrid-god-of-fright-tergrids-lantern)
 
-##### 1
+#### Pepper Level 1
 
 Cards in Pepper Level 1 elicit audible groans from players, who may choose to concede rather than engage with the card. Playing against these cards is generally considered very unfun.
 
