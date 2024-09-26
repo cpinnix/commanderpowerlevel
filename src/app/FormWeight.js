@@ -12,10 +12,13 @@ import {
   CardDescription,
 } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
-import { Separator } from "@/components/ui/separator";
+import { v4 } from "uuid";
 
 export default function FormWeight() {
   const [weight, setWeight] = useState(5);
+
+  const [name, setName] = useState("Sol Ring");
+  const [type, setType] = useState("power");
 
   return (
     <Card
@@ -25,7 +28,7 @@ export default function FormWeight() {
     >
       <CardHeader>
         <CardTitle className="text-gray-400">
-          How Powerful is <span className="text-black">Sol Ring?</span>
+          How Powerful is <span className="text-black">{name}?</span>
         </CardTitle>
         <CardDescription>
           Refer to{" "}
@@ -62,7 +65,30 @@ export default function FormWeight() {
         />
       </CardContent>
       <CardFooter className="flex justify-end">
-        <Button>Submit</Button>
+        <Button
+          {...{
+            async onClick() {
+              let userId = localStorage.getItem("user.id");
+
+              if (!userId) {
+                userId = v4();
+
+                localStorage.setItem("user.id", userId);
+              }
+
+              await fetch("api/weight/write", {
+                method: "POST",
+                headers: {
+                  Accept: "application/json",
+                  "Content-Type": "application/json",
+                },
+                body: JSON.stringify({ name, type, weight, userId }),
+              });
+            },
+          }}
+        >
+          Submit
+        </Button>
       </CardFooter>
     </Card>
   );
