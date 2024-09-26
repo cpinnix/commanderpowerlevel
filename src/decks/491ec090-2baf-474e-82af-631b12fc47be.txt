@@ -1,0 +1,88 @@
+1 Pantlaza, Sun-Favored (LCC) 4
+1 Akroma's Will (LCC) 125
+1 Apex Altisaur (LCC) 232
+1 Arcane Signet (CMM) 367
+1 Arch of Orazca (LCC) 319
+1 Arid Mesa (MH2) 244
+1 Atzocan Seer (LCC) 265
+1 Bala Ged Recovery // Bala Ged Sanctuary (ZNR) 180
+1 Birds of Paradise (DMR) 151
+1 Bonehoard Dracosaur (LCI) 134
+1 Boseiju, Who Endures (NEO) 266
+1 Bronzebeak Foragers (LCC) 69
+1 Carnage Tyrant (XLN) 179
+1 Chandra's Ignition (LCC) 220
+1 Clifftop Retreat (DOM) 239
+1 Command Tower (CC2) 8
+1 Cryptic Gateway (DMR) 218
+1 Cultivate (LCC) 235
+1 Curious Altisaur (LCC) 90
+1 Dinosaur Egg (LCC) 92
+1 Drover of the Mighty (LCC) 239
+1 Earthshaker Dreadmaw (LCI) 183
+1 Ephemerate (MH1) 7
+1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
+1 Etali, Primal Storm (LCC) 224
+1 Evolving Wilds (IKO) 247
+1 Exotic Orchard (C21) 288
+1 Farseek (LCC) 242
+1 Fiery Confluence (CMM) 222
+1 Flawless Maneuver (C20) 26
+6 Forest (IKO) 272
+1 Fortified Village (LCC) 331
+1 From the Rubble (LCC) 72
+1 Furycalm Snarl (LCC) 333
+1 Generous Gift (MH1) 11
+1 Gishath, Sun's Avatar (LCI) 229
+1 Greater Good (2XM) 170
+1 Hulking Raptor (LCI) 191
+1 Itzquinth, Firstborn of Gishath (LCI) 230
+1 Jungle Shrine (LCC) 338
+1 Kessig Wolf Run (LCC) 340
+1 Kinjalli's Sunwing (LCC) 130
+1 Marauding Raptor (M20) 150
+1 Mosswort Bridge (LCC) 342
+5 Mountain (IKO) 269
+1 Myriad Landscape (C21) 304
+1 Otepec Huntmaster (LCC) 229
+1 Palani's Hatcher (LCI) 237
+1 Path to Exile (2XM) 25
+4 Plains (IKO) 260
+1 Quartzwood Crasher (LCC) 281
+1 Raging Swordtooth (XLN) 226
+1 Rampaging Brontodon (LCC) 247
+1 Rampant Growth (CMR) 432
+1 Ranging Raptors (XLN) 201
+1 Realmwalker (KHM) 188
+1 Regal Behemoth (LCC) 251
+1 Regisaur Alpha (LCC) 286
+1 Return of the Wildspeaker (ELD) 172
+1 Rhythm of the Wild (LCC) 287
+1 Ripjaw Raptor (LCC) 253
+1 Rishkar's Expertise (AER) 123
+1 Rogue's Passage (C21) 312
+1 Savage Stomp (LCC) 257
+1 Scion of Calamity (LCC) 93
+1 Secluded Courtyard (LCC) 350
+1 Sneak Attack (DMR) 139
+1 Sol Ring (CMM) 410
+1 Stomping Ground (RNA) 259
+1 Sunfrill Imitator (LCC) 94
+1 Temple Altisaur (LCC) 138
+1 Temple Garden (GRN) 258
+1 Terramorphic Expanse (TSR) 285
+1 Thrashing Brontodon (LCI) 216
+1 Thunderherd Migration (LCC) 259
+1 Topiary Stomper (SNC) 160
+1 Tyrranax Rex (ONE) 189
+1 Unclaimed Territory (LCC) 366
+1 Urza's Saga (MH2) 259
+1 Wakening Sun's Avatar (LCC) 139
+1 Wayward Swordtooth (LCC) 263
+1 Windswept Heath (MH3) 235
+1 Wooded Foothills (MH3) 236
+1 Wrathful Raptors (LCC) 88
+1 Xenagos, God of Revels (LCC) 295
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Zacama, Primal Calamity (LCC) 296
+1 Zetalpa, Primal Dawn (LCC) 141

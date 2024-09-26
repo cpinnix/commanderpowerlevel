@@ -1,0 +1,82 @@
+1 Hakbal of the Surging Soul (LCC) 3
+1 Aetherize (LCC) 142
+1 Alchemist's Refuge (LCC) 318
+1 Arcane Signet (CMM) 367
+1 Beast Within (ONC) 104
+1 Benthic Biomancer (LCC) 145
+1 Branching Evolution (MH3) 285
+1 Breeding Pool (RNA) 246
+1 Bygone Marvels (LCC) 89
+1 Cold-Eyed Selkie (LCC) 266
+1 Command Tower (CC2) 8
+1 Counterspell (MH2) 267
+1 Deepchannel Mentor (SHM) 35
+1 Deeproot Elite (LCC) 237
+1 Deeproot Historian (LCC) 91
+1 Deeproot Waters (LCC) 152
+1 Emperor Mihail II (LCC) 155
+1 Evolution Sage (WAR) 159
+1 Exploration (2XM) 167
+1 Explore (LCC) 241
+1 Fierce Guardianship (CMM) 94
+7 Forest (IKO) 272
+1 Growth Spiral (LCC) 270
+1 Hardened Scales (KTK) 133
+1 Herald of Secret Streams (LCC) 158
+1 Hinterland Harbor (DOM) 240
+1 Inspiring Call (LCC) 244
+13 Island (IKO) 263
+1 Karn's Bastion (WAR) 248
+1 Kindred Discovery (LCC) 159
+1 Kiora's Follower (LCC) 273
+1 Kodama's Reach (MOC) 306
+1 Kopala, Warden of Waves (LCC) 160
+1 Kumena, Tyrant of Orazca (LCC) 274
+1 Master of the Pearl Trident (LCC) 162
+1 Merfolk Looter (AFC) 86
+1 Merfolk Mistbinder (LCC) 276
+1 Merfolk Skydiver (LCC) 277
+1 Merfolk Sovereign (LCC) 164
+1 Merrow Commerce (LRW) 72
+1 Merrow Reejerey (LCC) 165
+1 Metallic Mimic (LCC) 308
+1 Mist Dancer (LCC) 76
+1 Misty Rainforest (MH2) 250
+1 Mosswort Bridge (LCC) 342
+1 Nicanzil, Current Conductor (LCI) 236
+1 Path of Ancestry (CMM) 423
+1 Quandrix Command (LCC) 280
+1 Rapid Hybridization (LCC) 166
+1 Ravenform (LCC) 167
+1 Realmwalker (KHM) 188
+1 Reconnaissance Mission (IKO) 65
+1 Reflections of Littjara (KHM) 73
+1 Rejuvenating Springs (CMR) 354
+1 Reliquary Tower (CMR) 488
+1 Ripples of Potential (LCC) 77
+1 Rogue's Passage (C21) 312
+1 Ruinous Intrusion (LCC) 255
+1 Sage of Fables (LCC) 169
+1 Seafloor Oracle (LCC) 170
+1 Secluded Courtyard (LCC) 350
+1 Simic Ascendancy (LCC) 288
+1 Simic Growth Chamber (2X2) 331
+1 Singer of Swift Rivers (LCC) 98
+1 Sol Ring (CMM) 410
+1 Stonybrook Banneret (LCC) 173
+1 Surgespanner (LCC) 174
+1 Svyelun of Sea and Sky (LCC) 175
+1 Swan Song (THS) 65
+1 Swiftfoot Boots (CMR) 474
+1 Tatyova, Benthic Druid (DOM) 206
+1 Temple of Mystery (LCC) 357
+1 Thieving Skydiver (LCC) 177
+1 Tishana, Voice of Thunder (LCC) 291
+1 Topography Tracker (LCC) 95
+1 Tributary Instructor (LCC) 96
+1 Unclaimed Territory (LCC) 366
+1 Vineglimmer Snarl (LCC) 368
+1 Vodalian Hexcatcher (DMU) 75
+1 Wave Goodbye (LCC) 79
+1 Yavimaya Coast (DMU) 261
+1 Zegana, Utopian Speaker (LCC) 298

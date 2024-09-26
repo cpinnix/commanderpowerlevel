@@ -1,0 +1,70 @@
+1 Purphoros, God of the Forge (THS) 135
+1 Arcane Signet (CMM) 367
+1 Beetleback Chief (JMP) 294
+1 Blasphemous Act (2XM) 117
+1 Brightstone Ritual (ONS) 191
+1 Chandra, Torch of Defiance (KLD) 110
+1 Chaos Warp (AFC) 117
+1 City on Fire (MOM) 135
+1 Conspicuous Snoop (M21) 139
+1 Deflecting Swat (CMM) 214
+1 Den of the Bugbear (AFR) 254
+1 Descent into Avernus (CLB) 169
+1 Dictate of the Twin Gods (JOU) 93
+1 Dockside Extortionist (C19) 24
+1 Dragon Fodder (JMP) 309
+1 Endless Atlas (2XM) 251
+1 Faithless Looting (C21) 168
+1 Fiery Emancipation (M21) 143
+1 Forgotten Cave (MH1) 239
+1 Goblin Assault (MM3) 95
+1 Goblin Bombardment (MH2) 279
+1 Goblin Chainwhirler (DOM) 129
+1 Goblin Instigator (JMP) 327
+1 Goblin King (9ED) 192
+1 Goblin Lackey (V09) 5 *F*
+1 Goblin Matron (MH1) 129
+1 Goblin Offensive (USG) 192
+1 Goblin Rabblemaster (DDT) 46
+1 Goblin Recruiter (VIS) 80
+1 Goblin Ringleader (M20) 143
+1 Goblin Warchief (DOM) 130
+1 Goblin Warrens (6ED) 187
+1 Goblinslide (KTK) 109
+1 Hazoret's Monument (AKH) 229
+1 Hordeling Outburst (A25) 134
+1 Idol of Oblivion (C21) 246
+1 Impact Tremors (DTK) 140
+1 Impulsive Pilferer (CMR) 185
+1 Jeska's Will (CMR) 187
+1 Jeweled Lotus (CMR) 319
+1 Kiki-Jiki, Mirror Breaker (J22) 79
+1 Krenko, Mob Boss (JMP) 339
+1 Krenko, Tin Street Kingpin (WAR) 137
+1 Krenko's Command (DDT) 53
+1 Legion Warboss (GRN) 109
+1 Leyline of Punishment (M11) 148
+1 Mind Stone (DMR) 232
+1 Mind's Eye (BBD) 240
+1 Mogg War Marshal (TSR) 176
+31 Mountain (IKO) 269
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Panharmonicon (TSR) 399
+1 Pashalik Mons (MH1) 138
+1 Ruby Medallion (CMM) 405
+1 Sensei's Divining Top (EMA) 232
+1 Siege-Gang Commander (DOM) 143
+1 Skullclamp (DST) 140
+1 Sol Ring (CMM) 410
+1 Solphim, Mayhem Dominus (ONE) 150
+1 Squee, the Immortal (DOM) 146
+1 Sulfuric Vortex (EMA) 150
+1 Thrill of Possibility (ELD) 146
+1 Throne of the God-Pharaoh (AKH) 237
+1 Tibalt's Trickery (KHM) 153
+1 Unexpected Windfall (AFR) 164
+1 Urza's Saga (MH2) 259
+1 Valakut, the Molten Pinnacle (ZEN) 228
+1 Vandalblast (AFC) 148
+1 War Room (CMR) 361
+1 Wheel of Misfortune (CMR) 211

@@ -1,0 +1,82 @@
+1 Xyris, the Writhing Storm (DMC) 175
+1 Adrix and Nev, Twincasters (MKC) 198
+1 An Offer You Can't Refuse (SNC) 51
+1 Arcane Denial (CMR) 393
+1 Bala Ged Recovery // Bala Ged Sanctuary (ZNR) 180
+1 Blasphemous Act (2XM) 117
+1 Boseiju, Who Endures (NEO) 266
+1 Breeding Pool (RNA) 246
+1 Champion of Lambholt (2XM) 156
+1 Circle of Dreams Druid (AFR) 176
+1 Command Tower (CC2) 8
+1 Counterspell (MH2) 267
+1 Craterhoof Behemoth (CMM) 280
+1 Cryptolith Rite (SOI) 200
+1 Cultivate (LCC) 235
+1 Curiosity Crafter (C21) 24
+1 Cyclonic Rift (CMM) 84
+1 Deflecting Swat (CMM) 214
+1 Dictate of Kruphix (JOU) 37
+1 Dragon Mage (C16) 124
+1 Echo of Eons (MH1) 46
+1 Edric, Spymaster of Trest (C16) 195
+1 End-Raze Forerunners (RNA) 124
+1 Exploration (DMR) 159
+1 Fabled Passage (ELD) 244
+1 Farseek (LCC) 242
+1 Fierce Guardianship (CMM) 94
+6 Forest (IKO) 272
+1 Heartwood Storyteller (TSR) 209
+1 Heroic Intervention (CMM) 295
+1 Howling Mine (C16) 257
+1 Impact Tremors (DTK) 140
+8 Island (IKO) 263
+1 Jace's Archivist (C15) 95
+1 Jaheira, Friend of the Forest (CLB) 237
+1 Kami of the Crescent Moon (SOK) 42
+1 Ketria Triome (IKO) 250
+1 Kodama's Reach (MOC) 306
+1 Magus of the Wheel (C15) 27
+1 Mana Drain (CMR) 80
+1 Misty Rainforest (MH2) 250
+1 Molten Psyche (SOM) 98
+7 Mountain (IKO) 269
+1 Nature's Lore (DMR) 170
+1 Otawara, Soaring City (NEO) 271
+1 Parallel Lives (P22) 3 *F*
+1 Prosperity (C13) 54
+1 Psychosis Crawler (CN2) 215
+1 Purphoros, God of the Forge (CMM) 246
+1 Rampant Growth (CMR) 432
+1 Reforge the Soul (AVR) 151
+1 Rejuvenating Springs (CMR) 354
+1 Reliquary Tower (CMR) 488
+1 Rites of Flourishing (C16) 163
+1 Rogue's Passage (C21) 312
+1 Saryth, the Viper's Fang (MID) 197
+1 Scalding Tarn (MH2) 254
+1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 76
+1 Search for Tomorrow (TSR) 229
+1 Skullclamp (DST) 140
+1 Spire Garden (CLB) 361
+1 Steam Vents (GRN) 257
+1 Stomping Ground (RNA) 259
+1 Teferi's Puzzle Box (J22) 801
+1 Temple Bell (C16) 277
+1 The Locust God (C20) 219
+1 Three Visits (CMR) 261
+1 Time Reversal (M11) 75
+1 Training Center (CMR) 358
+1 Tyvar's Stand (ONE) 190
+1 Underworld Breach (THB) 161
+1 Veil of Summer (PLST) M20-198
+1 Wall of Blossoms (MH1) 190
+1 Wheel and Deal (ONS) 121
+1 Wheel of Fate (TSR) 198
+1 Wheel of Fortune (3ED) 185
+1 Wheel of Misfortune (CMR) 211
+1 Wild Growth (DMR) 184
+1 Windfall (IMA) 77
+1 Witty Roastmaster (SNC) 131
+1 Wood Elves (POR) 195
+1 Wooded Foothills (MH3) 236

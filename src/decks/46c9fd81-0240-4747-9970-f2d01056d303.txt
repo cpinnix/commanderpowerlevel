@@ -1,0 +1,73 @@
+1 Indoraptor, the Perfect Hybrid (REX) 15 *F*
+1 Arcane Signet (CMM) 367
+1 Atarka's Command (DTK) 213
+1 Bala Ged Recovery // Bala Ged Sanctuary (ZNR) 180
+1 Bloodstained Mire (MH3) 216
+1 Bolt Bend (WAR) 115
+1 Branching Evolution (MH3) 285
+1 Caltrops (7ED) 288
+1 Chandra's Incinerator (PM21) 136s *F*
+1 Command Tower (CC2) 8
+1 Cultivate (LCC) 235
+1 Deflecting Swat (CMM) 214
+1 Descent into Avernus (CLB) 169
+1 Domri Rade (MM3) 161
+1 Domri, Anarch of Bolas (WAR) 191
+1 Dual Shot (XLN) 141
+1 Earthquake (M10) 134
+1 Farseek (LCC) 242
+1 Fiery Confluence (CMM) 222
+1 Fight Rigging (SNC) 145
+1 Fire Ants (BRB) 27
+1 Forerunner of the Empire (RIX) 102
+10 Forest (IKO) 272
+1 Gimli's Reckless Might (LTC) 494
+1 Goblin Anarchomancer (MH2) 200
+1 Greater Good (2XM) 170
+1 Heartless Hidetsugu (CMM) 539 *E*
+1 Heroic Intervention (CMM) 295
+1 Ignoble Hierarch (MH2) 166
+1 Khalni Ambush // Khalni Territory (ZNR) 192
+1 Lightning Bolt (E01) 54
+1 Marauding Raptor (M20) 150
+1 Migration Path (IKO) 164
+10 Mountain (IKO) 269
+1 Nature's Lore (DMR) 170
+1 Neyith of the Dire Hunt (JMP) 30
+1 Overgrown Tomb (GRN) 253
+1 Pestilence (USG) 147
+1 Plague Spitter (INV) 119
+1 Polyraptor (RIX) 144
+1 Primal Might (M21) 197
+1 Pyrohemia (CMD) 132
+1 Raging Swordtooth (XLN) 226
+1 Rain of Embers (RAV) 138
+1 Rampant Growth (CMR) 432
+1 Ranging Raptors (XLN) 201
+1 Reckless Rage (RIX) 110
+1 Return of the Wildspeaker (ELD) 172
+1 Rile (XLN) 158
+1 Ripjaw Raptor (XLN) 203
+1 Rishkar's Expertise (AER) 123
+1 Rite of Passage (5DN) 91
+1 Rolling Earthquake (2XM) 142
+1 Shake the Foundations (RIX) 113
+1 Silverclad Ferocidons (RIX) 115
+1 Snakeskin Veil (KHM) 194
+1 Sol Ring (CMM) 410
+1 Spikefield Hazard // Spikefield Cave (ZNR) 166
+1 Subterranean Tremors (CN2) 58
+1 Sulfurous Springs (DMU) 256
+10 Swamp (IKO) 266
+1 Tamiyo's Safekeeping (NEO) 211
+1 The Great Henge (ELD) 161
+1 The Skullspore Nexus (LCI) 212
+1 Thrashing Wumpus (MMQ) 166
+1 Three Visits (CMR) 261
+1 Tremor (7ED) 225
+1 Uncivil Unrest (MOC) 35
+1 Undergrowth Stadium (CMR) 359
+1 Verdant Catacombs (MH2) 260
+1 Wild Growth (DMR) 184
+1 Xenagos, God of Revels (LCC) 295
+1 Ziatora's Proving Ground (SNC) 261

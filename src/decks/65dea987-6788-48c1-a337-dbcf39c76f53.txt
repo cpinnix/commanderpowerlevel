@@ -1,0 +1,73 @@
+1 Inga and Esika (MOM) 229
+1 An Offer You Can't Refuse (SNC) 51
+1 Ancient Silver Dragon (CLB) 56
+1 Arbor Elf (A25) 160
+1 Arcane Signet (CMM) 367
+1 Bala Ged Recovery // Bala Ged Sanctuary (ZNR) 180
+1 Beast Whisperer (GRN) 123
+1 Beast Within (ONC) 104
+1 Birds of Paradise (DMR) 151
+1 Champion of Lambholt (2XM) 156
+1 Chasm Skulker (M15) 46
+1 Circle of Dreams Druid (AFR) 176
+1 Command Tower (CC2) 8
+1 Counterspell (MH2) 267
+1 Craterhoof Behemoth (CMM) 280
+1 Cultivate (LCC) 235
+1 Cyclonic Rift (CMM) 84
+1 Elvish Mystic (SLD) 475
+1 Eternal Witness (CMR) 425
+1 Fabled Passage (ELD) 244
+1 Farhaven Elf (CMR) 225
+1 Farseek (LCC) 242
+1 Fierce Empath (2XM) 168
+1 Fierce Guardianship (CMM) 94
+13 Forest (IKO) 272
+1 Frilled Mystic (RNA) 174
+1 Fyndhorn Elves (CMR) 228
+1 Generous Stray (GRN) 129
+1 Gyre Engineer (RNA) 180
+1 Hinterland Harbor (DOM) 240
+1 Hullbreaker Horror (CLB) 724
+1 Hydroid Krasis (2X2) 228
+1 Ilysian Caryatid (THB) 174
+16 Island (IKO) 263
+1 Kelpie Guide (STX) 45
+1 Kinnan, Bonder Prodigy (IKO) 192
+1 Kodama's Reach (MOC) 306
+1 Kozilek, Butcher of Truth (2X2) 2
+1 Llanowar Elves (EMA) 175
+1 Llanowar Scout (DOM) 170
+1 Llanowar Tribe (MH1) 170
+1 Llanowar Visionary (M21) 193
+1 Misty Rainforest (MH2) 250
+1 Mystic Snake (A25) 208
+1 Nature's Lore (DMR) 170
+1 Negate (RIX) 44
+1 Peregrine Drake (DMR) 65
+1 Rampant Growth (CMR) 432
+1 Reclamation Sage (2XM) 178
+1 Rejuvenating Springs (CMR) 354
+1 Reliquary Tower (CMR) 488
+1 Rogue's Passage (C21) 312
+1 Scute Swarm (ZNR) 203
+1 Search for Tomorrow (TSR) 229
+1 Simic Growth Chamber (2X2) 331
+1 Skyscanner (M21) 238
+1 Sol Ring (CMM) 410
+1 Solemn Simulacrum (M21) 239
+1 Springbloom Druid (MH1) 181
+1 Sun Quan, Lord of Wu (CMM) 123
+1 Three Visits (CMR) 261
+1 Tome Raider (ELD) 68
+1 Tooth and Nail (CMM) 327
+1 Topiary Stomper (SNC) 160
+1 Tribute to the World Tree (MOM) 211
+1 Trygon Predator (EMA) 209
+1 Tyrranax Rex (ONE) 189
+1 Urza's Saga (MH2) 259
+1 Vorinclex // The Grand Evolution (MOM) 213
+1 Wall of Blossoms (MH1) 190
+1 Wonder (MH2) 271
+1 Wood Elves (POR) 195
+1 Yavimaya Coast (DMU) 261
