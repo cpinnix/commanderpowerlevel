@@ -234,17 +234,20 @@ export default function PowerLevelForm() {
                     };
                   });
 
-                  console.log(deckList);
-
                   const cardCount = deckList.length;
 
                   let score =
                     deckList.reduce((score, card) => {
                       const { name, count } = card;
 
-                      const weight =
-                        PowerWeights.find((row) => row.name === name)?.weight ||
-                        5;
+                      let weight = PowerWeights.find(
+                        (row) => row.name === name
+                      )?.weight;
+
+                      if (!weight) {
+                        console.log("power.weight.miss", "-", JSON.stringify({ name })); // prettier-ignore
+                        weight = 5;
+                      }
 
                       return score + weight * count;
                     }, 0) / cardCount;
