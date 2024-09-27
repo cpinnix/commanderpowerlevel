@@ -12,101 +12,88 @@ import { cn } from "@/lib/utils";
 import { useState } from "react";
 import PowerWeights from "@/weights/power.csv";
 
+const sampleDeckList = `1 Kiki-Jiki, Mirror Breaker (SLD) 1659 *F*
+1 Abrade (LCI) 131 *F*
+1 Arcane Signet (SLD) 820★ *F*
+1 Arni Metalbrow (MAT) 66 *F*
+1 Barbarian Ring (MH3) 299 *F*
+1 Blasphemous Act (PLST) CMR-162 *F*
+1 Brass's Tunnel-Grinder // Tecutlan, the Searing Rift (LCI) 373 *F*
+1 Breya's Apprentice (MH2) 117 *F*
+1 Buried Ruin (2XM) 312 *F*
+1 Call Forth the Tempest (LTC) 553 *F*
+1 Cavalier of Flame (M20) 125 *F*
+1 Chandra, Dressed to Kill (VOW) 279 *F*
+1 Chaos Warp (2X2) 359 *F*
+1 Charming Scoundrel (WOE) 345 *F*
+1 Cursed Mirror (WHO) 1065 *F*
+1 Cybermen Squadron (WHO) 176 *F*
+1 Daretti, Scrap Savant (CMM) 531 *E*
+1 Deflecting Swat (CMM) 532 *E*
+1 Demand Answers (MKM) 306 *F*
+1 Dualcaster Mage (EMA) 127 *F*
+1 Extraplanar Lens (CMM) 656 *F*
+1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (PNEO) 141s *F*
+1 Fear of Burning Alive (DSK) 135 *F*
+1 Fear of Missing Out (DSK) 316 *F*
+1 Flaming Tyrannosaurus (WHO) 690 *F*
+1 Flare of Duplication (MH3) 119 *F*
+1 Forgotten Cave (40K) 280★ *F*
+1 Fury (PMH2) 126s *F*
+1 Gamble (DMR) 321 *F*
+1 Gearbane Orangutan (MKM) 129 *F*
+1 Glittering Stockpile (SNC) 107 *F*
+1 Hellkite Tyrant (RVR) 333 *F*
+1 Humble Defector (A25) 135 *F*
+1 Into the Fire (MOM) 364 *F*
+1 Jaxis, the Troublemaker (SNC) 461 *F*
+1 Jeska's Will (CMR) 187 *F*
+1 Kazuul's Fury // Kazuul's Cliffs (ZNR) 146 *F*
+1 Koth, Fire of Resistance (ONE) 446 *F*
+1 Krenko's Buzzcrusher (MKM) 136 *F*
+1 Lightning Bolt (SLD) 86 *F*
+1 Lightning Greaves (SLD) 1662 *F*
+1 Marvin, Murderous Mimic (DSK) 253 *F*
+1 Maze of Ith (DMR) 456 *F*
+1 Meteor Golem (SLD) 1660 *F*
+1 Mind Stone (PW21) 5 *F*
+22 Mountain (CLB) 465 *F*
+1 Myr Convert (ONE) 479 *F*
+1 Myriad Landscape (CMM) 660 *F*
+1 Ornithopter of Paradise (MH2) 430 *F*
+1 Patriar's Seal (CLB) 332 *F*
+1 Pinnacle Monk // Mystic Peak (MH3) 246 *F*
+1 Plaza of Heroes (DMU) 421 *F*
+1 Powerbalance (MH3) 131 *F*
+1 Professional Face-Breaker (PSNC) 116p *F*
+1 Ragavan, Nimble Pilferer (MH2) 138 *F*
+1 Siege-Gang Commander (DMR) 436 *F*
+1 Siege-Gang Lieutenant (M3C) 61 *F*
+1 Skyline Despot (CMM) 254 *F*
+1 Smoldering Crater (DMR) 257 *F*
+1 Sneak Attack (DMR) 331 *F*
+1 Sokenzan, Crucible of Defiance (NEO) 415 *F*
+1 Sol Ring (SLD) 1664 *F*
+1 Solemn Simulacrum (WHO) 246 *F*
+1 Sting, the Glinting Dagger (LTR) 409 *F*
+1 Sundering Eruption // Volcanic Fissure (MH3) 248 *F*
+1 Sunscorched Desert (AKH) 249 *F*
+1 Sunspine Lynx (BLB) 292 *F*
+1 The Autonomous Furnace (ONE) 247 *F*
+1 The One Ring (LTR) 451 *F*
+1 Thought Vessel (SLD) 1665 *F*
+1 Tibalt's Trickery (KHM) 153 *F*
+1 Trumpeting Carnosaur (LCI) 324 *F*
+1 Tyrite Sanctum (KHM) 272 *F*
+1 Unexpected Windfall (AFR) 164 *F*
+1 War Room (CMR) 361 *F*
+1 Wayfarer's Bauble (CLB) 344 *F*
+1 Wheel of Misfortune (CMR) 211 *F*
+1 Wild Magic Surge (CLB) 206 *F*
+1 Wurmcoil Engine (SLD) 1661 *F*`;
+
 export default function PowerLevelForm() {
-  const [deckListInput, setDeckListInput] =
-    useState(`1 Atraxa, Praetors' Voice (2XM) 190
-1 Abundant Growth (AFC) 150
-1 Adrix and Nev, Twincasters (MKC) 198
-1 Anointed Procession (AKH) 2
-1 Aura Shards (PLST) INV-233
-1 Awakening Zone (2XM) 153
-1 Bastion of Remembrance (IKO) 73
-1 Bennie Bracks, Zoologist (NCC) 86
-1 Blood Artist (2X2) 70
-1 Boseiju, Who Endures (NEO) 266
-1 Bountiful Promenade (CLB) 348
-1 Breeding Pool (RNA) 246
-1 Brokers Ascendancy (SNC) 170
-1 Command Tower (CC2) 8
-1 Crawlspace (DMR) 217
-1 Cultivate (LCC) 235
-1 Deathspore Thallid (TSR) 109
-1 Demonic Tutor (UMA) 93
-1 Doubling Season (CMM) 283
-1 Elvish Farmer (FEM) 66
-1 Esper Sentinel (MH2) 12
-1 Farseek (LCC) 242
-1 Fertilid (IKO) 152
-1 Fierce Guardianship (CMM) 94
-1 Flooded Strand (MH3) 220
-4 Forest (IKO) 272
-1 Fungal Rebirth (M21) 182
-1 Ghostly Prison (CHK) 10
-1 Godless Shrine (RNA) 248
-1 Hallowed Fountain (SLD) 123
-1 Indatha Triome (IKO) 248
-2 Island (IKO) 263
-1 Kodama's Reach (MOC) 306
-1 Llanowar Elves (EMA) 175
-1 Malakir Rebirth // Malakir Mire (ZNR) 111
-1 Marsh Flats (MH2) 248
-1 Maze of Ith (DMR) 250
-1 Mirkwood Bats (LTR) 95
-1 Misty Rainforest (MH2) 250
-1 Moldervine Reclamation (M20) 214
-1 Mondrak, Glory Dominus (ONE) 23
-1 Morphic Pool (CLB) 357
-1 Mycologist (TSR) 29
-1 Mystical Tutor (DMR) 60
-1 No Mercy (DMR) 95
-1 Overgrown Tomb (GRN) 253
-1 Parallel Lives (P22) 3 *F*
-1 Pitiless Plunderer (RIX) 81
-3 Plains (IKO) 260
-1 Polluted Delta (MH3) 224
-1 Propaganda (TMP) 80
-1 Raffine's Tower (SNC) 254
-1 Rampant Growth (CMR) 432
-1 Rejuvenating Springs (CMR) 354
-1 Resourceful Defense (NCC) 19
-1 Rhystic Study (JMP) 169
-1 Rogue's Passage (C21) 312
-1 Sakura-Tribe Elder (CLB) 832
-1 Sea of Clouds (BBD) 84
-1 Skullclamp (DST) 140
-1 Smothering Tithe (P22) 5 *F*
-1 Sol Ring (CMM) 410
-1 Spara's Headquarters (SNC) 257
-1 Sprout Swarm (FUT) 138
-2 Swamp (IKO) 266
-1 Syr Konrad, the Grim (ELD) 107
-1 Teferi's Protection (2X2) 32
-1 Temple Garden (GRN) 258
-1 Tendershoot Dryad (RIX) 147
-1 Thallid (MMA) 167
-1 Thallid Shell-Dweller (TSR) 237
-1 The One Ring (LTR) 246
-1 The Ozolith (IKO) 237
-1 Three Visits (CMR) 261
-1 Undergrowth Stadium (CMR) 359
-1 Urborg, Tomb of Yawgmoth (TSR) 287
-1 Utopia Mycon (TSR) 244
-1 Vampiric Tutor (CMR) 156
-1 Vault of Champions (CMR) 360
-1 Verdant Catacombs (MH2) 260
-1 Verdant Embrace (AFC) 173
-1 Verdant Force (DOM) 187
-1 Vitaspore Thallid (PLC) 143
-1 Vraska, Betrayal's Sting (ONE) 115
-1 Watery Grave (GRN) 259
-1 Welcoming Vampire (VOW) 46
-1 Wild Growth (DMR) 184
-1 Windswept Heath (MH3) 235
-1 Worldly Tutor (DMR) 185
-1 Xavier Sal, Infested Captain (LCC) 14
-1 Yavimaya, Cradle of Growth (MH2) 261
-1 Zagoth Triome (IKO) 259
-1 Zulaport Cutthroat (A25) 117`);
+  const [deckListInput, setDeckListInput] = useState(sampleDeckList);
 
   return (
     <div>
