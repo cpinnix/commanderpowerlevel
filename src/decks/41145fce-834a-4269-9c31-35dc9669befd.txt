@@ -1,0 +1,72 @@
+1 Street Urchin (CLB) 510 *E*
+1 Zellix, Sanity Flayer (CLB) 652 *F*
+1 Abrade (LCI) 131 *F*
+1 Academy Ruins (MMA) 219 *F*
+1 Altar of Dementia (BRR) 3 *F*
+1 Altar of the Brood (KTK) 216 *F*
+1 Arcane Signet (CMR) 297 *F*
+1 Brain Freeze (SLD) 410 *F*
+1 Bruvac the Grandiloquent (RVR) 309 *F*
+1 Chaos Warp (WHO) 1064 *F*
+1 Command Tower (SLD) 1666 *F*
+1 Counterspell (CMM) 630 *F*
+1 Court of Cunning (CMR) 63 *F*
+1 Cut Your Losses (SNC) 410 *F*
+1 Drift of Phantasms (RVR) 314 *F*
+1 Evolving Wilds (SLD) 824 *F*
+1 Fabricate (40K) 181 *F*
+1 Fascination (FRF) 34 *F*
+1 Fleet Swallower (SLD) 316 *E*
+1 Folio of Fancies (PELD) 46p *F*
+1 Fractured Sanity (MH2) 44 *F*
+1 Hair-Strung Koto (CHK) 252 *F*
+1 Intruder Alarm (WOT) 21 *F*
+1 Ipnu Rivulet (HOU) 180 *F*
+12 Island (AFR) 267 *F*
+1 Izzet Signet (PLST) MM3-223 *F*
+1 Jace, the Perfected Mind (ONE) 336 *F*
+1 Lightning Bolt (CLB) 401 *F*
+1 Maddening Cacophony (ZNR) 67 *F*
+1 Mesmeric Orb (BRR) 94 *F*
+1 Midnight Clock (ELD) 54 *F*
+1 Mind Stone (DMR) 232 *F*
+1 Mirelurk Queen (PIP) 377 *F*
+1 Mizzium Mortars (RTR) 101 *F*
+1 Mizzix's Mastery (STA) 43 *F*
+12 Mountain (CLB) 465 *F*
+1 Negate (M12) 69 *F*
+1 Ornithopter of Paradise (MH2) 232 *F*
+1 Overwhelmed Apprentice (ELD) 60 *F*
+1 Past in Flames (WHO) 565 *F*
+1 Patient Rebuilding (PM19) 67s *F*
+1 Personal Tutor (CMM) 633 *F*
+1 Propaganda (ACR) 85 *F*
+1 Psychic Spiral (RTR) 47 *F*
+1 Ral, Crackling Wit (BLB) 230 *F*
+1 Realmbreaker, the Invasion Tree (MOM) 374 *F*
+1 Reliquary Tower (PLG20) 1 *F*
+1 Resculpt (CMM) 115 *F*
+1 Riverglide Pathway // Lavaglide Pathway (SLU) 20 *F*
+1 Ruin Crab (ZNR) 295 *F*
+1 Skullclamp (SLD) 1663 *F*
+1 Sol Ring (SLD) 1664 *F*
+1 Solve the Equation (SLD) 1022 *F*
+1 Startled Awake // Persistent Nightmare (SOI) 88 *F*
+1 Steam Vents (RVR) 298 *F*
+1 Stitcher Geralf (CMM) 121 *F*
+1 Stormcarved Coast (VOW) 265 *F*
+1 Sulfur Falls (DMR) 400 *F*
+1 Sword of Body and Mind (2XM) 363 *F*
+1 Talisman of Creativity (H1R) 34 *E*
+1 Tasha's Hideous Laughter (AFR) 368 *F*
+1 Terisian Mindbreaker (PBRO) 83s *F*
+1 Thought Scour (2X2) 351 *F*
+1 Thought Vessel (SLD) 1665 *F*
+1 Thundering Falls (PMKM) 269p *F*
+1 Training Center (CMM) 665 *F*
+1 Traumatize (M10) 77 *F*
+1 Undead Alchemist (ISD) 84 *F*
+1 Underworld Breach (THB) 161 *F*
+1 Valakut Awakening // Valakut Stoneforge (ZNR) 174 *F*
+1 Vantress Gargoyle (ELD) 349 *F*
+1 Wayfarer's Bauble (CLB) 344 *F*

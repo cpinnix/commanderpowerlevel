@@ -1,0 +1,79 @@
+1 The Gitrog, Ravenous Ride (OTJ) 206
+1 Abyssal Persecutor (WWK) 47
+1 Archfiend of the Dross (ONE) 82
+1 Arid Archway (OTJ) 252
+1 Assassin's Trophy (MKM) 187
+1 Beanstalk Giant // Fertile Footsteps (ELD) 149
+1 Beast Within (C21) 186
+1 Bristly Bill, Spine Sower (OTJ) 157
+1 Bucolic Ranch (OTJ) 265
+1 Cactus Preserve (OTC) 40
+1 Clackbridge Troll (ELD) 84
+1 Command Tower (C17) 242
+1 Cultivate (M21) 177
+1 Daemogoth Titan (STX) 174
+1 Darkbore Pathway // Slitherbore Pathway (KHM) 292
+1 Desecration Demon (RTR) 63 *F*
+1 Desecration Elemental (5DN) 45
+1 Disciple of Bolas (C20) 132
+1 Doom Blade (M12) 95
+1 Egon, God of Death // Throne of Death (KHM) 92
+1 Endless Wurm (USG) 249
+1 Exponential Growth (STX) 130
+1 Exsanguinate (SOM) 61
+1 Ezuri's Predation (CLB) 824
+1 Festering Gulch (OTJ) 257
+1 Fight Rigging (SNC) 145
+12 Forest (SOI) 296
+1 Gaea's Gift (BRO) 182
+1 Garruk's Uprising (M21) 186
+1 Golgari Rot Farm (RAV) 278
+1 Golgari Signet (GK1) 73
+1 Greater Good (BBD) 201
+1 Grothama, All-Devouring (BBD) 71
+1 Heroic Intervention (AER) 109
+1 Hunted Horror (RAV) 90
+1 Hunted Troll (RAV) 170
+1 Intrepid Stablemaster (OTJ) 169 *F*
+1 Llanowar Elves (3ED) 211
+1 Llanowar Wastes (9ED) 322
+1 Lord of the Pit (4ED) 144
+1 Master of the Feast (JOU) 75
+1 Momentous Fall (C19) 173
+1 Monstrous Vortex (MH3) 162
+1 Nature's Lore (CLB) 244
+1 Phyrexian Negator (UDS) 65
+1 Phyrexian Soulgorger (PLST) CSP-141
+1 Plague Reaver (CMR) 143
+1 Psychosis Crawler (MOC) 371
+1 Ram Through (IKO) 170
+1 Rampant Growth (M12) 190
+1 Restless Cottage (WOE) 258
+1 Retreat to Hagra (BFZ) 121
+1 Retreat to Kazandu (DDP) 21
+1 Revitalizing Repast // Old-Growth Grove (MH3) 256
+1 Riveteers Overlook (SNC) 255
+1 Rotting Regisaur (M20) 111
+1 Saryth, the Viper's Fang (MID) 197
+1 Scavenger Grounds (HOU) 182
+1 Shakedown Heavy (SNC) 95
+1 Sheltering Ancient (CSP) 121
+1 Sol Ring (NCC) 379
+1 Spelunking (LCI) 213
+11 Swamp (SOI) 291
+1 Talisman of Resilience (MH1) 234
+1 Tamiyo's Safekeeping (NEO) 211
+1 The Skullspore Nexus (LCI) 212
+1 Topiary Stomper (SNC) 160
+1 Transmogrant's Crown (BRO) 125 *F*
+1 Treacherous Pit-Dweller (AVR) 121
+1 Undergrowth Stadium (CMR) 359
+1 Varolz, the Scar-Striped (DGM) 112
+1 Village Rites (M21) 126
+1 Wayward Swordtooth (RIX) 150
+1 Woodland Cemetery (ISD) 249
+1 Woodland Chasm (KHM) 274
+1 Wretched Anurid (ONS) 183
+1 Wumpus Aberration (MH3) 176 *F*
+1 Xathrid Demon (M10) 122
+1 Zopandrel, Hunger Dominus (ONE) 315

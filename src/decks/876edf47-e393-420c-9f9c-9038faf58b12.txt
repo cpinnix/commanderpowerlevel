@@ -1,0 +1,56 @@
+1 Bjorna, Nightfall Alchemist (SLD) 344 *F*
+1 Wernog, Rider's Chaplain (SLD) 347 *F*
+1 Adarkar Wastes (BLC) 291
+1 Arcane Signet (CMR) 297 *F*
+1 Baleful Strix (DMC) 143
+1 Basilisk Collar (PIP) 225
+1 Battlefield Forge (DMC) 198
+1 Caves of Koilos (C21) 283
+1 Chthonian Nightmare (MH3) 83
+1 Clifftop Retreat (OTC) 278
+1 Command Tower (CMR) 350 *F*
+1 Dauthi Voidwalker (MH2) 397 *F*
+1 Dragonskull Summit (PIP) 261
+1 Drowned Catacomb (E01) 94
+1 Entomb (DMR) 426
+1 Esper Sentinel (H2R) 2
+1 Exotic Orchard (WHO) 276 *F*
+1 Fellwar Stone (BLC) 269
+1 Flawless Maneuver (CMM) 24
+1 Gamble (DMR) 321
+1 Glacial Fortress (PIP) 266
+1 Goblin Engineer (MH1) 128
+1 Goro-Goro, Disciple of Ryusei (NEO) 145
+1 Hangarback Walker (J22) 772
+1 Ichor Wellspring (BRC) 143
+1 Ingenious Prodigy (WOE) 56
+3 Island (AFR) 267 *F*
+1 Isolated Chapel (PIP) 269
+1 Kroxa, Titan of Death's Hunger (MUL) 49
+1 Lightning Greaves (C19) 217
+1 Lotho, Corrupt Shirriff (LTR) 213
+1 Lotus Petal (P30M) 2 *E*
+1 Marionette Apprentice (MH3) 100
+1 Mikaeus, the Lunarch (MIC) 89
+1 Mockingbird (BLB) 305 *F*
+3 Mountain (CLB) 465 *F*
+1 Mox Amber (DOM) 224
+1 Path to Exile (BLC) 147
+3 Plains (AFR) 265 *F*
+1 Ragavan, Nimble Pilferer (H2R) 11
+1 Seal of Cleansing (MKC) 80
+1 Seal of Removal (MH2) 269
+1 Serra Ascendant (M11) 28
+1 Sevinne's Reclamation (MKC) 83
+1 Shivan Devastator (DMU) 143
+1 Shivan Reef (ORI) 251
+1 Spire of Industry (MKC) 296
+1 Stonecoil Serpent (ELD) 235
+1 Sulfur Falls (PIP) 294
+1 Sulfurous Springs (PDMU) 256p
+3 Swamp (AFR) 270 *F*
+1 Swords to Plowshares (EMA) 32
+1 Tolaria West (PLST) TSR-286
+1 Underground River (BRO) 267
+1 Walking Ballista (AER) 181
+1 Wishclaw Talisman (PELD) 110p *F*

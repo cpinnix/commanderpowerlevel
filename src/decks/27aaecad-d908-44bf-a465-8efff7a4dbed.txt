@@ -1,0 +1,92 @@
+1 Bruse Tarl, Boorish Herder (CMR) 517 *E*
+1 Yoshimaru, Ever Faithful (SLD) 794 *F*
+1 Adeline, Resplendent Cathar (MID) 312 *F*
+1 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger (MH3) 442 *F*
+1 Andúril, Narsil Reforged (LTC) 491 *F*
+1 Arcane Signet (CMR) 297 *F*
+1 Arid Mesa (MH2) 244 *F*
+1 Aurelia, the Law Above (MKM) 357 *F*
+1 Aurelia, the Warleader (MUL) 35 *F*
+1 Boromir, Warden of the Tower (LTR) 302 *F*
+1 Brass's Tunnel-Grinder // Tecutlan, the Searing Rift (LCI) 373 *F*
+1 Brimaz, King of Oreskos (SLD) 497 *F*
+1 Clifftop Retreat (DMR) 393 *F*
+1 Comet, Stellar Pup (UNF) 526 *F*
+1 Command Tower (CMR) 350 *F*
+1 Council's Judgment (SLD) 1635★ *F*
+1 Deflecting Swat (CMM) 532 *E*
+1 Eiganjo, Seat of the Empire (NEO) 268 *F*
+1 Elegant Parlor (PMKM) 260s *F*
+1 Embercleave (PELD) 120p *F*
+1 Emeria's Call // Emeria, Shattered Skyclave (ZNR) 12 *F*
+1 Éomer, Marshal of Rohan (LTR) 428 *F*
+1 Excalibur, Sword of Eden (ACR) 169 *F*
+1 Flare of Duplication (MH3) 119 *F*
+1 Flowering of the White Tree (LTR) 759 *F*
+1 Furycalm Snarl (WHO) 499 *F*
+1 Gandalf the White (LTR) 305 *F*
+1 Generous Gift (H1R) 2 *E*
+1 Gimli of the Glittering Caves (LTC) 434 *F*
+1 Gisela, Blade of Goldnight (CMM) 682 *F*
+1 Glóin, Dwarf Emissary (LTR) 771 *F*
+1 Goro-Goro, Disciple of Ryusei (NEO) 145 *F*
+1 Hall of Heliod's Generosity (H1R) 39 *F*
+1 Hammer of Purphoros (THS) 124 *F*
+1 Inspiring Vantage (OTJ) 269 *F*
+1 Inti, Seneschal of the Sun (LCI) 156 *F*
+1 Karlach, Fury of Avernus (CLB) 400 *F*
+1 Kor Haven (LTC) 368 *F*
+1 Lae'zel, Vlaakith's Champion (CLB) 378 *F*
+1 Lightning Bolt (CLB) 401 *F*
+1 Loyal Retainers (CMM) 465 *E*
+1 Mila, Crafty Companion // Lukka, Wayward Bonder (STX) 277 *F*
+1 Minas Tirith (LTR) 341 *F*
+1 Mines of Moria (LTR) 342 *F*
+1 Mithril Coat (LTR) 790 *F*
+1 Mizzium Mortars (RTR) 101 *F*
+1 Monumental Henge (MH3) 354 *F*
+1 Moraug, Fury of Akoum (ZNR) 300 *F*
+5 Mountain (CLB) 465 *F*
+1 Mox Amber (BRR) 35 *F*
+1 Needleverge Pathway // Pillarverge Pathway (ZNR) 263 *F*
+1 Norin the Wary (SLD) 827 *F*
+1 Ornithopter of Paradise (MH2) 430 *F*
+1 Path to Exile (SLD) 226 *F*
+1 Phelia, Exuberant Shepherd (MH3) 40 *F*
+1 Pit of Offerings (LCI) 278 *F*
+5 Plains (AFR) 265 *F*
+1 Plargg, Dean of Chaos // Augusta, Dean of Order (STX) 328 *F*
+1 Purphoros, God of the Forge (THS) 135 *F*
+1 Ragavan, Nimble Pilferer (MH2) 138 *F*
+1 Relic of Legends (DMU) 236 *F*
+1 Sacred Foundry (UNF) 285 *F*
+1 Search for Glory (KHM) 27 *F*
+1 Senu, Keen-Eyed Protector (ACR) 128 *F*
+1 Shadowspear (LTC) 353 *F*
+1 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 354 *F*
+1 Shinka, the Bloodsoaked Keep (LTC) 374 *F*
+1 Skrelv, Defector Mite (ONE) 301 *F*
+1 Sokenzan, Crucible of Defiance (NEO) 276 *F*
+1 Sol Ring (PLG22) 1 *F*
+1 Spectator Seating (CMM) 664 *F*
+1 Springleaf Drum (2XM) 291 *F*
+1 Sunscorched Divide (PIP) 445 *F*
+1 Sword of the Animist (CMM) 616 *E*
+1 Talisman of Conviction (SLD) 1060 *E*
+1 Tarrian's Soulcleaver (LCI) 389 *F*
+1 Temple of Triumph (M21) 256 *F*
+1 Teshar, Ancestor's Apostle (PDOM) 36s *F*
+1 The Capitoline Triad (ACR) 172 *E*
+1 The Grey Havens (LTR) 255 *F*
+1 The One Ring (LTR) 451 *F*
+1 The Ozolith (IKO) 237 *F*
+1 The Reaver Cleaver (M3C) 217 *F*
+1 Tibalt's Trickery (KHM) 360 *F*
+1 Urabrask, Heretic Praetor (SNC) 346 *F*
+1 Urza's Ruinous Blast (DOM) 39 *F*
+1 Valakut Awakening // Valakut Stoneforge (ZNR) 355 *F*
+1 War of the Last Alliance (LTR) 36 *F*
+1 War Room (WHO) 330 *F*
+1 Warleader's Call (MKM) 315 *F*
+1 Wayfarer's Bauble (CLB) 344 *F*
+1 Wear // Tear (PLST) DGM-135 *F*

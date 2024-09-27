@@ -1,0 +1,95 @@
+1 Tiamat (SLD) 1017 *F*
+1 Adarkar Wastes (DMU) 243 *F*
+1 Ancient Gold Dragon (CLB) 376 *F*
+1 Ancient Silver Dragon (PCLB) 56s *F*
+1 Anguished Unmaking (PIP) 1001 *F*
+1 Animate Dead (PD3) 16 *F*
+1 Arcane Signet (CMM) 653 *F*
+1 Assassin's Trophy (2X2) 372 *F*
+1 Atarka, World Render (PRES) 149 *F*
+1 Battlefield Forge (BRO) 297 *F*
+1 Beledros Witherbloom (STX) 282 *F*
+1 Birds of Paradise (M11) 165 *F*
+1 Bloom Tender (2X2) 366 *F*
+1 Brushland (BRO) 298 *F*
+1 Carnelian Orb of Dragonkind (CLB) 166 *F*
+1 Caves of Koilos (DMU) 378 *F*
+1 Chaos Warp (WHO) 1064 *F*
+1 Chromatic Lantern (BRR) 10 *F*
+1 Command Tower (CMM) 659 *F*
+1 Crib Swap (2XM) 12 *F*
+1 Crystal Dragon // Rob the Hoard (CLB) 13 *F*
+1 Cultivate (M21) 317 *F*
+1 Deathcap Glade (VOW) 261 *F*
+1 Delighted Halfling (LTR) 402 *F*
+1 Deserted Beach (MID) 260 *F*
+1 Dreamroot Cascade (PVOW) 262s *F*
+1 Dryad of the Ilysian Grove (THB) 169 *F*
+1 Eternal Witness (P30A) 12 *F*
+1 Exotic Orchard (WHO) 276 *F*
+1 Finale of Devastation (CMM) 700 *F*
+2 Forest (M21) 313 *F*
+1 Garruk's Uprising (WOT) 53 *F*
+1 Growth Spiral (STA) 61 *F*
+1 Haunted Ridge (WHO) 1093 *F*
+1 Herigast, Erupting Nullkite (MH3) 8 *F*
+1 Hoarding Broodlord (MOM) 360 *F*
+1 Hour of Promise (HOU) 120 *F*
+1 Ignoble Hierarch (MH2) 355 *F*
+2 Island (M21) 310 *F*
+1 Karplusan Forest (DMU) 379 *F*
+1 Kolaghan, the Storm's Fury (FRF) 155 *F*
+1 Kyodai, Soul of Kamigawa (NEO) 407 *F*
+1 Lathliss, Dragon Queen (PRES) 149★ *F*
+1 Leyline of the Guildpact (MKM) 217 *F*
+1 Llanowar Wastes (BRO) 264 *F*
+1 Lotho, Corrupt Shirriff (LTR) 213 *F*
+1 Mana Confluence (CMR) 721 *F*
+1 Masked Vandal (KHM) 184 *F*
+1 Miirym, Sentinel Wyrm (CLB) 431 *F*
+1 Mirari's Wake (MH2) 291 *E*
+2 Mountain (M21) 312 *F*
+1 Nimbleclaw Adept (CLB) 86 *F*
+1 Noble Hierarch (2XM) 177 *F*
+1 Obsidian Charmaw (MH2) 353 *F*
+1 Old Gnawbone (AFR) 296 *F*
+1 Overgrown Farmland (MID) 283 *F*
+1 Path to Exile (OTP) 6 *F*
+2 Plains (M21) 309 *F*
+1 Rampant Growth (PW23) 9 *E*
+1 Reflecting Pool (J19) 8 *F*
+1 Rivaz of the Claw (DMU) 314 *F*
+1 Rockfall Vale (PMID) 266p *F*
+1 Sakura-Tribe Elder (PLG24) 1 *F*
+1 Sarkhan the Mad (PLST) ROE-214 *F*
+1 Sarkhan, Soul Aflame (MAT) 96 *F*
+1 Scion of Draco (MH2) 234 *F*
+1 Scourge of Valkas (SLD) 1490★ *F*
+1 Selvala, Heart of the Wilds (CMM) 1064 *F*
+1 Shattered Sanctum (VOW) 264 *F*
+1 Shipwreck Marsh (WHO) 305 *F*
+1 Shivan Reef (DMU) 255 *F*
+1 Sivitri, Dragon Master (DMC) 65 *E*
+1 Smuggler's Surprise (OTJ) 180 *F*
+1 Sneak Attack (2XM) 348 *F*
+1 Sol Ring (PLG22) 1 *F*
+1 Stormcarved Coast (WHO) 1109 *F*
+1 Sulfurous Springs (DMU) 256 *F*
+1 Sundown Pass (WHO) 520 *F*
+1 Supreme Verdict (2X2) 388 *F*
+2 Swamp (M21) 311 *F*
+1 Swords to Plowshares (V13) 2 *F*
+1 Taigam, Ojutai Master (MUL) 190 *F*
+1 Tangled Florahedron // Tangled Vale (ZNR) 211 *F*
+1 Terror of the Peaks (M21) 164 *F*
+1 The Ur-Dragon (CMM) 689 *F*
+1 The World Tree (PKHM) 275s *F*
+1 Thought Vessel (SLD) 1495★ *F*
+1 Thunderbreak Regent (PDTK) 162 *F*
+1 Timeless Lotus (DMU) 239 *F*
+1 Tooth and Nail (CMM) 652 *F*
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364 *F*
+1 Underground River (BRO) 267 *F*
+1 Up the Beanstalk (WOE) 195 *F*
+1 Utvara Hellkite (SLD) 1273 *F*
+1 Yavimaya Coast (ORI) 252 *F*

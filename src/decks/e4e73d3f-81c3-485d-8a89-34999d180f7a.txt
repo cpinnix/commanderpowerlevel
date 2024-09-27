@@ -1,0 +1,85 @@
+1 Iroas, God of Victory (JOU) 150
+1 Adeline, Resplendent Cathar (MID) 1
+1 Akroma's Will (CMR) 3
+1 Angel of Invention (KLD) 4
+1 Arcane Signet (ELD) 331
+1 Archangel Avacyn // Avacyn, the Purifier (SOI) 5
+1 Aurelia, Exemplar of Justice (GRN) 153
+1 Aurelia, the Law Above (MKM) 317
+1 Aurelia, the Warleader (GTC) 143
+1 Austere Command (IMA) 10
+1 Balefire Liege (EVE) 132
+1 Baneslayer Angel (M21) 6
+1 Battlefield Forge (ORI) 244
+1 Bonehoard Dracosaur (LCI) 321
+1 Boros Charm (C13) 179
+1 Boros Garrison (2X2) 401
+1 Boros Signet (C17) 205
+1 Brimaz, King of Oreskos (BNG) 5
+1 Captain Lannery Storm (XLN) 136
+1 Castle Embereth (ELD) 239
+1 Clifftop Retreat (DOM) 239
+1 Command Tower (C18) 240
+1 Dragonhawk, Fate's Tempest (BLB) 132
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Elegant Parlor (MKM) 260
+1 Embercleave (ELD) 120
+1 Etali, Primal Storm (RIX) 100
+1 Figure of Destiny (EVE) 139
+1 Ghost Quarter (ISD) 240
+1 Gisela, Blade of Goldnight (AVR) 209
+1 Glorybringer (AKH) 134
+1 God-Eternal Oketra (WAR) 16
+1 Goldspan Dragon (KHM) 139
+1 Goro-Goro, Disciple of Ryusei (NEO) 145 *F*
+1 Hazoret's Monument (AKH) 229
+1 Heliod's Intervention (THB) 19
+1 Hero of Bladehold (MBS) 8
+1 Inferno Titan (M11) 146
+1 Jeska's Will (CMR) 187
+1 Kabira Takedown // Kabira Plateau (ZNR) 19
+1 Knight of the White Orchid (ORI) 21
+1 Krenko, Tin Street Kingpin (WAR) 137
+1 Legion Loyalist (GTC) 97
+1 Legion Warboss (GRN) 109
+1 Lightning Greaves (PLST) C19-217
+1 Luminous Broodmoth (IKO) 21
+1 Marble Diamond (CMR) 323
+1 Martial Coup (CON) 11
+1 Mikokoro, Center of the Sea (A25) 241
+1 Mirror Entity (PLST) CMA-16
+8 Mountain (THS) 242
+1 Myriad Landscape (C19) 261
+1 Odric, Lunarch Marshal (SOI) 31
+1 Oketra the True (AKH) 21
+1 Oketra's Monument (AKH) 233
+1 Phyrexian Vindicator (ONE) 27
+9 Plains (THS) 232
+1 Platoon Dispenser (BRO) 36
+1 Prophetic Flamespeaker (JOU) 106
+1 Purphoros, God of the Forge (THS) 135
+1 Robber of the Rich (ELD) 138
+1 Rugged Prairie (EVE) 178
+1 Sacred Foundry (GRN) 254
+1 Sanctuary Warden (SNC) 30
+1 Scavenger Grounds (HOU) 182
+1 Secluded Steppe (MH1) 245
+1 Serra Ascendant (M11) 28
+1 Showdown of the Skalds (KHM) 229
+1 Sokenzan, Crucible of Defiance (NEO) 276
+1 Sol Ring (C19) 221
+1 Swords to Plowshares (3ED) 41
+1 Talisman of Conviction (MH1) 230
+1 Temple of Triumph (THS) 228
+1 Terror of the Peaks (M21) 164
+1 Trumpeting Carnosaur (LCI) 171
+1 Umezawa's Jitte (BOK) 163
+1 Urabrask the Hidden (IMA) 152
+1 Valakut Awakening // Valakut Stoneforge (ZNR) 174
+1 Virtue of Loyalty // Ardenvale Fealty (WOE) 38 *F*
+1 Wayfarer's Bauble (MM2) 234
+1 Wear // Tear (DGM) 135
+1 Wedding Announcement // Wedding Festivity (VOW) 45
+1 Welcoming Vampire (VOW) 46
+1 Windbrisk Heights (C16) 336
+1 Wurmcoil Engine (SOM) 223

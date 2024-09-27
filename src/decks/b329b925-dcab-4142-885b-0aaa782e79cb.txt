@@ -1,0 +1,76 @@
+1 Okaun, Eye of Chaos (SLD) 380 *F*
+1 Zndrsplt, Eye of Wisdom (SLD) 379 *F*
+1 Abrade (LCI) 131 *F*
+1 Ancient Silver Dragon (PCLB) 56s *F*
+1 Arcane Signet (CMM) 653 *F*
+1 Barbarian Ring (MH3) 299 *F*
+1 Breeches, the Blastmaker (OTJ) 292 *F*
+1 Cephalid Coliseum (MH3) 300 *F*
+1 Chandra's Ignition (M3C) 209 *F*
+1 Chaos Mutation (40K) 111★ *F*
+1 Chaotic Goo (SLD) 1658 *F*
+1 Circuits Act (UNF) 103 *F*
+1 Clown Car (UNF) 186 *F*
+1 Command Tower (SLD) 1666 *F*
+1 Contact Other Plane (AFR) 52 *F*
+1 Counterspell (DMR) 45 *F*
+1 Decanter of Endless Water (CLB) 444 *F*
+1 Disrupt Decorum (CMM) 1067 *F*
+1 Fabled Passage (PW21) 4 *F*
+1 Faerie Artisans (SLD) 1628★ *F*
+1 Fellwar Stone (CMM) 382 *F*
+1 Fiery Islet (WHO) 1086 *F*
+1 Fists of Flame (CMM) 223 *F*
+1 Fling (OTP) 24 *F*
+1 Grenzo, Havoc Raiser (SLD) 1621 *F*
+1 Guff Rewrites History (CMM) 767 *F*
+1 Haunted Cloak (SOI) 257 *F*
+1 Helm of the Host (BRR) 19 *F*
+1 Hive Mind (SLD) 822 *F*
+1 Invert Polarity (MH3) 459 *F*
+13 Island (AFR) 267 *F*
+1 Izzet Charm (2XM) 202 *F*
+1 Kazuul's Fury // Kazuul's Cliffs (ZNR) 146 *F*
+1 Krark, the Thumbless (SLD) 1543★ *F*
+1 Lightning Greaves (SLD) 1662 *F*
+1 Monastery Siege (FRF) 43★ *F*
+13 Mountain (CLB) 465 *F*
+1 Mox Tantalite (SLD) 1073 *E*
+1 Neera, Wild Mage (CLB) 434 *F*
+1 Ornithopter of Paradise (MH2) 430 *F*
+1 Powerbalance (MH3) 495 *F*
+1 Propaganda (SLD) 381 *F*
+1 Reality Shift (CMM) 113 *F*
+1 Restless Spire (PWOE) 260s *F*
+1 Sakashima of a Thousand Faces (CMR) 561 *E*
+1 Scampering Surveyor (LCI) 260 *F*
+1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333 *F*
+1 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (BOT) 6 *F*
+1 Sol Ring (PLG22) 1 *F*
+1 Sol Talisman (MH2) 236 *F*
+1 Spark Double (PWAR) 68p *F*
+1 Stitch in Time (SLD) 382 *F*
+1 Stormcarved Coast (WHO) 308 *F*
+1 Sword of Hearth and Home (MH2) 238 *F*
+1 Synthesis Pod (ONC) 33 *F*
+1 Talisman of Creativity (40K) 253★ *F*
+1 Tavern Scoundrel (MH2) 144 *F*
+1 Team Pennant (STX) 260 *F*
+1 Teferi's Ageless Insight (M21) 294 *F*
+1 Tempt with Mayhem (M3C) 62 *F*
+1 The Locust God (SLD) 903 *F*
+1 Thought Vessel (SLD) 1495★ *F*
+1 Tibalt's Trickery (KHM) 360 *F*
+1 Training Center (CMM) 665 *F*
+1 Treasure Chest (AFR) 395 *F*
+1 Treasure Nabber (CMM) 645 *F*
+1 Unleash Fury (M21) 170 *F*
+1 Volatile Stormdrake (MH3) 329 *F*
+1 Waltz of Rage (DSK) 165 *F*
+1 Wand of Wonder (CLB) 935 *F*
+1 Wayfarer's Bauble (CLB) 344 *F*
+1 Wheel of Misfortune (CMR) 211 *F*
+1 Wizard's Spellbook (AFR) 370 *F*
+1 You Find Some Prisoners (AFR) 169 *F*
+1 Yusri, Fortune's Flame (MH2) 492 *F*
+1 Zara, Renegade Recruiter (CMR) 614 *E*

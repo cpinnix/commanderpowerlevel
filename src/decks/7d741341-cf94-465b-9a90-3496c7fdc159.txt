@@ -1,0 +1,84 @@
+1 Asmoranomardicadaistinaculdacar (MH2) 417 *F*
+1 Academy Manufactor (PLST) MH2-219
+1 Arcane Signet (CMR) 297 *F*
+1 Archfiend of Ifnir (PAKH) 78 *F*
+1 Ash Barrens (NCC) 386
+1 Balefire Dragon (ISD) 129
+1 Barbed Servitor (MKM) 77
+1 Big Score (SNC) 102 *F*
+1 Blasphemous Act (ISD) 130
+1 Brash Taunter (MKC) 148
+1 Buried Ruin (PIP) 254
+1 Candy Trail (WOE) 243
+1 Canyon Slough (WHO) 259
+1 Chainer, Nightmare Adept (MH2) 419
+1 Change of Fortune (VOW) 150
+1 Chaos Warp (MKC) 149
+1 Collector's Vault (WOE) 244 *F*
+1 Command Tower (CMR) 350 *F*
+1 Daretti, Scrap Savant (C21) 164
+1 Dark Withering (C19) 110
+1 Deadly Dispute (CLB) 124
+1 Demand Answers (MKM) 306
+1 Demolition Field (M3C) 335
+1 Dimir House Guard (RVR) 324
+1 Dockside Chef (NEO) 93
+1 Donna Noble (WHO) 82
+1 Emrakul, the World Anew (MH3) 6
+1 Eriette's Tempting Apple (WOE) 245
+1 Faith of the Devoted (AKH) 90
+1 Faithless Looting (M3C) 211
+1 Fiendlash (AFC) 31
+1 Forbidden Orchard (2X2) 323
+1 Gamble (DMR) 321
+1 Gingerbrute (WOE) 246
+1 Graven Cairns (SHM) 272
+1 Hammer of Nazahn (2XM) 260
+1 Haunted Ridge (MID) 282
+1 Imperial Recruiter (A25) 136
+1 Jaxis, the Troublemaker (SNC) 425
+1 Key to the City (BRR) 27
+1 Magda, Brazen Outlaw (KHM) 142
+1 Magus of the Wheel (CMM) 241
+1 Mayhem Devil (WAR) 204 *F*
+1 Merchant of the Vale // Haggle (ELD) 131
+1 Mind Stone (CLB) 325
+1 Mithril Coat (LTR) 245
+9 Mountain (CLB) 465 *F*
+1 Myriad Landscape (VOC) 176
+1 Pariah's Shield (RVR) 393
+1 Party Thrasher (MH3) 129
+1 Path of Ancestry (P30A) 25 *F*
+1 Phyrexian Arena (ONE) 283 *F*
+1 Reliquary Tower (PLG20) 1 *F*
+1 Roadside Reliquary (NEO) 272 *F*
+1 Sazacap's Brew (BLB) 151
+1 Scavenger Grounds (PIP) 287
+1 Seize the Spoils (KHM) 149
+1 Shadow of the Grave (AKH) 107
+1 Smoldering Marsh (PIP) 292
+1 Sol Ring (PLG22) 1 *F*
+1 Solemn Simulacrum (M21) 239 *F*
+1 Solphim, Mayhem Dominus (ONE) 312
+1 Squee, Goblin Nabob (CMM) 258
+1 Star of Extinction (XLN) 161
+1 Stuffy Doll (M13) 218
+9 Swamp (AFR) 270 *F*
+1 Syr Ginger, the Meal Ender (WOE) 252
+1 Tainted Peak (M3C) 382
+1 Talisman of Indulgence (M3C) 312
+1 Tectonic Reformation (C20) 162
+1 Temple of Malice (DMC) 236
+1 Terminate (M3C) 274
+1 The Underworld Cookbook (MH2) 434
+1 Thought Vessel (MKC) 245
+1 Tibalt's Trickery (KHM) 153
+1 Toralf, God of Fury // Toralf's Hammer (KHM) 313
+1 Trading Post (M14) 225 *F*
+1 Transmutation Font (PW24) 11 *F*
+1 Treasure Vault (PIP) 314
+1 Unexpected Windfall (AFR) 164 *F*
+1 Urza's Saga (MH2) 259
+1 Voracious Fell Beast (LTR) 422 *F*
+1 Wayfarer's Bauble (CLB) 344 *F*
+1 Wrathful Red Dragon (CLB) 207

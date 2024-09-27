@@ -1,0 +1,79 @@
+1 Six (MH3) 370 *F*
+1 Abundance (40K) 210★ *F*
+1 Aftermath Analyst (MKM) 148 *F*
+1 Allosaurus Shepherd (2X2) 365 *F*
+1 Archdruid's Charm (MKM) 151 *F*
+1 Argoth, Sanctum of Nature (BRO) 256a *F*
+1 Bala Ged Recovery // Bala Ged Sanctuary (ZNR) 180 *F*
+1 Beast Within (PW23) 3 *F*
+1 Birthing Pod (SLC) 2011 *F*
+1 Bramble Sovereign (CLB) 372 *F*
+1 Bridgeworks Battle // Tanglespan Bridgeworks (MH3) 249 *F*
+1 Chord of Calling (2XM) 384 *F*
+1 Command Beacon (SLD) 1533★ *F*
+1 Commander's Sphere (CMM) 655 *F*
+1 Cultivate (PW23) 6 *F*
+1 Delighted Halfling (LTR) 158 *F*
+1 Eldritch Evolution (SLD) 1414 *F*
+1 Elvish Mystic (M15) 173 *F*
+1 Endurance (PMH2) 157s *F*
+1 Eternal Witness (P30A) 12 *F*
+1 Ezuri's Predation (CMM) 558 *E*
+1 Fauna Shaman (BRO) 179 *F*
+1 Flare of Cultivation (MH3) 154 *F*
+1 Force of Vigor (H1R) 21 *E*
+22 Forest (AFR) 281 *F*
+1 Gingerbread Cabin (ELD) 245 *F*
+1 Golgari Grave-Troll (RVR) 348 *F*
+1 Green Sun's Zenith (V13) 19 *F*
+1 Groundskeeper (SOI) 208 *F*
+1 Gruff Triplets (WOE) 357 *F*
+1 Guardian Project (RVR) 349 *F*
+1 Haywire Mite (BRO) 199 *F*
+1 Heroic Intervention (WHO) 233 *F*
+1 Invasion of Ikoria // Zilortha, Apex of Ikoria (MOM) 190 *F*
+1 Invasion of Zendikar // Awakened Skyclave (MOM) 194 *F*
+1 Kodama's Reach (CMM) 649 *F*
+1 Kura, the Boundless Sky (NEO) 478 *F*
+1 Life from the Loam (RVR) 350 *F*
+1 Liquimetal Torque (MH2) 428 *F*
+1 Llanowar Elves (M12) 182 *F*
+1 Lumra, Bellow of the Woods (BLB) 183 *F*
+1 Nevinyrral's Disk (MH2) 298 *E*
+1 Nissa, Ascended Animist (ONE) 339 *F*
+1 Nissa, Who Shakes the World (BLC) 84 *F*
+1 Nylea's Intervention (THB) 329 *F*
+1 Ominous Cemetery (WHO) 189 *F*
+1 Pair o' Dice Lost (UNF) 149 *F*
+1 Pendelhaven (J17) 8 *F*
+1 Perennial Behemoth (BRO) 202 *F*
+1 Perpetual Timepiece (KLD) 227 *F*
+1 Primal Command (OTP) 31 *F*
+1 Rampant Growth (PW23) 9 *E*
+1 Ramunap Excavator (PHOU) 129 *F*
+1 Reclamation Sage (2XM) 178 *F*
+1 Roadside Reliquary (NEO) 272 *F*
+1 Sakura-Tribe Elder (PLG24) 1 *F*
+1 Shifting Woodland (MH3) 228 *F*
+1 Sol Ring (PLG22) 1 *F*
+1 Splinterfright (2X2) 466 *E*
+1 Sylvan Safekeeper (MH3) 287 *F*
+1 Tangled Florahedron // Tangled Vale (ZNR) 211 *F*
+1 The Mending of Dominaria (DOM) 173 *F*
+1 The Shire (LTR) 260 *F*
+1 Timeless Witness (MH2) 358 *F*
+1 Titan of Industry (SNC) 289 *F*
+1 Titania, Nature's Force (BRC) 45 *F*
+1 Titania, Voice of Gaea (BRO) 193 *F*
+1 Toski, Bearer of Secrets (KHM) 319 *F*
+1 Tranquil Thicket (MH1) 248 *F*
+1 Treetop Village (P10E) 2 *F*
+1 Tribute to the World Tree (MOM) 211 *F*
+1 Trickster's Elk (MH3) 175 *F*
+1 Vivien on the Hunt (SNC) 347 *F*
+1 Vorinclex // The Grand Evolution (MOM) 301 *F*
+1 Wood Elves (P30A) 5 *F*
+1 Yavimaya, Cradle of Growth (MH2) 480 *F*
+1 Yeva, Nature's Herald (RVR) 162 *F*
+1 Yisan, the Wanderer Bard (M15) 209 *F*
+1 Zopandrel, Hunger Dominus (ONE) 356 *F*

@@ -1,0 +1,80 @@
+1 Chiss-Goria, Forge Tyrant (ONC) 25
+1 Arcane Signet (MKC) 223
+1 Argentum Masticore (ONE) 222
+1 Batterskull (NPH) 130
+1 Big Score (SNC) 102
+1 Blacksmith's Talent (BLB) 125
+1 Blasphemous Act (ISD) 130
+1 Bosh, Iron Golem (MRD) 147
+1 Breya's Apprentice (MH2) 117
+1 Bumbleflower's Sharepot (BLB) 244
+1 Buried Ruin (M12) 224
+1 Candy Trail (WOE) 243
+1 Chaos Warp (MKC) 149
+1 Chimil, the Inner Sun (LCI) 249
+1 Cityscape Leveler (BRO) 233
+1 Collector's Vault (WOE) 244 *F*
+1 Colossus of Akros (THS) 214
+1 Combustible Gearhulk (KLD) 112
+1 Daretti, Scrap Savant (C14) 33
+1 Darksteel Citadel (DST) 164
+1 Darksteel Forge (DST) 110
+1 Dowsing Device // Geode Grotto (LCI) 146
+1 Duplicant (CMM) 946
+1 Embercleave (ELD) 120
+1 Excalibur, Sword of Eden (ACR) 72
+1 Faithless Looting (C21) 168
+1 Fire Diamond (7ED) 296
+1 Forgotten Cave (MH1) 239
+1 Foundry Inspector (KLD) 215
+1 Goblin Engineer (MH1) 128
+1 Goblin Welder (C14) 177
+1 Great Furnace (MRD) 282
+1 Guild Artisan (CLB) 179
+1 Hammer of Nazahn (2XM) 260
+1 Hedron Crawler (OGW) 164
+1 Hellkite Igniter (MBS) 65
+1 Hexplate Wallbreaker (ONC) 14
+1 Inspired Tinkering (CLB) 183
+1 Iron Myr (SOM) 168
+1 Jeska's Will (CMR) 187
+1 Kaldra Compleat (CMM) 958
+1 Karn, Legacy Reforged (MAT) 49
+1 Kuldotha Forgemaster (SOM) 169
+1 Lightning Bolt (4ED) 208
+1 Liquimetal Torque (MH2) 428
+1 Lizard Blades (NEO) 153
+1 Mechtitan Core (NEO) 249
+1 Meteor Golem (CMM) 399
+1 Millikin (DMR) 231
+1 Mind Stone (DD2) 22
+26 Mountain (ONE) 265
+1 Mystic Forge (M20) 233
+1 Nettlecyst (MH2) 231
+1 Nimblewright Schematic (CLB) 330
+1 Noble's Purse (CLB) 331
+1 Ornithopter of Paradise (MH2) 430
+1 Palladium Myr (SOM) 190
+1 Portal to Phyrexia (BRO) 240
+1 Prized Statue (CLB) 334
+1 Scene of the Crime (MKM) 267
+1 Sculpting Steel (MRD) 238
+1 Servo Schematic (AER) 176
+1 Smoldering Crater (DMR) 257
+1 Sol Ring (MKC) 237
+1 Solemn Simulacrum (C20) 253
+1 Spine of Ish Sah (MBS) 136
+1 Spinerock Knoll (LRW) 274
+1 Steel Hellkite (C17) 225
+1 Stonecoil Serpent (ELD) 235
+1 Sundering Eruption // Volcanic Fissure (MH3) 248
+1 Swiftfoot Boots (PLST) M12-219
+1 The Irencrag (WOE) 248
+1 The Reaver Cleaver (DMC) 8
+1 Threefold Thunderhulk (LCI) 265
+1 Tibalt's Trickery (KHM) 153
+1 Trash for Treasure (MRD) 109
+1 Treasure Vault (AFR) 261
+1 Unexpected Windfall (AFR) 164
+1 Unstable Amulet (MH3) 142
+1 Wayfarer's Bauble (CLB) 344

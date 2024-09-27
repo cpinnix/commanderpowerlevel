@@ -1,0 +1,63 @@
+1 Flubs, the Fool (BLC) 356
+1 Agate Instigator (BLC) 21
+1 Anger (UMA) 122
+1 Aquamoeba (TOR) 24
+1 Arcane Signet (AFC) 197
+1 Birgi, God of Storytelling // Harnfel, Horn of Bounty (KHM) 123
+1 Bountiful Landscape (MH3) 217
+1 Chatterstorm (MH2) 411
+1 Colossal Skyturtle (NEO) 216
+1 Command Tower (BLC) 130
+1 Commercial District (MKM) 259
+1 Dryad of the Ilysian Grove (M3C) 225
+1 Emerald Medallion (CMM) 379
+1 Eruth, Tormented Prophet (VOW) 237
+1 Evolving Wilds (BRO) 261
+1 Exotic Orchard (BLC) 131
+1 Experimental Frenzy (GRN) 99
+1 Exploration (DMR) 159
+1 Explore (OTC) 192
+1 Fabled Passage (BLB) 252
+8 Forest (BLB) 278
+1 Fortune Teller's Talent (BLC) 14
+1 Frontier Bivouac (KTK) 234
+1 Future Sight (MH1) 53
+1 Ghostly Pilferer (M21) 52
+1 Goblin Anarchomancer (MH2) 421
+1 Goblin Electromancer (RVR) 367
+1 Gruul Turf (2X2) 407
+1 Impact Tremors (WOT) 44
+1 Inti, Seneschal of the Sun (LCI) 156
+6 Island (BLB) 268
+1 Izzet Boilerworks (2X2) 408
+1 Karplusan Forest (DMU) 250
+1 Kazuul's Fury // Kazuul's Cliffs (ZNR) 146
+1 Kitsa, Otterball Elite (BLB) 54
+1 Lightning Greaves (C19) 217
+1 Locket of Yesterdays (TSP) 258
+1 Mizzix's Mastery (RVR) 339
+1 Molten Gatekeeper (MH3) 128
+6 Mountain (BLB) 275
+1 Nantuko Shrine (ODY) 256
+1 Noose Constrictor (EMN) 164
+1 Otherworldly Gaze (MID) 67
+1 Path of Ancestry (CMR) 353
+1 Pinnacle Monk // Mystic Peak (MH3) 246
+1 Rejuvenating Springs (CMR) 354
+1 Restless Ridgeline (LCI) 350
+1 Rites of Flourishing (BLC) 122
+1 Shifting Woodland (MH3) 228
+1 Simic Growth Chamber (C16) 326
+21 Slime Against Humanity (MKM) 177
+1 Sol Ring (MIC) 162
+1 Song of Creation (IKO) 210
+1 Stomping Ground (RNA) 259
+1 Storm-Kiln Artist (STX) 115
+1 Stormcatch Mentor (BLB) 234
+1 Stormsplitter (BLB) 154
+1 Summer Bloom (9ED) 273
+1 Swiftfoot Boots (NCC) 382
+1 The Reality Chip (NEO) 74
+1 Valakut Exploration (ZNR) 175
+1 Windrider Wizard (ZNR) 87
+1 Witty Roastmaster (SNC) 131

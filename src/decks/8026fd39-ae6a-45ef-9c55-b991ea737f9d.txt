@@ -1,0 +1,100 @@
+1 Derevi, Empyrial Tactician (CMR) 518 *E*
+1 Adarkar Wastes (DMU) 377 *F*
+1 An Offer You Can't Refuse (SNC) 464 *F*
+1 Ancient Tomb (LTC) 357 *F*
+1 Arcane Signet (SLD) 589 *E*
+1 Avacyn's Pilgrim (F12) 8 *F*
+1 Aven Interrupter (OTJ) 309 *F*
+1 Beast Within (SLD) 323 *F*
+1 Birds of Paradise (DMR) 336 *F*
+1 Birthing Pod (J20) 7 *F*
+1 Blind Obedience (WOT) 1 *F*
+1 Bloom Tender (SLD) 284 *F*
+1 Boseiju, Who Endures (NEO) 412 *F*
+1 Bountiful Promenade (ZNE) 20 *F*
+1 Breeding Pool (UNF) 286 *F*
+1 Brushland (BRO) 298 *F*
+1 Captain Sisay (V11) 2 *F*
+1 Chord of Calling (RVR) 345 *F*
+1 Chromatic Orrery (LCC) 107 *F*
+1 City of Brass (2X2) 403 *F*
+1 Command Tower (SLD) 1666 *F*
+1 Concordant Crossroads (2X2) 367 *F*
+1 Cyclonic Rift (CMM) 485 *E*
+1 Deadeye Navigator (AVR) 47 *F*
+1 Delighted Halfling (LTR) 402 *F*
+1 Delney, Streetwise Lookout (MKM) 337 *F*
+1 Dour Port-Mage (BLB) 303 *F*
+1 Edric, Spymaster of Trest (CM1) 8 *F*
+1 Eiganjo, Seat of the Empire (NEO) 502 *F*
+1 Eladamri's Call (MH1) 197 *F*
+1 Eldritch Evolution (SLP) 5 *F*
+1 Elesh Norn, Grand Cenobite (MUL) 3 *F*
+1 Emiel the Blessed (2X2) 338 *F*
+1 Enlightened Tutor (J20) 2 *F*
+1 Esper Sentinel (MH2) 328 *F*
+1 Eternal Witness (SLD) 1522★ *F*
+1 Exotic Orchard (SLD) 1231 *F*
+1 Fanatic of Rhonas (MH3) 458 *F*
+1 Fierce Guardianship (CMM) 489 *E*
+1 Final Showdown (OTJ) 11 *F*
+1 Finale of Devastation (PWAR) 160s *F*
+1 Flooded Strand (ZNE) 1 *F*
+1 Force of Will (DMR) 418 *F*
+1 Forest (DSK) 276 *F*
+1 Grand Abolisher (CMM) 625 *F*
+1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (LCI) 380 *F*
+1 Hallowed Fountain (PRNA) 251p *F*
+1 Hedge Maze (MKM) 326 *F*
+1 Horizon Canopy (ZNE) 26 *F*
+1 Invasion of Ikoria // Zilortha, Apex of Ikoria (PMOM) 190s *F*
+1 Island (DSK) 273 *F*
+1 Kinnan, Bonder Prodigy (IKO) 338 *F*
+1 Legolas's Quick Reflexes (LTC) 493 *F*
+1 Lightning Greaves (SLD) 1662 *F*
+1 Loran of the Third Path (BRO) 304 *F*
+1 Mana Confluence (SLD) 1012a *F*
+1 Meticulous Archive (MKM) 328 *F*
+1 Minamo, School at Water's Edge (LTC) 369 *F*
+1 Misty Rainforest (MH2) 438 *E*
+1 Mockingbird (BLB) 305 *F*
+1 Mox Amber (BRR) 35 *F*
+1 Neoform (WAR) 206 *F*
+1 Noble Hierarch (PUMA) U18 *F*
+1 Otawara, Soaring City (NEO) 503 *F*
+1 Path to Exile (PF20) 1 *F*
+1 Phyrexian Metamorph (SLD) 1110 *F*
+1 Plains (DSK) 272 *F*
+1 Ranger-Captain of Eos (H1R) 5 *E*
+1 Recruiter of the Guard (MH3) 395 *F*
+1 Rejuvenating Springs (CMM) 662 *F*
+1 Rhystic Study (SLD) 478 *F*
+1 Sea of Clouds (ZNE) 16 *F*
+1 Seedborn Muse (SLD) 907 *F*
+1 Selvala, Heart of the Wilds (CMM) 1064 *F*
+1 Shifting Woodland (MH3) 357 *F*
+1 Shorikai, Genesis Engine (NEC) 4 *F*
+1 Sink into Stupor // Soporific Springs (MH3) 241 *F*
+1 Six (MH3) 370 *F*
+1 Skullclamp (SLD) 1663 *F*
+1 Smothering Tithe (2X2) 342 *F*
+1 Sol Ring (SLD) 1664 *F*
+1 Spara's Headquarters (SNC) 355 *F*
+1 Spellseeker (J20) 3 *F*
+1 Swords to Plowshares (SLD) 364 *E*
+1 Sylvan Library (DMR) 350 *F*
+1 Talisman of Curiosity (SLD) 1061 *E*
+1 Talisman of Unity (SLD) 1056 *E*
+1 Temple Garden (EXP) 10 *F*
+1 Tezzeret the Seeker (SLD) 1111 *F*
+1 The One Ring (LTR) 451 *F*
+1 Thrasios, Triton Hero (CMR) 538 *E*
+1 Toski, Bearer of Secrets (KHM) 319 *F*
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364 *F*
+1 Volatile Stormdrake (MH3) 329 *F*
+1 Waterlogged Grove (WHO) 1125 *F*
+1 Whir of Invention (SLD) 311 *F*
+1 Windswept Heath (KTK) 248 *F*
+1 Witch Enchanter // Witch-Blessed Meadow (MH3) 239 *F*
+1 Worldly Tutor (DMR) 442 *F*
+1 Yavimaya Coast (DMU) 382 *F*

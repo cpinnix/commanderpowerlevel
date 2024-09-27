@@ -1,0 +1,100 @@
+1 Karn, Silver Golem (V10) 6 *F*
+1 All Is Dust (UMA) 1 *F*
+1 Argentum Masticore (ONE) 222 *F*
+1 Artisan of Kozilek (F11) 4 *F*
+1 Awakened Amalgam (PRIX) 175s *F*
+1 Blast Zone (SLU) 504 *F*
+1 Bonders' Enclave (IKO) 363 *F*
+1 Buried Ruin (2XM) 312 *F*
+1 Calamity of the Titans (CMM) 745 *F*
+1 Cityscape Leveler (BRO) 363 *F*
+1 Codex Shredder (RTR) 228 *F*
+1 Command Beacon (SLD) 1533★ *F*
+1 Coveted Jewel (SLD) 799 *F*
+1 Crawling Barrens (ZNR) 378 *F*
+1 Crawlspace (DMR) 375 *F*
+1 Crucible of Worlds (2X2) 393 *F*
+1 Crystal Grotto (WOE) 254 *F*
+1 Dark Depths (DMR) 454 *F*
+1 Desecrate Reality (CMM) 746 *F*
+1 Desert (SPG) 37 *F*
+1 Deserted Temple (LTC) 393 *F*
+1 Dust Bowl (OTP) 65 *F*
+1 Echoing Deeps (LCI) 346 *F*
+1 Expedition Map (2XM) 255 *F*
+1 Eye of Vecna (AFR) 393 *F*
+1 Field of the Dead (PM20) 247p *F*
+1 Fomori Vault (BIG) 29 *F*
+1 Forsaken Monument (ZNR) 244 *F*
+1 Foundry Inspector (CMM) 385 *F*
+1 Gilded Lotus (BRR) 17 *F*
+1 Glaring Fleshraker (MH3) 7 *F*
+1 Hall of Tagsin (BRO) 371 *F*
+1 Hidden Grotto (BLB) 254 *F*
+1 Homeward Path (LTC) 395 *F*
+1 Inspiring Statuary (AER) 160 *F*
+1 Introduction to Annihilation (STX) 3 *F*
+1 Inventors' Fair (KLD) 247 *F*
+1 Investigator's Journal (VOW) 345 *F*
+1 It That Heralds the End (MH3) 385 *F*
+1 Junk Diver (MH3) 293 *F*
+1 Karn Liberated (2XM) 333 *F*
+1 Karn, Legacy Reforged (MAT) 149 *E*
+1 Karn, Living Legacy (DMU) 372 *F*
+1 Karn, Scion of Urza (SLD) 1419★ *F*
+1 Karn's Bastion (RVR) 464 *F*
+1 Karn's Sylex (DMU) 234 *F*
+1 Key to the City (BRR) 90 *F*
+1 Kozilek, the Broken Reality (MH3) 475 *E*
+1 Kozilek, the Great Distortion (CMM) 452 *E*
+1 Liberator, Urza's Battlethopter (PBRO) 237p *F*
+1 Liquimetal Coating (BRR) 91 *F*
+1 Liquimetal Torque (MH2) 428 *F*
+1 Metalwork Colossus (SLD) 377 *F*
+1 Meteor Golem (CMR) 325 *F*
+1 Mind Stone (PW21) 5 *F*
+1 Mystic Forge (PIP) 236 *F*
+1 Nettlecyst (MH2) 471 *F*
+1 Network Terminal (NEO) 251 *F*
+1 Not of This World (PLST) ROE-8 *F*
+1 Null Elemental Blast (MH3) 12 *F*
+1 Ominous Cemetery (WHO) 189 *F*
+1 Ornithopter of Paradise (MH2) 430 *F*
+1 Palladium Myr (M21) 234 *F*
+1 Planar Bridge (SLD) 447 *F*
+1 Reckoner Bankbuster (NEO) 255 *F*
+1 Reliquary Tower (SLD) 1536★ *F*
+1 Rogue's Passage (CMM) 426 *F*
+1 Skittering Cicada (CMM) 750 *F*
+1 Sol Ring (PLG22) 1 *F*
+1 Spatial Contortion (OGW) 8 *F*
+1 Staff of Nin (PM13) 217★ *F*
+1 Strip Mine (SLD) 472 *F*
+1 Sword of Sinew and Steel (H1R) 31 *E*
+1 Temple of the False God (P30A) 11 *F*
+1 The Celestus (MID) 377 *F*
+1 The Grey Havens (LTR) 255 *F*
+1 The Mightstone and Weakstone (PBRO) 238as *F*
+1 The Millennium Calendar (LCI) 257 *F*
+1 The Mycosynth Gardens (ONE) 256 *F*
+1 Thespian's Stage (WHO) 531 *F*
+1 Thran Dynamo (CMM) 658 *F*
+1 Threefold Thunderhulk (LCI) 390 *F*
+1 Throne of the High City (CN2) 80 *F*
+1 Tocasia's Dig Site (BRO) 266 *F*
+1 Treasure Vault (AFR) 358 *F*
+1 Ugin, the Ineffable (SLD) 1243 *F*
+1 Ugin, the Spirit Dragon (M21) 1 *F*
+1 Ugin's Labyrinth (MH3) 233 *F*
+1 Unstable Obelisk (CMM) 416 *F*
+1 Urza's Cave (MH3) 234 *F*
+1 Vedalken Orrery (2X2) 399 *F*
+1 Vesuva (TSR) 289 *F*
+1 Voldaren Estate (VOW) 403 *F*
+1 Wandering Archaic // Explore the Vastlands (STX) 6 *F*
+1 War Room (PIP) 1068 *F*
+1 Wasteland (PIP) 361 *F*
+1 Wastes (SLD) 795★ *F*
+1 Worn Powerstone (LCC) 120 *F*
+1 Zenith Chronicler (ONE) 246 *F*
+1 Zhalfirin Void (PDOM) 249 *F*

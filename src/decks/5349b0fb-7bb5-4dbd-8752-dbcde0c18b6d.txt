@@ -1,0 +1,100 @@
+1 Soul of Windgrace (DMU) 220
+1 Abrupt Decay (GK1) 57
+1 Anger (UMA) 122
+1 Archfiend of Ifnir (AKH) 78
+1 Assassin's Trophy (GRN) 152
+1 Awaken the Woods (PBRO) 170s *F*
+1 Bala Ged Recovery // Bala Ged Sanctuary (ZNR) 180
+1 Beast Within (NCC) 282
+1 Birds of Paradise (6ED) 217
+1 Blasphemous Act (2XM) 117
+1 Bojuka Bog (C13) 278
+1 Boseiju, Who Endures (NEO) 266
+1 Canyon Slough (AKH) 239
+1 Command Beacon (CMR) 349
+1 Command Tower (CMR) 350
+1 Crackle with Power (STX) 95
+1 Crop Rotation (DDR) 7
+1 Cultivate (M21) 317
+1 Dakmor Salvage (DDJ) 79
+1 Dark Depths (PLST) CSP-145
+1 Dryad of the Ilysian Grove (THB) 169
+1 Echoing Deeps (LCI) 346
+1 Elvish Reclaimer (M20) 169
+1 Explore (C19) 164
+1 Fabled Passage (ELD) 244
+1 Faithless Looting (DMC) 122
+1 Farseek (DMC) 133
+1 Field of the Dead (M20) 247
+1 Forest (DMU) 281
+1 Forest (DMU) 274
+1 Forest (MIR) 348
+1 Forest (ODY) 349
+1 Forest (ICE) 380
+1 Forest (USG) 350
+1 Forest (DOM) 269
+1 Forest (INV) 347
+1 Forest (TSP) 301
+1 Forest (ONS) 350
+1 Glint-Horn Buccaneer (M20) 141
+1 Golgari Rot Farm (GK1) 74
+1 Gruul Turf (GPT) 158
+1 Harrow (INV) 189
+1 Ignoble Hierarch (MH2) 166
+1 Into the North (CSP) 111
+1 Iridescent Vinelasher (BLB) 99
+1 Life from the Loam (MMA) 153
+1 Living Twister (WAR) 203
+1 Lord Windgrace (C18) 43 *F*
+1 Lotus Cobra (ZNR) 307
+1 Lumra, Bellow of the Woods (BLB) 183
+1 Magmatic Insight (ORI) 155
+1 Mina and Denn, Wildborn (OGW) 156
+1 Moraug, Fury of Akoum (ZNR) 150
+1 Mountain (DMU) 280
+1 Mountain (P02) 160
+1 Mountain (MIR) 346
+1 Mountain (INV) 345
+1 Mountain (USG) 345
+1 Mountain (ICE) 376
+1 Mountain (DMU) 272
+1 Multani, Yavimaya's Avatar (DOM) 174
+1 Nurturing Peatland (MH1) 243
+1 Ob Nixilis, the Fallen (ZEN) 107
+1 Prismatic Vista (MH1) 244
+1 Rampant Growth (MIR) 235
+1 Ramunap Excavator (HOU) 129
+1 Raucous Theater (MKM) 266
+1 Realms Uncharted (ROE) 206
+1 Retreat to Hagra (BFZ) 121
+1 Revitalizing Repast // Old-Growth Grove (MH3) 256
+1 Riveteers Overlook (SNC) 255
+1 Roaring Earth (NEO) 204
+1 Rogue's Passage (PLST) C17-272
+1 Seismic Assault (8ED) 219
+1 Sheltered Thicket (AKH) 248
+1 Skittering Precursor (MH3) 137
+1 Snow-Covered Forest (ICE) 383
+1 Snow-Covered Mountain (ICE) 379
+1 Snow-Covered Swamp (ICE) 372
+1 Springheart Nantuko (MH3) 341
+1 Strip Mine (4ED) 363
+1 Swamp (DMU) 279
+1 Swamp (DMU) 268
+1 Swamp (ODY) 341
+1 Sylvan Safekeeper (C14) 217
+1 Tectonic Reformation (MH1) 149
+1 The Gitrog Monster (SOI) 245
+1 Thespian's Stage (PLST) GTC-248
+1 Thrill of Possibility (ELD) 146
+1 Titania, Protector of Argoth (MH2) 287
+1 Tranquil Thicket (C17) 287
+1 Tunneling Geopede (BFZ) 158
+1 Twisted Landscape (MH3) 232
+1 Veil of Summer (M20) 198
+1 Verdant Catacombs (ZEN) 229
+1 Virtue of Strength // Garenbrig Growth (WOE) 197
+1 Winding Way (MH1) 193
+1 Wooded Foothills (MH3) 236
+1 Wrenn and Seven (MID) 278
+1 Ziatora's Proving Ground (SNC) 261

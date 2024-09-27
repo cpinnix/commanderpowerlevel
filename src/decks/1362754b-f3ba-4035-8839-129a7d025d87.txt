@@ -1,0 +1,90 @@
+1 Liesa, Shroud of Dusk (CMR) 606 *E*
+1 Aclazotz, Deepest Betrayal // Temple of the Dead (LCI) 88 *F*
+1 Amalia Benavides Aguirre (LCI) 299
+1 Anguished Unmaking (SOI) 242
+1 Arcane Signet (CMR) 297
+1 Auriok Champion (5DN) 3
+1 Authority of the Consuls (KLD) 5
+1 Black Market Connections (CLB) 669
+1 Blind Obedience (GTC) 6
+1 Bloodchief Ascension (ZEN) 82
+1 Bojuka Bog (C19) 232
+1 Bolas's Citadel (WAR) 79
+1 Brightclimb Pathway // Grimclimb Pathway (ZNR) 259
+1 Cabal Coffers (TOR) 139
+1 Castle Locthwain (ELD) 241
+1 Caves of Koilos (DMU) 244
+1 Charismatic Conqueror (LCC) 70
+1 Children of Korlis (TSP) 8
+1 Cliffhaven Vampire (OGW) 153
+1 Command Tower (ELD) 333
+1 Commander's Sphere (CMR) 306
+1 Darkstar Augur (BLB) 311
+1 Debt to the Deathless (DGM) 64
+1 Divinity of Pride (C13) 228
+1 Drana's Emissary (BFZ) 210
+1 Eiganjo, Seat of the Empire (NEO) 413
+1 Erebos, God of the Dead (THS) 85
+1 Esper Sentinel (MH2) 328
+1 Essence Channeler (BLB) 12
+1 Exquisite Blood (AVR) 102
+1 Fabled Passage (ELD) 244
+1 Farewell (NEO) 365
+1 Fellwar Stone (AFC) 206
+1 Fetid Heath (EVE) 176
+1 Generous Gift (MH1) 11
+1 Ghost Quarter (ISD) 240
+1 Godless Shrine (RNA) 248
+1 Gray Merchant of Asphodel (THB) 99
+1 Hagra Mauling // Hagra Broodpit (ZNR) 106
+1 Heliod, Sun-Crowned (THB) 18
+1 Heliod's Intervention (THB) 19
+1 Ifnir Deadlands (HOU) 179
+1 Isolated Chapel (ISD) 242
+1 Kambal, Consul of Allocation (KLD) 183
+1 Karlov of the Ghost Council (C15) 46
+1 Keen Duelist (C21) 369
+1 Lunar Convocation (BLB) 223
+1 Malakir Rebirth // Malakir Mire (ZNR) 111
+1 Marauding Blight-Priest (ZNR) 112
+1 Marsh Flats (MH2) 248
+1 Mind Stone (ZNC) 114
+1 Mindcrank (NPH) 144
+1 Myriad Landscape (C20) 292
+1 Necropotence (WOT) 31 *F*
+1 Night's Whisper (PLST) EMA-100
+1 Ondu Inversion // Ondu Skyruins (ZNR) 30
+1 Orzhov Basilica (C13) 311
+1 Orzhov Signet (C17) 219
+1 Painful Quandary (SOM) 73
+6 Plains (SOI) 285
+1 Polluted Bonds (SHM) 74
+1 Pristine Talisman (C21) 258
+1 Shadowy Backstreet (MKM) 268
+1 Shefet Dunes (HOU) 183
+1 Silent Clearing (MH1) 246
+1 Smothering Tithe (RNA) 22
+1 Sol Ring (C17) 223
+1 Sorin of House Markov // Sorin, Ravenous Neonate (MH3) 245
+1 Soul Warden (EXO) 21
+1 Soul's Attendant (ROE) 44
+1 Starscape Cleric (BLB) 116 *F*
+1 Stinging Study (C21) 44
+1 Suture Priest (NPH) 25
+6 Swamp (SOI) 291
+1 Swiftfoot Boots (C17) 226
+1 Swords to Plowshares (PLST) C16-78
+1 Tainted Sigil (ARB) 83
+1 Talisman of Hierarchy (MH1) 233
+1 Toxic Deluge (2XM) 110
+1 Twilight Prophet (RIX) 88
+1 Underworld Dreams (THB) 121
+1 Urborg, Tomb of Yawgmoth (UMA) 254
+1 Vault of Champions (CMR) 360
+1 Vault of the Archangel (DKA) 158
+1 Vilis, Broker of Blood (M20) 122
+1 Vindicate (EMA) 210
+1 Vito, Thorn of the Dusk Rose (M21) 127
+1 Vizkopa Guildmage (GTC) 206
+1 Wayfarer's Bauble (5DN) 165
+1 Wound Reflection (SHM) 81

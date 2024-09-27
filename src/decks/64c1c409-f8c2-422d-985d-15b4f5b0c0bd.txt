@@ -1,0 +1,97 @@
+1 Nekusar, the Mindrazer (SLD) 1301 *F*
+1 Academy Ruins (MMA) 219 *F*
+1 Arcane Denial (SLD) 1545★ *F*
+1 Arcane Signet (SLD) 1492
+1 Archway of Innovation (MH3) 350 *F*
+1 Baleful Mastery (STX) 301 *F*
+1 Baleful Strix (BLC) 86 *F*
+1 Blasphemous Act (PIP) 993 *F*
+1 Blightstep Pathway // Searstep Pathway (SLU) 12 *F*
+1 Blood Crypt (UNF) 279 *F*
+1 Blood Money (SLD) 1789 *F*
+1 Bloodstained Mire (PMH3) 216s *F*
+1 Chaos Warp (STA) 36 *F*
+1 Chief Engineer (PM15) 47 *F*
+1 Chimil, the Inner Sun (PLCI) 249p *F*
+1 Chiss-Goria, Forge Tyrant (ONC) 35 *F*
+1 Clearwater Pathway // Murkwater Pathway (SLU) 15 *F*
+1 Command Tower (SLD) 1496
+1 Counterspell (STA) 15 *F*
+1 Cursed Mirror (MH3) 279 *F*
+1 Dack Fayden (SLD) 1689 *F*
+1 Daretti, Ingenious Iconoclast (SLD) 1422★ *F*
+1 Daretti, Scrap Savant (CMM) 531 *E*
+1 Drossforge Bridge (MH2) 246 *F*
+1 Emry, Lurker of the Loch (MUL) 9 *F*
+1 Exotic Orchard (WHO) 493 *F*
+1 Fabricate (SLD) 332 *F*
+1 Fellwar Stone (CMM) 657 *F*
+1 Goblin Engineer (H1R) 16 *E*
+1 Goblin Welder (DDU) 35 *F*
+1 Haunted Ridge (MID) 282 *F*
+1 Hulking Metamorph (BRO) 79 *F*
+1 Imskir Iron-Eater (MH3) 374 *F*
+2 Island (ONE) 263 *F*
+1 Jhoira, Weatherlight Captain (SLD) 1276 *F*
+1 Kappa Cannoneer (MH3) 270 *F*
+1 Leonardo da Vinci (ACR) 193 *E*
+1 Lightning Bolt (SLD) 83 *F*
+1 Lightning Greaves (SLD) 1493
+1 Liquimetal Torque (MH2) 428 *F*
+1 Mana Confluence (SLD) 1012a *F*
+1 Memnarch (SLD) 1626 *F*
+1 Memory Jar (V10) 8 *F*
+1 Memory Vessel (BIG) 13 *F*
+1 Midnight Clock (ELD) 54 *F*
+1 Mistvault Bridge (MH2) 249 *F*
+1 Morphic Pool (CLB) 603 *F*
+1 Mount Doom (LTR) 343 *F*
+2 Mountain (ONE) 265 *F*
+1 Nicol Bolas, Dragon-God (SLD) 1246 *F*
+1 Ornithopter of Paradise (MH2) 430 *F*
+1 Phyrexian Dragon Engine (BRO) 163a *F*
+1 Phyrexian Fleshgorger (BRO) 121 *F*
+1 Phyrexian Metamorph (2XM) 61 *F*
+1 Polluted Delta (MH3) 465 *F*
+1 Psychosis Crawler (BRR) 107 *F*
+1 Rapid Hybridization (SLD) 1126 *F*
+1 Reckless Handling (MAT) 69 *F*
+1 Relic of Sauron (LTC) 489 *F*
+1 Riverglide Pathway // Lavaglide Pathway (SLU) 20 *F*
+1 Roaming Throne (LCI) 344 *F*
+1 Scalding Tarn (MH2) 439 *E*
+1 Scholar of the Lost Trove (JMP) 496 *F*
+1 Shipwreck Marsh (MID) 285 *F*
+1 Shivan Reef (DMU) 380 *F*
+1 Silverbluff Bridge (MH2) 255 *F*
+1 Sol Ring (SLD) 1011 *F*
+1 Solemn Simulacrum (M21) 239 *F*
+1 Spellskite (SLD) 277 *F*
+1 Sphinx Summoner (CON) 127 *F*
+1 Spire of Industry (AER) 184 *F*
+1 Steam Vents (UNF) 283 *F*
+1 Stormcarved Coast (VOW) 284 *F*
+1 Sulfurous Springs (DMU) 381 *F*
+2 Swamp (ONE) 264 *F*
+1 Talisman of Creativity (SLD) 1058 *E*
+1 Talisman of Dominance (SLD) 1053 *E*
+1 Talisman of Indulgence (SLD) 1054 *E*
+1 Teferi's Puzzle Box (SLD) 368 *F*
+1 Tezzeret the Seeker (MM2) 62 *F*
+1 Tezzeret, Agent of Bolas (SLD) 1043 *F*
+1 Tezzeret, Master of the Bridge (SLD) 1701 *F*
+1 The Antiquities War (DOM) 42 *F*
+1 The Everflowing Well // The Myriad Pools (LCI) 56 *F*
+1 The Mycosynth Gardens (ONE) 402 *F*
+1 The One Ring (LTR) 451 *F*
+1 Thought Monitor (MH2) 341 *F*
+1 Thought Vessel (SLD) 1495★ *F*
+1 Training Center (CMM) 665 *F*
+1 Underground River (BRO) 300 *F*
+1 Unlicensed Hearse (SNC) 246 *F*
+1 Urza, Lord High Artificer (CMM) 674 *F*
+1 Urza's Command (BRO) 70 *F*
+1 Watery Grave (UNF) 278 *F*
+1 Wayfarer's Bauble (CLB) 344 *F*
+1 Wishclaw Talisman (ELD) 357 *F*
+1 Xander's Lounge (SNC) 358 *F*

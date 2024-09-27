@@ -1,0 +1,56 @@
+1 Marrow-Gnawer (SLD) 34 *F*
+1 Arcane Signet (CMR) 297
+1 Ashcoat of the Shadow Swarm (J22) 19
+1 Ashnod's Altar (CHR) 92
+1 Ayara, First of Locthwain (ELD) 75
+1 Bojuka Bog (C13) 278
+1 Bontu's Monument (AKH) 225
+1 Cabal Stronghold (DOM) 238
+1 Castle Locthwain (ELD) 241
+1 Charcoal Diamond (MIR) 296
+1 Crypt Ghast (GTC) 61
+1 Dark Confidant (RAV) 81
+1 Dark Ritual (4ED) 129
+1 Fellwar Stone (DMC) 182
+1 Flare of Malice (MH3) 95
+1 Gix, Yawgmoth Praetor (BRO) 95 *F*
+1 Haunted One (CLB) 624
+1 Heraldic Banner (ELD) 222
+1 Horn of the Mark (LTR) 241
+1 Jet Medallion (MH3) 346
+1 Karumonix, the Rat King (ONE) 307
+1 Lethal Scheme (NCC) 36
+1 Lord Skitter, Sewer King (WOE) 97
+1 Lord Skitter's Butcher (WOE) 99
+1 Morbid Opportunist (MID) 113
+1 Mudflat Village (BLB) 257
+1 Myriad Landscape (A25) 243
+1 Nashi, Moon Sage's Scion (NEO) 114
+1 Ogre Slumlord (GTC) 74
+1 Pack Rat (SLD) 35 *F*
+1 Pact of the Serpent (KHC) 9
+1 Patchwork Banner (BLB) 247
+1 Path of Ancestry (CMR) 353
+1 Persistent Marshstalker (BLB) 104 *F*
+1 Piper of the Swarm (ELD) 100
+1 Predators' Hour (VOC) 21
+20 Rat Colony (DOM) 101
+1 Sign in Blood (C14) 161
+1 Skullclamp (C16) 271
+1 Sol Ring (PF19) 7 *F*
+1 Species Specialist (C20) 47
+1 Sting, the Glinting Dagger (LTR) 250
+26 Swamp (CHK) 298
+1 Swarmyard (TSR) 284
+1 Swarmyard Massacre (BLC) 20
+1 Swiftfoot Boots (C17) 226
+1 Takenuma, Abandoned Mire (NEO) 278
+1 Three Tree City (BLB) 260
+1 Throat Slitter (PCA) 37
+1 Toxic Deluge (CC2) 6 *F*
+1 Twisted Sewer-Witch (WOE) 114
+1 Valley Rotcaller (BLB) 119
+1 Vanquisher's Banner (XLN) 251
+1 Village Rites (M21) 126
+1 Voracious Vermin (WOE) 116 *F*
+1 Witch's Cottage (ELD) 249

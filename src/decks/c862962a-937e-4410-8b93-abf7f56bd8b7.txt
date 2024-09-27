@@ -1,0 +1,74 @@
+1 Rendmaw, Creaking Nest (DSC) 5 *F*
+1 Abrupt Decay (OTP) 34 *F*
+1 Aftermath Analyst (MKM) 148 *F*
+1 Arasta of the Endless Web (THB) 325 *F*
+1 Archdruid's Charm (MKM) 151 *F*
+1 Archetype of Endurance (PLST) BNG-116 *F*
+1 Ashaya, Soul of the Wild (ZNR) 179 *F*
+1 Assassin's Ink (NEO) 87 *F*
+1 Assassin's Trophy (MKM) 412 *F*
+1 Awaken the Woods (PBRO) 170p *F*
+1 Balustrade Wurm (DSK) 319 *F*
+1 Beast Whisperer (P30A) 26 *F*
+1 Blossoming Tortoise (WOE) 163 *F*
+1 Boggart Trawler // Boggart Bog (MH3) 243 *F*
+1 Broodspinner (DSK) 211 *F*
+1 Culling Ritual (STX) 337 *F*
+1 Cultivate (PW23) 6 *F*
+1 Darkmoss Bridge (MH2) 245 *F*
+1 Deathcap Cultivator (SOI) 202 *F*
+1 Demon of Fate's Design (CMM) 762 *F*
+1 Destiny Spinner (THB) 168 *F*
+1 Doomwake Giant (PJOU) 66★ *F*
+1 Drag to the Roots (DSK) 213 *F*
+1 Emrakul, the Promised End (SLD) 1160 *F*
+1 Enduring Vitality (DSK) 394 *F*
+1 Eternal Witness (P30A) 12 *F*
+14 Forest (ONE) 266 *F*
+1 Gilded Goose (BLC) 83 *F*
+1 Gloomshrieker (NEO) 219 *F*
+1 Go for the Throat (ACR) 205 *E*
+1 Graaz, Unstoppable Juggernaut (ONE) 478 *F*
+1 Grim Backwoods (SLD) 354 *F*
+1 Grim Flayer (2X2) 380 *F*
+1 Grist, the Hunger Tide (SLD) 1417 *F*
+1 Haywire Mite (BRO) 199 *F*
+1 Heroic Intervention (PIP) 202 *F*
+1 Insidious Roots (MKM) 313 *F*
+1 Invasion of Zendikar // Awakened Skyclave (MOM) 194 *F*
+1 Ishkanah, Grafwidow (EMN) 162 *F*
+1 Keen-Eyed Curator (BLB) 322 *F*
+1 Kodama's Reach (CMM) 649 *F*
+1 Llanowar Elves (PRES) 1 *F*
+1 Matzalantli, the Great Door // The Core (LCI) 387 *F*
+1 Nighthowler (PTHS) 98 *F*
+1 Nyxbloom Ancient (SLD) 1275 *F*
+1 Omnivorous Flytrap (DSK) 192 *F*
+1 Open the Way (MAT) 73 *F*
+1 Oracle of Mul Daya (2X2) 154 *F*
+1 Osseous Sticktwister (DSK) 112 *F*
+1 Patchwork Beastie (DSK) 195 *F*
+1 Rampant Growth (2X2) 371 *F*
+1 Retrofitted Transmogrant (MH3) 106 *F*
+1 Revitalizing Repast // Old-Growth Grove (MH3) 256 *F*
+1 Roadside Reliquary (NEO) 272 *F*
+1 Sanctum Weaver (PMH2) 171s *F*
+1 Shifting Woodland (MH3) 228 *F*
+1 Shigeki, Jukai Visionary (NEO) 394 *F*
+1 Six (MH3) 484 *E*
+1 Skull Prophet (IKO) 206 *F*
+1 Skullclamp (SLD) 1663 *F*
+1 Sol Ring (PLG22) 1 *F*
+1 Solemn Simulacrum (WHO) 246 *F*
+14 Swamp (ONE) 264 *F*
+1 Swiftfoot Boots (BRR) 58 *F*
+1 Tainted Wood (M3C) 383 *F*
+1 Tangled Florahedron // Tangled Vale (ZNR) 211 *F*
+1 Temple of Malady (M21) 253 *F*
+1 Tevesh Szat, Doom of Fools (CMR) 153 *F*
+1 The Swarmweaver (DSK) 301 *F*
+1 To the Slaughter (SOI) 139 *F*
+1 Traverse the Ulvenwald (SOI) 234 *F*
+1 Twitching Doll (DSK) 417 *F*
+1 Wild Growth (DMR) 184 *F*
+1 Worldly Tutor (DMR) 185 *F*

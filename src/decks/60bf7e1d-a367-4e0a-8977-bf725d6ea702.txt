@@ -1,0 +1,87 @@
+1 Sidisi, Brood Tyrant (KTK) 199
+1 Aftermath Analyst (MKM) 148
+1 Altar of Dementia (MH1) 218
+1 Arcane Signet (C20) 237
+1 Assassin's Trophy (MKM) 187
+1 Bala Ged Recovery // Bala Ged Sanctuary (ZNR) 180
+1 Beast Within (TSR) 357
+1 Birds of Paradise (RVR) 432
+1 Bramble Familiar // Fetch Quest (WOE) 164
+1 Breeding Pool (RNA) 246
+1 Brokkos, Apex of Forever (IKO) 179
+1 Chthonian Nightmare (MH3) 83
+1 Chupacabra Echo (LCI) 97
+1 Command Tower (C21) 284
+1 Corpse Churn (IKO) 81
+1 Cruel Somnophage // Can't Wake Up (WOE) 286
+1 Deathrite Shaman (GK1) 59
+1 Deranged Assistant (ISD) 52
+1 Dogged Detective (NCC) 35
+1 Drag to the Roots (DSK) 213
+1 Dread Return (TSP) 104
+1 Dryad's Revival (MID) 183
+1 Embalmer's Tools (AKH) 227
+1 End-Raze Forerunners (RNA) 124
+1 Eternal Witness (DDJ) 55
+1 Flooded Grove (EVE) 177
+1 Foreboding Landscape (MH3) 221
+6 Forest (KTK) 269
+1 Golgari Grave-Troll (RAV) 167
+1 Golgari Thug (RAV) 87
+1 Grapple with the Past (EMN) 160
+1 Grist, the Hunger Tide (MH2) 202
+1 Haunted Mire (DMU) 248
+1 Hedge Shredder (DSK) 320 *F*
+1 Hermit Druid (STH) 108
+1 Hinterland Harbor (ISD) 241
+1 Hogaak, Arisen Necropolis (MH1) 202
+1 Insidious Roots (MKM) 208
+4 Island (KTK) 257
+1 Jarad, Golgari Lich Lord (RTR) 174
+1 Kamahl, Fist of Krosa (DMR) 344
+1 Life from the Loam (RVR) 434
+1 Llanowar Elves (DOM) 168
+1 Llanowar Wastes (BRO) 264
+1 Lord of Extinction (ARB) 91
+1 Mesmeric Orb (MRD) 204
+1 Millikin (DMR) 231
+1 Muldrotha, the Gravetide (DOM) 199
+1 Necrotic Wound (GRN) 79
+1 Nyx Weaver (JOU) 153
+1 Osteomancer Adept (BLB) 103
+1 Overgrown Tomb (RVR) 296
+1 Overlord of the Balemurk (DSK) 113
+1 Poison Dart Frog (LCI) 207
+1 Ravenous Chupacabra (A25) 104
+1 Rejuvenating Springs (CMR) 354
+1 Restless Reef (LCI) 349
+1 Ripples of Undeath (MH3) 107
+1 Satyr Wayfinder (BNG) 136
+1 Season of Loss (BLB) 112
+1 Shigeki, Jukai Visionary (NEO) 206
+1 Shizo, Death's Storehouse (CHK) 283
+1 Simic Growth Chamber (C18) 282
+1 Six (MH3) 169
+1 Skeleton Crew (LCC) 85
+1 Skull Prophet (IKO) 206
+1 Sol Ring (C18) 222
+1 Splinterfright (ISD) 205
+1 Squirming Emergence (LCI) 241
+1 Stinkweed Imp (DDJ) 54
+6 Swamp (KTK) 260
+1 Syr Konrad, the Grim (ELD) 107
+1 Temple of Malady (M20) 254
+1 Terror Tide (LCI) 127
+1 The Gitrog Monster (SOI) 245
+1 The Mycotyrant (LCI) 235
+1 Tormod, the Desecrator (CMR) 155
+1 Turntimber Sower (C18) 35
+1 Underrealm Lich (GRN) 211
+1 Uro, Titan of Nature's Wrath (THB) 229
+1 Viconia, Drow Apostate (CLB) 156
+1 Waterlogged Grove (MH1) 249
+1 Westvale Abbey // Ormendahl, Profane Prince (SOI) 281
+1 Witch's Cottage (ELD) 249
+1 Woodland Cemetery (ISD) 249
+1 Yavimaya Coast (DMU) 261
+1 Zagoth Triome (IKO) 259
