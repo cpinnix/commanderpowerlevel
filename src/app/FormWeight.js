@@ -139,14 +139,16 @@ export default function FormWeight() {
                     weightHistory = JSON.parse(weightHistory);
                   }
 
-                  await fetch("api/weight/write", {
-                    method: "POST",
-                    headers: {
-                      Accept: "application/json",
-                      "Content-Type": "application/json",
-                    },
-                    body: JSON.stringify({ name, type, weight, userId }),
-                  });
+                  if (process.env.NODE_ENV !== "development") {
+                    await fetch("api/weight/write", {
+                      method: "POST",
+                      headers: {
+                        Accept: "application/json",
+                        "Content-Type": "application/json",
+                      },
+                      body: JSON.stringify({ name, type, weight, userId }),
+                    });
+                  }
 
                   weightHistory.push(name);
 
