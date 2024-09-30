@@ -80,7 +80,7 @@ const WEIGHTS_DIR = path.resolve(__dirname, "..", "weights");
   for (const harvestedCardName of harvestedCardNames) {
     powerWeights.push({
       name: harvestedCardName,
-      weight: null,
+      weight: "",
     });
   }
 
@@ -130,7 +130,7 @@ const WEIGHTS_DIR = path.resolve(__dirname, "..", "weights");
 
   const powerWeightsOutputPath = path.resolve(
     WEIGHTS_DIR,
-    "power." + Date.now() + ".csv"
+    "power.harvest." + Date.now() + ".csv"
   );
 
   fs.writeFileSync(powerWeightsOutputPath, outputPowerWeightsContent);
