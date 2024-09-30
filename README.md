@@ -6,7 +6,7 @@ Commander is a complex game with many power levels and subgroups. Instead of rel
 
 **This project aims to equip Commander players with the tools and information needed for clearer, more productive Rule Zero conversations.**
 
-This project uses crowd-sourced weights, paired with a simple web application, to provide quick insights into a deck’s power and gameplay experience. Three key metrics — Commander, Power, and Pepper — are calculated based on these weights.
+This project uses crowd-sourced weights, paired with a simple web application, to provide quick insights into a deck’s power and gameplay experience. Power Level is calculated based on these weights.
 
 Weights offer a more quantitative method for assessing power level by replacing subjective rules of thumb with measurable values. By assigning specific numerical weights to cards, players can analyze deck strength in a consistent, data-driven way. This reduces the ambiguity often associated with determining power level in the Rule Zero discussion and as a result, should improve the following gameplay experience.
 
@@ -35,75 +35,6 @@ A Rule Zero discussion sets the stage for an enjoyable game. Since players will 
 #### Open Source
 
 Commander’s diversity calls for robust tools that cater to various player experiences. Open-source methods, proven in managing complex software systems, artificial intelligences, and encyclopedias, can help the community create amazing gameplay experiences.
-
-## Commander Level
-
-The Commander Level serves as a rough measure of a deck’s synergy and power potential, using the deck’s commander as a proxy for its overall strength.
-
-This level ranges from 0 to 10, with 10 representing an unbeatable, god-like commander — something akin to a commander with an eminence ability that wins the game at the start of your first upkeep.
-
-### Guidelines
-
-#### Commander Level 9
-
-Commanders in Commander Level 9 should be considered top-tier within the format. These commanders typically:
-
-1. Rank among the top tier in competitive Commander play.
-2. Enable game-winning interactions, often before turn 4.
-
-Examples:
-
-- [Kinnan, Bonder Prodigy](https://scryfall.com/card/iko/192/kinnan-bonder-prodigy)
-
-#### Commander Level 8
-
-Commanders in Commander Level 8 should enable strong competitive builds, though they may not be top-tier in competitive rankings. These commanders typically:
-
-1. Rank in the middle of competitive Commander rankings.
-2. Facilitate game-winning interactions, usually before turn 6.
-
-Examples:
-
-- [Kaalia of the Vast](https://scryfall.com/card/mh3/290/kaalia-of-the-vast)
-
-#### Commander Level 7
-
-Commanders at Commander Level 7 should represent the peak of casual builds. These commanders typically:
-
-1. Are powerful but not too intimidating in unoptimized pods.
-2. Facilitate game-winning interactions, usually before turn 8.
-
-Examples:
-
-- [Slimefoot and Squee](https://scryfall.com/card/moc/447/slimefoot-and-squee)
-
-#### Commander Level 6
-
-Commanders in Commander Level 6 should be experimental and unoptimized, but still capable of winning. These commanders typically:
-
-1. Are not competitive enough to match Level 8 Commanders.
-2. Can win the game, though not quickly or efficiently.
-
-Examples:
-
-- [Archelos, Lagoon Mystic](https://scryfall.com/card/dmc/140/archelos-lagoon-mystic)
-
-#### Commander Level 5
-
-Commanders at Commander Level 5 are highly janky and experimental. These commanders typically:
-
-1. Explore unique or unconventional mechanics.
-2. Do not have consistent or frequent wins.
-
-Examples:
-
-- [Fynn, the Fangbearer](https://scryfall.com/card/khm/170/fynn-the-fangbearer)
-
-#### Commander Level 4 or less
-
-Commanders in Commander Level 4 or under are not doing much in the Command Zone.
-
-Examples:
 
 ## Power Level
 
@@ -214,78 +145,8 @@ Examples:
 
 - [Basic Lands](https://scryfall.com/search?q=-type%3Asnow+%28type%3Aland+type%3Abasic%29&unique=cards&as=grid&order=name)
 
-## Pepper Level
+## Feature Requests
 
-Pepper Level measures how fun or friendly a card is. It reflects the excitement players feel when facing that card. A card that is perceived as particularly frustrating or unfun to play against will have a low Pepper Level.
-
-Pepper Level is a number between 0 and 10. Each card has a Pepper Weight between 0 and 10. 100 cards in a deck multiplied by all the weights divided by 100 will give the total Pepper Level for a deck.
-
-### Guidelines
-
-#### Pepper Level 9
-
-Cards in Pepper Level 9 are the most enjoyable in Commander. These are the cards that bring smiles and excitement to the battlefield, as players are eager to engage with their mechanics.
-
-#### Pepper Level 8
-
-Cards in Pepper Level 8 are highly enjoyable for the table, though they may asymmetrically affect one or two players, either positively or negatively.
-
-Examples:
-
-- [Descent into Avernus](https://scryfall.com/card/clb/169/descent-into-avernus)
-
-#### Pepper Level 7
-
-Cards in Pepper Level 7 are enjoyable for one or two players and generate interesting interactions.
-
-Examples:
-
-- [Wedding Ring](https://scryfall.com/card/voc/32/wedding-ring)
-
-#### Pepper Level 6
-
-Cards in Pepper Level 6 are mostly enjoyable for one player, while the rest of the table appreciates the card and is happy to see it played.
-
-Examples:
-
-- [Concordant Crossroads](https://scryfall.com/card/2x2/141/concordant-crossroads)
-
-#### Pepper Level 5
-
-Cards in Pepper Level 5 are emotionally neutral for the table.
-
-#### Pepper Level 4
-
-Cards in Pepper Level 4 are annoying for one player and the table generally agrees.
-
-Examples:
-
-- [Fierce Guardianship](https://scryfall.com/card/cmm/94/fierce-guardianship)
-
-#### Pepper Level 3
-
-Cards in Pepper Level 3 are irritating for multiple players and significantly diminish the enjoyment of the game.
-
-Examples:
-
-- [Rhystic Study](https://scryfall.com/card/jmp/169/rhystic-study)
-
-#### Pepper Level 2
-
-Cards in Pepper Level 2 tend to frustrate the table significantly, causing players to feel salty and negatively impacting the overall mood of the game.
-
-Examples:
-
-- [Tergrid, God of Fright](https://scryfall.com/card/khm/112/tergrid-god-of-fright-tergrids-lantern)
-
-#### Pepper Level 1
-
-Cards in Pepper Level 1 elicit audible groans from players, who may choose to concede rather than engage with the card. Playing against these cards is generally considered very unfun.
-
-Examples:
-
-- [Stasis](https://scryfall.com/card/me4/64/stasis)
-- [Winter Orb](https://scryfall.com/card/ema/234/winter-orb)
-- [Nadu, Winged Wisdom](https://scryfall.com/card/mh3/193/nadu-winged-wisdom)
-- [Vorinclex, Voice of Hunger](https://scryfall.com/card/ima/189/vorinclex-voice-of-hunger)
-- [Armageddon](https://scryfall.com/card/a25/5/armageddon)
+1. A card weighing form or game that allows community members to easily weigh in on cards.
+1. And analysis table that will allow you to turn things on and off and hide things to see how your scores change.
+1. A score card that you can save and show people during the rule zero discussion.
