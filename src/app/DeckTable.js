@@ -33,7 +33,7 @@ export default function DeckTable() {
           .join(" ")
           .match(new RegExp(/(.*?)(?= \()/))[0];
 
-        let powerWeight = powerWeights.find(
+        let powerWeight = powerWeights?.find(
           (weight) => weight.name === name
         )?.weight;
 
@@ -41,7 +41,7 @@ export default function DeckTable() {
           powerWeight = parseFloat(powerWeight);
         }
 
-        const historyWeight = historyWeights.find(
+        const historyWeight = historyWeights?.find(
           (weight) => weight.name === name
         )?.weight;
 
