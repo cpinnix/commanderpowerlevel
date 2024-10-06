@@ -6,9 +6,11 @@ import deckSample from "./deckSample";
 
 const weightHistoryKey = "user.weight.history.v2";
 const deckInputKey = "user.deck";
+const tableSortKey = "user.table.sort";
 
 let historyWeights;
 let deckListInput;
+let tableSort;
 
 if (typeof localStorage !== "undefined") {
   historyWeights = localStorage.getItem(weightHistoryKey);
@@ -24,6 +26,14 @@ if (typeof localStorage !== "undefined") {
   );
 
   deckListInput = localStorage.getItem(deckInputKey);
+
+  tableSort = localStorage.getItem(tableSortKey);
+
+  if (!tableSort) {
+    tableSort = [];
+  } else {
+    tableSort = JSON.parse(tableSort);
+  }
 }
 
 const useStore = create(
@@ -32,6 +42,7 @@ const useStore = create(
     powerWeights: PowerWeights,
     historyWeights: historyWeights,
     deckList: [],
+    tableSort: tableSort,
     onChangeHistoryWeights: (historyWeights) =>
       set({
         historyWeights,
@@ -41,6 +52,10 @@ const useStore = create(
         deckListInput,
       });
     },
+    onChangeTableSort: (tableSort) =>
+      set({
+        tableSort,
+      }),
 
     powerLevelVoteName: null,
     onChangePowerLevelVoteName: (powerLevelVoteName) =>
@@ -51,15 +66,22 @@ const useStore = create(
 if (typeof localStorage !== "undefined") {
   useStore.subscribe(
     (store) => store.historyWeights,
-    (historyWeights) => {
-      localStorage.setItem(weightHistoryKey, JSON.stringify(historyWeights));
+    (json) => {
+      localStorage.setItem(weightHistoryKey, JSON.stringify(json));
     }
   );
 
   useStore.subscribe(
     (store) => store.deckListInput,
-    (deckInput) => {
-      localStorage.setItem(deckInputKey, deckInput);
+    (value) => {
+      localStorage.setItem(deckInputKey, value);
+    }
+  );
+
+  useStore.subscribe(
+    (store) => store.tableSort,
+    (json) => {
+      localStorage.setItem(tableSortKey, JSON.stringify(json));
     }
   );
 }

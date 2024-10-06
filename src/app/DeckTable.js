@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useMemo } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import {
   Table,
@@ -20,7 +20,8 @@ export default function DeckTable() {
   const deckListInput = useStore((store) => store.deckListInput);
   const powerWeights = useStore((store) => store.powerWeights);
   const historyWeights = useStore((store) => store.historyWeights);
-  const [tableSort, setTableSort] = useState([]);
+  const tableSort = useStore((store) => store.tableSort);
+  const onChangeTableSort = useStore((store) => store.onChangeTableSort);
 
   const data = useMemo(() => {
     let data = deckListInput
@@ -111,7 +112,7 @@ export default function DeckTable() {
                           ...sort,
                         ];
 
-                        setTableSort(sort);
+                        onChangeTableSort(sort);
                       },
                     }}
                   >
@@ -151,7 +152,7 @@ export default function DeckTable() {
                           ...sort,
                         ];
 
-                        setTableSort(sort);
+                        onChangeTableSort(sort);
                       },
                     }}
                   >
