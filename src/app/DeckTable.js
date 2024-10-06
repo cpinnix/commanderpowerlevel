@@ -165,7 +165,21 @@ export default function DeckTable() {
               {data.map(({ count, name, weight, overridden }, index) => (
                 <TableRow key={index}>
                   <TableCell>{count}</TableCell>
-                  <TableCell>{name}</TableCell>
+                  <TableCell>
+                    <a
+                      {...{
+                        href: `https://scryfall.com/search?q=` + name,
+                        target: "_blank",
+                        className: cn(
+                          `underline`,
+                          `underline-offset-4`,
+                          `text-black`
+                        ),
+                      }}
+                    >
+                      {name}
+                    </a>
+                  </TableCell>
                   <TableCell>
                     {overridden ? (
                       <div
