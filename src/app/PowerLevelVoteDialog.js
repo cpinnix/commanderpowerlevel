@@ -124,6 +124,8 @@ export default function PowerLevelVoteDialog() {
                     }
 
                     if (process.env.NODE_ENV !== "development") {
+                      const type = "power";
+
                       await fetch("api/weight/write", {
                         method: "POST",
                         headers: {
