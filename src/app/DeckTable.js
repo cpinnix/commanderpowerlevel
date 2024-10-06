@@ -13,7 +13,7 @@ import {
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { CaretSortIcon, LightningBoltIcon } from "@radix-ui/react-icons";
-import { orderBy, sortBy } from "lodash-es";
+import { orderBy } from "lodash-es";
 import useStore from "./store";
 
 export default function DeckTable() {
@@ -57,9 +57,7 @@ export default function DeckTable() {
         };
       });
 
-    const headerOrder = ["name", "weight"];
-
-    const sort = sortBy(tableSort, ({ id }) => headerOrder.indexOf(id));
+    const sort = tableSort;
 
     data = orderBy(
       data,
@@ -81,33 +79,77 @@ export default function DeckTable() {
             <TableHeader>
               <TableRow>
                 <TableHead></TableHead>
-                <TableHead>Name</TableHead>
                 <TableHead>
                   <Button
                     {...{
                       variant: "ghost",
                       className: cn(`-ml-3.5`),
                       onClick() {
-                        const sort = [...tableSort];
+                        const targetId = "name";
 
-                        const sortIndex = sort.findIndex(
-                          ({ id }) => id === "weight"
-                        );
+                        let sort = [...tableSort];
 
-                        if (sortIndex > -1) {
-                          const direction = sort[sortIndex].direction;
+                        let currentDirection = sort.find(
+                          ({ id }) => id === targetId
+                        )?.direction;
 
-                          if (direction === "desc") {
-                            sort[sortIndex].direction = "asc";
-                          } else {
-                            sort[sortIndex].direction = "desc";
-                          }
+                        sort = sort.filter(({ id }) => id !== targetId);
+
+                        let newDirection;
+
+                        if (currentDirection === "desc") {
+                          newDirection = "asc";
                         } else {
-                          sort.push({
-                            id: "weight",
-                            direction: "desc",
-                          });
+                          newDirection = "desc";
                         }
+
+                        sort = [
+                          {
+                            id: targetId,
+                            direction: newDirection,
+                          },
+                          ...sort,
+                        ];
+
+                        setTableSort(sort);
+                      },
+                    }}
+                  >
+                    Name
+                    <CaretSortIcon className="ml-2 h-4 w-4" />
+                  </Button>
+                </TableHead>
+                <TableHead>
+                  <Button
+                    {...{
+                      variant: "ghost",
+                      className: cn(`-ml-3.5`),
+                      onClick() {
+                        const targetId = "weight";
+
+                        let sort = [...tableSort];
+
+                        let currentDirection = sort.find(
+                          ({ id }) => id === targetId
+                        )?.direction;
+
+                        sort = sort.filter(({ id }) => id !== targetId);
+
+                        let newDirection;
+
+                        if (currentDirection === "desc") {
+                          newDirection = "asc";
+                        } else {
+                          newDirection = "desc";
+                        }
+
+                        sort = [
+                          {
+                            id: targetId,
+                            direction: newDirection,
+                          },
+                          ...sort,
+                        ];
 
                         setTableSort(sort);
                       },

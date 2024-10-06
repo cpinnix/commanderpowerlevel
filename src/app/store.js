@@ -5,12 +5,32 @@ import { differenceInHours } from "date-fns";
 import deckSample from "./deckSample";
 
 const weightHistoryKey = "user.weight.history.v2";
+const deckInputKey = "user.deck";
+
+let historyWeights;
+let deckListInput;
+
+if (typeof localStorage !== "undefined") {
+  historyWeights = localStorage.getItem(weightHistoryKey);
+
+  if (!historyWeights) {
+    historyWeights = [];
+  } else {
+    historyWeights = JSON.parse(historyWeights);
+  }
+
+  historyWeights = historyWeights.filter(
+    ({ timestamp }) => differenceInHours(new Date(), new Date(timestamp)) < 1
+  );
+
+  deckListInput = localStorage.getItem(deckInputKey);
+}
 
 const useStore = create(
   subscribeWithSelector((set) => ({
-    deckListInput: deckSample,
+    deckListInput: deckListInput || deckSample,
     powerWeights: PowerWeights,
-    historyWeights: [],
+    historyWeights: historyWeights,
     deckList: [],
     onChangeHistoryWeights: (historyWeights) =>
       set({
@@ -29,18 +49,6 @@ const useStore = create(
 );
 
 if (typeof localStorage !== "undefined") {
-  let historyWeights = localStorage.getItem(weightHistoryKey);
-
-  if (!historyWeights) {
-    historyWeights = [];
-  } else {
-    historyWeights = JSON.parse(historyWeights);
-  }
-
-  historyWeights = historyWeights.filter(
-    ({ timestamp }) => differenceInHours(new Date(), new Date(timestamp)) < 1
-  );
-
   useStore.subscribe(
     (store) => store.historyWeights,
     (historyWeights) => {
@@ -48,7 +56,12 @@ if (typeof localStorage !== "undefined") {
     }
   );
 
-  useStore.getState().onChangeHistoryWeights(historyWeights);
+  useStore.subscribe(
+    (store) => store.deckListInput,
+    (deckInput) => {
+      localStorage.setItem(deckInputKey, deckInput);
+    }
+  );
 }
 
 export default useStore;
