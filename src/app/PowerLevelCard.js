@@ -8,64 +8,66 @@ export default function PowerLevelCard() {
   const deckListInput = useStore((store) => store.deckListInput);
 
   return (
-    <Card>
-      <CardHeader>
-        <CardTitle>Power Score</CardTitle>
-      </CardHeader>
-      <CardContent>
-        {(() => {
-          try {
-            const deckList = deckListInput.split("\n").map((raw) => {
-              return {
-                count: parseInt(raw.split(" ")[0]),
-                name: raw
-                  .split(" ")
-                  .slice(1)
-                  .join(" ")
-                  .match(new RegExp(/(.*?)(?= \()/))[0],
-              };
-            });
+    deckListInput && (
+      <Card>
+        <CardHeader>
+          <CardTitle>Power Score</CardTitle>
+        </CardHeader>
+        <CardContent>
+          {(() => {
+            try {
+              const deckList = deckListInput.split("\n").map((raw) => {
+                return {
+                  count: parseInt(raw.split(" ")[0]),
+                  name: raw
+                    .split(" ")
+                    .slice(1)
+                    .join(" ")
+                    .match(new RegExp(/(.*?)(?= \()/))[0],
+                };
+              });
 
-            const cardCount = deckList.length;
+              const cardCount = deckList.length;
 
-            let score =
-              deckList.reduce((score, card) => {
-                const { name, count } = card;
+              let score =
+                deckList.reduce((score, card) => {
+                  const { name, count } = card;
 
-                let weight = PowerWeights.find(
-                  (row) => row.name === name
-                )?.weight;
+                  let weight = PowerWeights.find(
+                    (row) => row.name === name
+                  )?.weight;
 
-                if (!weight) {
-                  weight = 5;
-                }
+                  if (!weight) {
+                    weight = 5;
+                  }
 
-                return score + weight * count;
-              }, 0) / cardCount;
+                  return score + weight * count;
+                }, 0) / cardCount;
 
-            score = Math.round(score * 100) / 100;
+              score = Math.round(score * 100) / 100;
 
-            return (
-              <p
-                {...{
-                  className: cn(`text-6xl`, `font-bold`),
-                }}
-              >
-                <LightningBoltIcon
+              return (
+                <p
                   {...{
-                    width: 48,
-                    height: 48,
-                    className: cn(`mb-3`, `text-yellow-500`, `inline`),
+                    className: cn(`text-6xl`, `font-bold`),
                   }}
-                />{" "}
-                {score}
-              </p>
-            );
-          } catch (error) {
-            return <p>Doh! There was an issue.</p>;
-          }
-        })()}
-      </CardContent>
-    </Card>
+                >
+                  <LightningBoltIcon
+                    {...{
+                      width: 48,
+                      height: 48,
+                      className: cn(`mb-3`, `text-yellow-500`, `inline`),
+                    }}
+                  />{" "}
+                  {score}
+                </p>
+              );
+            } catch (error) {
+              return <p>Doh! There was an issue.</p>;
+            }
+          })()}
+        </CardContent>
+      </Card>
+    )
   );
 }

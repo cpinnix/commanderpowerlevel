@@ -32,7 +32,7 @@ export default function DeckTable() {
         const name = parts
           .slice(1)
           .join(" ")
-          .match(new RegExp(/(.*?)(?= \()/))[0];
+          .match(new RegExp(/(.*?)(?= \()/))?.[0];
 
         let powerWeight = powerWeights?.find(
           (weight) => weight.name === name
@@ -57,6 +57,8 @@ export default function DeckTable() {
           overridden,
         };
       });
+
+    data = data.filter(({ name }) => name);
 
     const sort = tableSort;
 

@@ -5,9 +5,11 @@ import {
   CardHeader,
   CardTitle,
   CardDescription,
+  CardFooter,
 } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
 import useStore from "./store";
+import { Button } from "@/components/ui/button";
 
 export default function DeckInput() {
   const deckListInput = useStore((store) => store.deckListInput);
@@ -59,6 +61,18 @@ export default function DeckInput() {
           </p>
         </div>
       </CardContent>
+      <CardFooter className="flex justify-end">
+        <Button
+          {...{
+            variant: "outline",
+            onClick() {
+              onChangeDecklistInput("");
+            },
+          }}
+        >
+          Clear
+        </Button>
+      </CardFooter>
     </Card>
   );
 }
