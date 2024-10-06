@@ -19,7 +19,7 @@ export async function POST(request, response) {
   const date = new Date();
 
   const key = format(date, "yyyy_MM_dd_hh_mm_ss") + v4();
-  const bucket = "commanderpowerlevel";
+  const bucket = process.env.AWS_BUCKET_WEIGHTS;
   const body = JSON.stringify({
     ...data,
     date: date.toISOString(),

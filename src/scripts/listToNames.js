@@ -92,11 +92,4 @@ const deckList = deckListInput.split("\n").map((raw) => {
   };
 });
 
-// console.log(deckList[0]);
-// .map((raw) => raw.split(" "))
-// .map((parts) => ({
-//   count: parseInt(parts[0]),
-//   name: parts.slice(1, -2).join(" "),
-// }));
-
 deckList.forEach((card) => console.log(card.name));
